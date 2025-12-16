@@ -1,0 +1,12 @@
+# Checkpoints and large files
+benchmark/
+ckpt/unipercept
+results/
+src/open-r1-multimodal/
+*.ckpt
+*.pth
+
+# others
+**/__pycache__/
+*.py[cod]
+results/
