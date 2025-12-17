@@ -1,0 +1,8898 @@
+[
+    {
+        "image": "00001.jpg",
+        "gt_score": 48.86
+    },
+    {
+        "image": "00007.jpg",
+        "gt_score": 73.0
+    },
+    {
+        "image": "00009.jpg",
+        "gt_score": 12.5
+    },
+    {
+        "image": "00010.jpg",
+        "gt_score": 56.25
+    },
+    {
+        "image": "00020.jpg",
+        "gt_score": 59.88
+    },
+    {
+        "image": "00021.jpg",
+        "gt_score": 74.13
+    },
+    {
+        "image": "00025.jpg",
+        "gt_score": 56.0
+    },
+    {
+        "image": "00037.jpg",
+        "gt_score": 64.71
+    },
+    {
+        "image": "00040.jpg",
+        "gt_score": 25.17
+    },
+    {
+        "image": "00042.jpg",
+        "gt_score": 50.29
+    },
+    {
+        "image": "00043.jpg",
+        "gt_score": 51.83
+    },
+    {
+        "image": "00050.jpg",
+        "gt_score": 58.83
+    },
+    {
+        "image": "00065.jpg",
+        "gt_score": 32.78
+    },
+    {
+        "image": "00067.jpg",
+        "gt_score": 67.86
+    },
+    {
+        "image": "00073.jpg",
+        "gt_score": 34.4
+    },
+    {
+        "image": "00078.jpg",
+        "gt_score": 67.14
+    },
+    {
+        "image": "00081.jpg",
+        "gt_score": 7.43
+    },
+    {
+        "image": "00084.jpg",
+        "gt_score": 46.71
+    },
+    {
+        "image": "00086.jpg",
+        "gt_score": 32.86
+    },
+    {
+        "image": "00089.jpg",
+        "gt_score": 73.88
+    },
+    {
+        "image": "00098.jpg",
+        "gt_score": 49.14
+    },
+    {
+        "image": "00101.jpg",
+        "gt_score": 16.0
+    },
+    {
+        "image": "00103.jpg",
+        "gt_score": 42.5
+    },
+    {
+        "image": "00104.jpg",
+        "gt_score": 58.88
+    },
+    {
+        "image": "00109.jpg",
+        "gt_score": 60.13
+    },
+    {
+        "image": "00111.jpg",
+        "gt_score": 43.57
+    },
+    {
+        "image": "00121.jpg",
+        "gt_score": 64.57
+    },
+    {
+        "image": "00127.jpg",
+        "gt_score": 77.38
+    },
+    {
+        "image": "00130.jpg",
+        "gt_score": 12.83
+    },
+    {
+        "image": "00131.jpg",
+        "gt_score": 42.44
+    },
+    {
+        "image": "00133.jpg",
+        "gt_score": 71.89
+    },
+    {
+        "image": "00140.jpg",
+        "gt_score": 22.0
+    },
+    {
+        "image": "00146.jpg",
+        "gt_score": 34.0
+    },
+    {
+        "image": "00156.jpg",
+        "gt_score": 34.0
+    },
+    {
+        "image": "00157.jpg",
+        "gt_score": 79.89
+    },
+    {
+        "image": "00161.jpg",
+        "gt_score": 37.18
+    },
+    {
+        "image": "00163.jpg",
+        "gt_score": 80.56
+    },
+    {
+        "image": "00175.jpg",
+        "gt_score": 23.0
+    },
+    {
+        "image": "00182.jpg",
+        "gt_score": 80.5
+    },
+    {
+        "image": "00193.jpg",
+        "gt_score": 37.11
+    },
+    {
+        "image": "00197.jpg",
+        "gt_score": 39.33
+    },
+    {
+        "image": "00198.jpg",
+        "gt_score": 42.25
+    },
+    {
+        "image": "00200.jpg",
+        "gt_score": 75.38
+    },
+    {
+        "image": "00201.jpg",
+        "gt_score": 34.5
+    },
+    {
+        "image": "00207.jpg",
+        "gt_score": 57.56
+    },
+    {
+        "image": "00209.jpg",
+        "gt_score": 34.29
+    },
+    {
+        "image": "00228.jpg",
+        "gt_score": 73.83
+    },
+    {
+        "image": "00242.jpg",
+        "gt_score": 30.14
+    },
+    {
+        "image": "00244.jpg",
+        "gt_score": 26.0
+    },
+    {
+        "image": "00257.jpg",
+        "gt_score": 22.08
+    },
+    {
+        "image": "00258.jpg",
+        "gt_score": 57.0
+    },
+    {
+        "image": "00270.jpg",
+        "gt_score": 69.58
+    },
+    {
+        "image": "00281.jpg",
+        "gt_score": 81.18
+    },
+    {
+        "image": "00299.jpg",
+        "gt_score": 46.45
+    },
+    {
+        "image": "00302.jpg",
+        "gt_score": 34.64
+    },
+    {
+        "image": "00310.jpg",
+        "gt_score": 62.8
+    },
+    {
+        "image": "00313.jpg",
+        "gt_score": 54.55
+    },
+    {
+        "image": "00327.jpg",
+        "gt_score": 59.92
+    },
+    {
+        "image": "00329.jpg",
+        "gt_score": 33.55
+    },
+    {
+        "image": "00333.jpg",
+        "gt_score": 61.5
+    },
+    {
+        "image": "00337.jpg",
+        "gt_score": 67.43
+    },
+    {
+        "image": "00352.jpg",
+        "gt_score": 57.71
+    },
+    {
+        "image": "00361.jpg",
+        "gt_score": 22.63
+    },
+    {
+        "image": "00369.jpg",
+        "gt_score": 5.63
+    },
+    {
+        "image": "00373.jpg",
+        "gt_score": 38.05
+    },
+    {
+        "image": "00374.jpg",
+        "gt_score": 62.82
+    },
+    {
+        "image": "00375.jpg",
+        "gt_score": 71.88
+    },
+    {
+        "image": "00376.jpg",
+        "gt_score": 35.28
+    },
+    {
+        "image": "00383.jpg",
+        "gt_score": 69.75
+    },
+    {
+        "image": "00387.jpg",
+        "gt_score": 65.72
+    },
+    {
+        "image": "00389.jpg",
+        "gt_score": 33.12
+    },
+    {
+        "image": "00400.jpg",
+        "gt_score": 80.33
+    },
+    {
+        "image": "00405.jpg",
+        "gt_score": 43.07
+    },
+    {
+        "image": "00408.jpg",
+        "gt_score": 47.31
+    },
+    {
+        "image": "00410.jpg",
+        "gt_score": 32.47
+    },
+    {
+        "image": "00417.jpg",
+        "gt_score": 72.5
+    },
+    {
+        "image": "00421.jpg",
+        "gt_score": 35.14
+    },
+    {
+        "image": "00422.jpg",
+        "gt_score": 78.86
+    },
+    {
+        "image": "00425.jpg",
+        "gt_score": 84.56
+    },
+    {
+        "image": "00426.jpg",
+        "gt_score": 41.83
+    },
+    {
+        "image": "00434.jpg",
+        "gt_score": 32.5
+    },
+    {
+        "image": "00437.jpg",
+        "gt_score": 19.57
+    },
+    {
+        "image": "00439.jpg",
+        "gt_score": 34.33
+    },
+    {
+        "image": "00442.jpg",
+        "gt_score": 66.38
+    },
+    {
+        "image": "00445.jpg",
+        "gt_score": 49.63
+    },
+    {
+        "image": "00457.jpg",
+        "gt_score": 32.71
+    },
+    {
+        "image": "00466.jpg",
+        "gt_score": 61.67
+    },
+    {
+        "image": "00468.jpg",
+        "gt_score": 74.5
+    },
+    {
+        "image": "00471.jpg",
+        "gt_score": 37.57
+    },
+    {
+        "image": "00482.jpg",
+        "gt_score": 32.14
+    },
+    {
+        "image": "00487.jpg",
+        "gt_score": 83.5
+    },
+    {
+        "image": "00488.jpg",
+        "gt_score": 33.33
+    },
+    {
+        "image": "00489.jpg",
+        "gt_score": 69.5
+    },
+    {
+        "image": "00506.jpg",
+        "gt_score": 58.75
+    },
+    {
+        "image": "00509.jpg",
+        "gt_score": 27.3
+    },
+    {
+        "image": "00511.jpg",
+        "gt_score": 54.8
+    },
+    {
+        "image": "00512.jpg",
+        "gt_score": 46.5
+    },
+    {
+        "image": "00522.jpg",
+        "gt_score": 74.27
+    },
+    {
+        "image": "00523.jpg",
+        "gt_score": 23.18
+    },
+    {
+        "image": "00524.jpg",
+        "gt_score": 74.44
+    },
+    {
+        "image": "00539.jpg",
+        "gt_score": 28.5
+    },
+    {
+        "image": "00543.jpg",
+        "gt_score": 80.27
+    },
+    {
+        "image": "00544.jpg",
+        "gt_score": 48.45
+    },
+    {
+        "image": "00547.jpg",
+        "gt_score": 77.17
+    },
+    {
+        "image": "00548.jpg",
+        "gt_score": 61.9
+    },
+    {
+        "image": "00549.jpg",
+        "gt_score": 61.45
+    },
+    {
+        "image": "00551.jpg",
+        "gt_score": 36.92
+    },
+    {
+        "image": "00555.jpg",
+        "gt_score": 33.4
+    },
+    {
+        "image": "00563.jpg",
+        "gt_score": 81.58
+    },
+    {
+        "image": "00564.jpg",
+        "gt_score": 27.11
+    },
+    {
+        "image": "00576.jpg",
+        "gt_score": 16.11
+    },
+    {
+        "image": "00577.jpg",
+        "gt_score": 21.11
+    },
+    {
+        "image": "00578.jpg",
+        "gt_score": 68.16
+    },
+    {
+        "image": "00581.jpg",
+        "gt_score": 23.0
+    },
+    {
+        "image": "00587.jpg",
+        "gt_score": 49.76
+    },
+    {
+        "image": "00595.jpg",
+        "gt_score": 61.72
+    },
+    {
+        "image": "00597.jpg",
+        "gt_score": 76.88
+    },
+    {
+        "image": "00603.jpg",
+        "gt_score": 64.17
+    },
+    {
+        "image": "00607.jpg",
+        "gt_score": 70.12
+    },
+    {
+        "image": "00617.jpg",
+        "gt_score": 64.17
+    },
+    {
+        "image": "00623.jpg",
+        "gt_score": 27.67
+    },
+    {
+        "image": "00631.jpg",
+        "gt_score": 40.13
+    },
+    {
+        "image": "00639.jpg",
+        "gt_score": 73.14
+    },
+    {
+        "image": "00642.jpg",
+        "gt_score": 41.0
+    },
+    {
+        "image": "00643.jpg",
+        "gt_score": 26.71
+    },
+    {
+        "image": "00644.jpg",
+        "gt_score": 34.13
+    },
+    {
+        "image": "00645.jpg",
+        "gt_score": 53.38
+    },
+    {
+        "image": "00648.jpg",
+        "gt_score": 30.57
+    },
+    {
+        "image": "00649.jpg",
+        "gt_score": 81.43
+    },
+    {
+        "image": "00666.jpg",
+        "gt_score": 57.43
+    },
+    {
+        "image": "00673.jpg",
+        "gt_score": 66.13
+    },
+    {
+        "image": "00680.jpg",
+        "gt_score": 51.57
+    },
+    {
+        "image": "00687.jpg",
+        "gt_score": 38.86
+    },
+    {
+        "image": "00691.jpg",
+        "gt_score": 46.57
+    },
+    {
+        "image": "00699.jpg",
+        "gt_score": 46.38
+    },
+    {
+        "image": "00701.jpg",
+        "gt_score": 40.35
+    },
+    {
+        "image": "00703.jpg",
+        "gt_score": 33.47
+    },
+    {
+        "image": "00712.jpg",
+        "gt_score": 8.82
+    },
+    {
+        "image": "00718.jpg",
+        "gt_score": 84.06
+    },
+    {
+        "image": "00720.jpg",
+        "gt_score": 46.18
+    },
+    {
+        "image": "00724.jpg",
+        "gt_score": 37.4
+    },
+    {
+        "image": "00728.jpg",
+        "gt_score": 45.81
+    },
+    {
+        "image": "00731.jpg",
+        "gt_score": 37.0
+    },
+    {
+        "image": "00732.jpg",
+        "gt_score": 50.71
+    },
+    {
+        "image": "00738.jpg",
+        "gt_score": 65.27
+    },
+    {
+        "image": "00739.jpg",
+        "gt_score": 61.13
+    },
+    {
+        "image": "00749.jpg",
+        "gt_score": 33.47
+    },
+    {
+        "image": "00750.jpg",
+        "gt_score": 36.07
+    },
+    {
+        "image": "00752.jpg",
+        "gt_score": 25.19
+    },
+    {
+        "image": "00762.jpg",
+        "gt_score": 37.81
+    },
+    {
+        "image": "00771.jpg",
+        "gt_score": 26.67
+    },
+    {
+        "image": "00772.jpg",
+        "gt_score": 35.33
+    },
+    {
+        "image": "00776.jpg",
+        "gt_score": 36.5
+    },
+    {
+        "image": "00778.jpg",
+        "gt_score": 43.5
+    },
+    {
+        "image": "00779.jpg",
+        "gt_score": 52.83
+    },
+    {
+        "image": "00782.jpg",
+        "gt_score": 83.14
+    },
+    {
+        "image": "00787.jpg",
+        "gt_score": 61.17
+    },
+    {
+        "image": "00796.jpg",
+        "gt_score": 25.43
+    },
+    {
+        "image": "00797.jpg",
+        "gt_score": 17.86
+    },
+    {
+        "image": "00798.jpg",
+        "gt_score": 42.43
+    },
+    {
+        "image": "00800.jpg",
+        "gt_score": 44.5
+    },
+    {
+        "image": "00803.jpg",
+        "gt_score": 71.17
+    },
+    {
+        "image": "00807.jpg",
+        "gt_score": 35.29
+    },
+    {
+        "image": "00809.jpg",
+        "gt_score": 63.25
+    },
+    {
+        "image": "00811.jpg",
+        "gt_score": 59.0
+    },
+    {
+        "image": "00817.jpg",
+        "gt_score": 36.0
+    },
+    {
+        "image": "00819.jpg",
+        "gt_score": 36.83
+    },
+    {
+        "image": "00823.jpg",
+        "gt_score": 80.57
+    },
+    {
+        "image": "00840.jpg",
+        "gt_score": 47.29
+    },
+    {
+        "image": "00842.jpg",
+        "gt_score": 28.77
+    },
+    {
+        "image": "00846.jpg",
+        "gt_score": 48.21
+    },
+    {
+        "image": "00848.jpg",
+        "gt_score": 51.5
+    },
+    {
+        "image": "00859.jpg",
+        "gt_score": 67.0
+    },
+    {
+        "image": "00864.jpg",
+        "gt_score": 31.54
+    },
+    {
+        "image": "00868.jpg",
+        "gt_score": 67.83
+    },
+    {
+        "image": "00870.jpg",
+        "gt_score": 59.08
+    },
+    {
+        "image": "00883.jpg",
+        "gt_score": 15.5
+    },
+    {
+        "image": "00884.jpg",
+        "gt_score": 82.31
+    },
+    {
+        "image": "00885.jpg",
+        "gt_score": 28.07
+    },
+    {
+        "image": "00889.jpg",
+        "gt_score": 23.69
+    },
+    {
+        "image": "00890.jpg",
+        "gt_score": 28.25
+    },
+    {
+        "image": "00891.jpg",
+        "gt_score": 34.42
+    },
+    {
+        "image": "00894.jpg",
+        "gt_score": 34.91
+    },
+    {
+        "image": "00896.jpg",
+        "gt_score": 28.0
+    },
+    {
+        "image": "00898.jpg",
+        "gt_score": 65.15
+    },
+    {
+        "image": "00904.jpg",
+        "gt_score": 67.85
+    },
+    {
+        "image": "00922.jpg",
+        "gt_score": 61.92
+    },
+    {
+        "image": "00933.jpg",
+        "gt_score": 49.83
+    },
+    {
+        "image": "00936.jpg",
+        "gt_score": 67.0
+    },
+    {
+        "image": "00942.jpg",
+        "gt_score": 77.58
+    },
+    {
+        "image": "00943.jpg",
+        "gt_score": 76.73
+    },
+    {
+        "image": "00944.jpg",
+        "gt_score": 53.83
+    },
+    {
+        "image": "00945.jpg",
+        "gt_score": 42.33
+    },
+    {
+        "image": "00949.jpg",
+        "gt_score": 69.73
+    },
+    {
+        "image": "00951.jpg",
+        "gt_score": 35.18
+    },
+    {
+        "image": "00955.jpg",
+        "gt_score": 70.58
+    },
+    {
+        "image": "00956.jpg",
+        "gt_score": 44.73
+    },
+    {
+        "image": "00964.jpg",
+        "gt_score": 74.4
+    },
+    {
+        "image": "00966.jpg",
+        "gt_score": 63.9
+    },
+    {
+        "image": "00969.jpg",
+        "gt_score": 55.2
+    },
+    {
+        "image": "00976.jpg",
+        "gt_score": 55.55
+    },
+    {
+        "image": "00978.jpg",
+        "gt_score": 66.5
+    },
+    {
+        "image": "00986.jpg",
+        "gt_score": 53.44
+    },
+    {
+        "image": "00987.jpg",
+        "gt_score": 15.0
+    },
+    {
+        "image": "00989.jpg",
+        "gt_score": 25.0
+    },
+    {
+        "image": "00994.jpg",
+        "gt_score": 51.5
+    },
+    {
+        "image": "00999.jpg",
+        "gt_score": 87.33
+    },
+    {
+        "image": "01002.jpg",
+        "gt_score": 64.5
+    },
+    {
+        "image": "01008.jpg",
+        "gt_score": 61.5
+    },
+    {
+        "image": "01012.jpg",
+        "gt_score": 11.13
+    },
+    {
+        "image": "01016.jpg",
+        "gt_score": 38.14
+    },
+    {
+        "image": "01018.jpg",
+        "gt_score": 51.75
+    },
+    {
+        "image": "01019.jpg",
+        "gt_score": 17.14
+    },
+    {
+        "image": "01020.jpg",
+        "gt_score": 39.57
+    },
+    {
+        "image": "01023.jpg",
+        "gt_score": 35.57
+    },
+    {
+        "image": "01024.jpg",
+        "gt_score": 32.25
+    },
+    {
+        "image": "01025.jpg",
+        "gt_score": 78.57
+    },
+    {
+        "image": "01045.jpg",
+        "gt_score": 74.14
+    },
+    {
+        "image": "01047.jpg",
+        "gt_score": 64.71
+    },
+    {
+        "image": "01049.jpg",
+        "gt_score": 9.63
+    },
+    {
+        "image": "01052.jpg",
+        "gt_score": 28.58
+    },
+    {
+        "image": "01058.jpg",
+        "gt_score": 79.77
+    },
+    {
+        "image": "01060.jpg",
+        "gt_score": 44.83
+    },
+    {
+        "image": "01063.jpg",
+        "gt_score": 51.64
+    },
+    {
+        "image": "01067.jpg",
+        "gt_score": 42.36
+    },
+    {
+        "image": "01068.jpg",
+        "gt_score": 56.23
+    },
+    {
+        "image": "01073.jpg",
+        "gt_score": 64.08
+    },
+    {
+        "image": "01078.jpg",
+        "gt_score": 67.36
+    },
+    {
+        "image": "01082.jpg",
+        "gt_score": 51.64
+    },
+    {
+        "image": "01086.jpg",
+        "gt_score": 32.54
+    },
+    {
+        "image": "01087.jpg",
+        "gt_score": 43.5
+    },
+    {
+        "image": "01089.jpg",
+        "gt_score": 53.46
+    },
+    {
+        "image": "01093.jpg",
+        "gt_score": 65.5
+    },
+    {
+        "image": "01102.jpg",
+        "gt_score": 72.77
+    },
+    {
+        "image": "01108.jpg",
+        "gt_score": 77.5
+    },
+    {
+        "image": "01114.jpg",
+        "gt_score": 41.5
+    },
+    {
+        "image": "01117.jpg",
+        "gt_score": 28.0
+    },
+    {
+        "image": "01120.jpg",
+        "gt_score": 47.2
+    },
+    {
+        "image": "01123.jpg",
+        "gt_score": 35.63
+    },
+    {
+        "image": "01127.jpg",
+        "gt_score": 51.63
+    },
+    {
+        "image": "01130.jpg",
+        "gt_score": 63.56
+    },
+    {
+        "image": "01134.jpg",
+        "gt_score": 60.5
+    },
+    {
+        "image": "01140.jpg",
+        "gt_score": 16.22
+    },
+    {
+        "image": "01145.jpg",
+        "gt_score": 75.63
+    },
+    {
+        "image": "01156.jpg",
+        "gt_score": 36.56
+    },
+    {
+        "image": "01160.jpg",
+        "gt_score": 31.4
+    },
+    {
+        "image": "01163.jpg",
+        "gt_score": 34.13
+    },
+    {
+        "image": "01164.jpg",
+        "gt_score": 58.75
+    },
+    {
+        "image": "01165.jpg",
+        "gt_score": 69.67
+    },
+    {
+        "image": "01173.jpg",
+        "gt_score": 70.88
+    },
+    {
+        "image": "01176.jpg",
+        "gt_score": 60.25
+    },
+    {
+        "image": "01179.jpg",
+        "gt_score": 62.38
+    },
+    {
+        "image": "01184.jpg",
+        "gt_score": 62.29
+    },
+    {
+        "image": "01185.jpg",
+        "gt_score": 26.57
+    },
+    {
+        "image": "01186.jpg",
+        "gt_score": 28.13
+    },
+    {
+        "image": "01200.jpg",
+        "gt_score": 42.29
+    },
+    {
+        "image": "01202.jpg",
+        "gt_score": 85.14
+    },
+    {
+        "image": "01205.jpg",
+        "gt_score": 57.86
+    },
+    {
+        "image": "01209.jpg",
+        "gt_score": 83.14
+    },
+    {
+        "image": "01210.jpg",
+        "gt_score": 61.14
+    },
+    {
+        "image": "01224.jpg",
+        "gt_score": 33.0
+    },
+    {
+        "image": "01235.jpg",
+        "gt_score": 85.71
+    },
+    {
+        "image": "01239.jpg",
+        "gt_score": 26.0
+    },
+    {
+        "image": "01254.jpg",
+        "gt_score": 29.22
+    },
+    {
+        "image": "01256.jpg",
+        "gt_score": 27.63
+    },
+    {
+        "image": "01260.jpg",
+        "gt_score": 79.13
+    },
+    {
+        "image": "01278.jpg",
+        "gt_score": 73.31
+    },
+    {
+        "image": "01279.jpg",
+        "gt_score": 42.27
+    },
+    {
+        "image": "01280.jpg",
+        "gt_score": 49.42
+    },
+    {
+        "image": "01281.jpg",
+        "gt_score": 73.42
+    },
+    {
+        "image": "01289.jpg",
+        "gt_score": 42.36
+    },
+    {
+        "image": "01296.jpg",
+        "gt_score": 42.92
+    },
+    {
+        "image": "01299.jpg",
+        "gt_score": 44.27
+    },
+    {
+        "image": "01312.jpg",
+        "gt_score": 13.08
+    },
+    {
+        "image": "01316.jpg",
+        "gt_score": 24.69
+    },
+    {
+        "image": "01320.jpg",
+        "gt_score": 65.54
+    },
+    {
+        "image": "01322.jpg",
+        "gt_score": 49.73
+    },
+    {
+        "image": "01330.jpg",
+        "gt_score": 37.91
+    },
+    {
+        "image": "01332.jpg",
+        "gt_score": 46.73
+    },
+    {
+        "image": "01347.jpg",
+        "gt_score": 59.75
+    },
+    {
+        "image": "01360.jpg",
+        "gt_score": 29.91
+    },
+    {
+        "image": "01364.jpg",
+        "gt_score": 34.55
+    },
+    {
+        "image": "01373.jpg",
+        "gt_score": 78.25
+    },
+    {
+        "image": "01374.jpg",
+        "gt_score": 71.0
+    },
+    {
+        "image": "01377.jpg",
+        "gt_score": 47.45
+    },
+    {
+        "image": "01379.jpg",
+        "gt_score": 83.8
+    },
+    {
+        "image": "01380.jpg",
+        "gt_score": 37.8
+    },
+    {
+        "image": "01383.jpg",
+        "gt_score": 61.45
+    },
+    {
+        "image": "01387.jpg",
+        "gt_score": 33.75
+    },
+    {
+        "image": "01390.jpg",
+        "gt_score": 44.55
+    },
+    {
+        "image": "01393.jpg",
+        "gt_score": 76.67
+    },
+    {
+        "image": "01396.jpg",
+        "gt_score": 75.9
+    },
+    {
+        "image": "01398.jpg",
+        "gt_score": 15.7
+    },
+    {
+        "image": "01418.jpg",
+        "gt_score": 57.08
+    },
+    {
+        "image": "01426.jpg",
+        "gt_score": 32.2
+    },
+    {
+        "image": "01430.jpg",
+        "gt_score": 27.2
+    },
+    {
+        "image": "01435.jpg",
+        "gt_score": 65.2
+    },
+    {
+        "image": "01439.jpg",
+        "gt_score": 38.73
+    },
+    {
+        "image": "01442.jpg",
+        "gt_score": 40.6
+    },
+    {
+        "image": "01446.jpg",
+        "gt_score": 34.0
+    },
+    {
+        "image": "01454.jpg",
+        "gt_score": 18.33
+    },
+    {
+        "image": "01461.jpg",
+        "gt_score": 60.9
+    },
+    {
+        "image": "01462.jpg",
+        "gt_score": 55.45
+    },
+    {
+        "image": "01467.jpg",
+        "gt_score": 56.89
+    },
+    {
+        "image": "01473.jpg",
+        "gt_score": 49.44
+    },
+    {
+        "image": "01475.jpg",
+        "gt_score": 45.22
+    },
+    {
+        "image": "01479.jpg",
+        "gt_score": 65.11
+    },
+    {
+        "image": "01483.jpg",
+        "gt_score": 40.0
+    },
+    {
+        "image": "01488.jpg",
+        "gt_score": 28.78
+    },
+    {
+        "image": "01489.jpg",
+        "gt_score": 30.5
+    },
+    {
+        "image": "01492.jpg",
+        "gt_score": 44.56
+    },
+    {
+        "image": "01500.jpg",
+        "gt_score": 79.55
+    },
+    {
+        "image": "01511.jpg",
+        "gt_score": 27.67
+    },
+    {
+        "image": "01512.jpg",
+        "gt_score": 75.33
+    },
+    {
+        "image": "01513.jpg",
+        "gt_score": 79.13
+    },
+    {
+        "image": "01521.jpg",
+        "gt_score": 72.25
+    },
+    {
+        "image": "01529.jpg",
+        "gt_score": 24.67
+    },
+    {
+        "image": "01536.jpg",
+        "gt_score": 57.63
+    },
+    {
+        "image": "01548.jpg",
+        "gt_score": 68.36
+    },
+    {
+        "image": "01553.jpg",
+        "gt_score": 51.07
+    },
+    {
+        "image": "01560.jpg",
+        "gt_score": 27.64
+    },
+    {
+        "image": "01570.jpg",
+        "gt_score": 48.29
+    },
+    {
+        "image": "01585.jpg",
+        "gt_score": 67.69
+    },
+    {
+        "image": "01592.jpg",
+        "gt_score": 35.75
+    },
+    {
+        "image": "01596.jpg",
+        "gt_score": 62.36
+    },
+    {
+        "image": "01600.jpg",
+        "gt_score": 26.86
+    },
+    {
+        "image": "01602.jpg",
+        "gt_score": 45.08
+    },
+    {
+        "image": "01604.jpg",
+        "gt_score": 63.07
+    },
+    {
+        "image": "01605.jpg",
+        "gt_score": 32.53
+    },
+    {
+        "image": "01609.jpg",
+        "gt_score": 28.23
+    },
+    {
+        "image": "01620.jpg",
+        "gt_score": 42.17
+    },
+    {
+        "image": "01621.jpg",
+        "gt_score": 64.4
+    },
+    {
+        "image": "01622.jpg",
+        "gt_score": 32.0
+    },
+    {
+        "image": "01628.jpg",
+        "gt_score": 64.1
+    },
+    {
+        "image": "01634.jpg",
+        "gt_score": 6.1
+    },
+    {
+        "image": "01637.jpg",
+        "gt_score": 76.0
+    },
+    {
+        "image": "01649.jpg",
+        "gt_score": 29.91
+    },
+    {
+        "image": "01656.jpg",
+        "gt_score": 66.0
+    },
+    {
+        "image": "01658.jpg",
+        "gt_score": 36.56
+    },
+    {
+        "image": "01660.jpg",
+        "gt_score": 46.57
+    },
+    {
+        "image": "01666.jpg",
+        "gt_score": 33.25
+    },
+    {
+        "image": "01673.jpg",
+        "gt_score": 42.22
+    },
+    {
+        "image": "01674.jpg",
+        "gt_score": 51.88
+    },
+    {
+        "image": "01677.jpg",
+        "gt_score": 29.57
+    },
+    {
+        "image": "01686.jpg",
+        "gt_score": 43.13
+    },
+    {
+        "image": "01696.jpg",
+        "gt_score": 49.75
+    },
+    {
+        "image": "01703.jpg",
+        "gt_score": 50.11
+    },
+    {
+        "image": "01710.jpg",
+        "gt_score": 14.75
+    },
+    {
+        "image": "01717.jpg",
+        "gt_score": 69.86
+    },
+    {
+        "image": "01719.jpg",
+        "gt_score": 55.7
+    },
+    {
+        "image": "01720.jpg",
+        "gt_score": 63.56
+    },
+    {
+        "image": "01723.jpg",
+        "gt_score": 78.57
+    },
+    {
+        "image": "01725.jpg",
+        "gt_score": 39.88
+    },
+    {
+        "image": "01726.jpg",
+        "gt_score": 20.14
+    },
+    {
+        "image": "01737.jpg",
+        "gt_score": 36.0
+    },
+    {
+        "image": "01744.jpg",
+        "gt_score": 73.86
+    },
+    {
+        "image": "01747.jpg",
+        "gt_score": 66.63
+    },
+    {
+        "image": "01754.jpg",
+        "gt_score": 61.57
+    },
+    {
+        "image": "01763.jpg",
+        "gt_score": 23.64
+    },
+    {
+        "image": "01779.jpg",
+        "gt_score": 70.58
+    },
+    {
+        "image": "01783.jpg",
+        "gt_score": 30.07
+    },
+    {
+        "image": "01803.jpg",
+        "gt_score": 46.54
+    },
+    {
+        "image": "01818.jpg",
+        "gt_score": 65.21
+    },
+    {
+        "image": "01829.jpg",
+        "gt_score": 66.5
+    },
+    {
+        "image": "01831.jpg",
+        "gt_score": 38.11
+    },
+    {
+        "image": "01832.jpg",
+        "gt_score": 78.09
+    },
+    {
+        "image": "01839.jpg",
+        "gt_score": 32.18
+    },
+    {
+        "image": "01848.jpg",
+        "gt_score": 23.6
+    },
+    {
+        "image": "01850.jpg",
+        "gt_score": 51.78
+    },
+    {
+        "image": "01851.jpg",
+        "gt_score": 72.56
+    },
+    {
+        "image": "01862.jpg",
+        "gt_score": 71.0
+    },
+    {
+        "image": "01863.jpg",
+        "gt_score": 25.5
+    },
+    {
+        "image": "01867.jpg",
+        "gt_score": 63.8
+    },
+    {
+        "image": "01870.jpg",
+        "gt_score": 40.82
+    },
+    {
+        "image": "01889.jpg",
+        "gt_score": 21.75
+    },
+    {
+        "image": "01890.jpg",
+        "gt_score": 63.38
+    },
+    {
+        "image": "01893.jpg",
+        "gt_score": 44.22
+    },
+    {
+        "image": "01895.jpg",
+        "gt_score": 61.44
+    },
+    {
+        "image": "01896.jpg",
+        "gt_score": 29.91
+    },
+    {
+        "image": "01906.jpg",
+        "gt_score": 77.33
+    },
+    {
+        "image": "01907.jpg",
+        "gt_score": 78.56
+    },
+    {
+        "image": "01908.jpg",
+        "gt_score": 25.22
+    },
+    {
+        "image": "01911.jpg",
+        "gt_score": 28.33
+    },
+    {
+        "image": "01917.jpg",
+        "gt_score": 80.67
+    },
+    {
+        "image": "01919.jpg",
+        "gt_score": 20.3
+    },
+    {
+        "image": "01923.jpg",
+        "gt_score": 26.9
+    },
+    {
+        "image": "01942.jpg",
+        "gt_score": 87.11
+    },
+    {
+        "image": "01943.jpg",
+        "gt_score": 54.22
+    },
+    {
+        "image": "01944.jpg",
+        "gt_score": 69.0
+    },
+    {
+        "image": "01946.jpg",
+        "gt_score": 45.67
+    },
+    {
+        "image": "01949.jpg",
+        "gt_score": 55.56
+    },
+    {
+        "image": "01953.jpg",
+        "gt_score": 64.67
+    },
+    {
+        "image": "01958.jpg",
+        "gt_score": 12.11
+    },
+    {
+        "image": "01959.jpg",
+        "gt_score": 15.11
+    },
+    {
+        "image": "01968.jpg",
+        "gt_score": 50.2
+    },
+    {
+        "image": "01970.jpg",
+        "gt_score": 65.6
+    },
+    {
+        "image": "01973.jpg",
+        "gt_score": 28.56
+    },
+    {
+        "image": "01975.jpg",
+        "gt_score": 51.5
+    },
+    {
+        "image": "01979.jpg",
+        "gt_score": 52.45
+    },
+    {
+        "image": "01981.jpg",
+        "gt_score": 67.0
+    },
+    {
+        "image": "01982.jpg",
+        "gt_score": 62.0
+    },
+    {
+        "image": "01996.jpg",
+        "gt_score": 48.36
+    },
+    {
+        "image": "02021.jpg",
+        "gt_score": 78.22
+    },
+    {
+        "image": "02028.jpg",
+        "gt_score": 24.89
+    },
+    {
+        "image": "02046.jpg",
+        "gt_score": 42.29
+    },
+    {
+        "image": "02047.jpg",
+        "gt_score": 31.29
+    },
+    {
+        "image": "02050.jpg",
+        "gt_score": 26.25
+    },
+    {
+        "image": "02053.jpg",
+        "gt_score": 76.14
+    },
+    {
+        "image": "02057.jpg",
+        "gt_score": 51.57
+    },
+    {
+        "image": "02066.jpg",
+        "gt_score": 20.43
+    },
+    {
+        "image": "02072.jpg",
+        "gt_score": 66.29
+    },
+    {
+        "image": "02073.jpg",
+        "gt_score": 53.71
+    },
+    {
+        "image": "02082.jpg",
+        "gt_score": 62.25
+    },
+    {
+        "image": "02083.jpg",
+        "gt_score": 41.29
+    },
+    {
+        "image": "02085.jpg",
+        "gt_score": 72.63
+    },
+    {
+        "image": "02090.jpg",
+        "gt_score": 71.13
+    },
+    {
+        "image": "02091.jpg",
+        "gt_score": 53.75
+    },
+    {
+        "image": "02095.jpg",
+        "gt_score": 24.0
+    },
+    {
+        "image": "02097.jpg",
+        "gt_score": 24.0
+    },
+    {
+        "image": "02098.jpg",
+        "gt_score": 24.0
+    },
+    {
+        "image": "02101.jpg",
+        "gt_score": 37.5
+    },
+    {
+        "image": "02108.jpg",
+        "gt_score": 79.43
+    },
+    {
+        "image": "02118.jpg",
+        "gt_score": 60.57
+    },
+    {
+        "image": "02119.jpg",
+        "gt_score": 63.14
+    },
+    {
+        "image": "02127.jpg",
+        "gt_score": 65.5
+    },
+    {
+        "image": "02132.jpg",
+        "gt_score": 72.54
+    },
+    {
+        "image": "02141.jpg",
+        "gt_score": 17.71
+    },
+    {
+        "image": "02146.jpg",
+        "gt_score": 21.85
+    },
+    {
+        "image": "02149.jpg",
+        "gt_score": 28.08
+    },
+    {
+        "image": "02150.jpg",
+        "gt_score": 28.75
+    },
+    {
+        "image": "02158.jpg",
+        "gt_score": 66.69
+    },
+    {
+        "image": "02161.jpg",
+        "gt_score": 34.31
+    },
+    {
+        "image": "02165.jpg",
+        "gt_score": 71.42
+    },
+    {
+        "image": "02167.jpg",
+        "gt_score": 73.71
+    },
+    {
+        "image": "02173.jpg",
+        "gt_score": 58.0
+    },
+    {
+        "image": "02179.jpg",
+        "gt_score": 80.83
+    },
+    {
+        "image": "02181.jpg",
+        "gt_score": 59.67
+    },
+    {
+        "image": "02182.jpg",
+        "gt_score": 17.17
+    },
+    {
+        "image": "02194.jpg",
+        "gt_score": 61.43
+    },
+    {
+        "image": "02202.jpg",
+        "gt_score": 38.33
+    },
+    {
+        "image": "02211.jpg",
+        "gt_score": 15.67
+    },
+    {
+        "image": "02214.jpg",
+        "gt_score": 56.5
+    },
+    {
+        "image": "02223.jpg",
+        "gt_score": 31.5
+    },
+    {
+        "image": "02259.jpg",
+        "gt_score": 64.22
+    },
+    {
+        "image": "02261.jpg",
+        "gt_score": 62.09
+    },
+    {
+        "image": "02262.jpg",
+        "gt_score": 27.0
+    },
+    {
+        "image": "02270.jpg",
+        "gt_score": 11.22
+    },
+    {
+        "image": "02272.jpg",
+        "gt_score": 23.82
+    },
+    {
+        "image": "02281.jpg",
+        "gt_score": 26.44
+    },
+    {
+        "image": "02289.jpg",
+        "gt_score": 79.75
+    },
+    {
+        "image": "02293.jpg",
+        "gt_score": 64.6
+    },
+    {
+        "image": "02299.jpg",
+        "gt_score": 67.56
+    },
+    {
+        "image": "02308.jpg",
+        "gt_score": 43.56
+    },
+    {
+        "image": "02310.jpg",
+        "gt_score": 59.9
+    },
+    {
+        "image": "02311.jpg",
+        "gt_score": 72.09
+    },
+    {
+        "image": "02313.jpg",
+        "gt_score": 37.27
+    },
+    {
+        "image": "02319.jpg",
+        "gt_score": 36.6
+    },
+    {
+        "image": "02330.jpg",
+        "gt_score": 68.1
+    },
+    {
+        "image": "02331.jpg",
+        "gt_score": 36.5
+    },
+    {
+        "image": "02332.jpg",
+        "gt_score": 32.9
+    },
+    {
+        "image": "02334.jpg",
+        "gt_score": 41.0
+    },
+    {
+        "image": "02337.jpg",
+        "gt_score": 31.9
+    },
+    {
+        "image": "02339.jpg",
+        "gt_score": 66.82
+    },
+    {
+        "image": "02347.jpg",
+        "gt_score": 77.4
+    },
+    {
+        "image": "02351.jpg",
+        "gt_score": 80.3
+    },
+    {
+        "image": "02352.jpg",
+        "gt_score": 77.4
+    },
+    {
+        "image": "02358.jpg",
+        "gt_score": 23.9
+    },
+    {
+        "image": "02361.jpg",
+        "gt_score": 35.0
+    },
+    {
+        "image": "02362.jpg",
+        "gt_score": 24.0
+    },
+    {
+        "image": "02364.jpg",
+        "gt_score": 77.2
+    },
+    {
+        "image": "02370.jpg",
+        "gt_score": 79.5
+    },
+    {
+        "image": "02371.jpg",
+        "gt_score": 64.8
+    },
+    {
+        "image": "02372.jpg",
+        "gt_score": 85.7
+    },
+    {
+        "image": "02375.jpg",
+        "gt_score": 79.73
+    },
+    {
+        "image": "02384.jpg",
+        "gt_score": 26.67
+    },
+    {
+        "image": "02388.jpg",
+        "gt_score": 84.17
+    },
+    {
+        "image": "02390.jpg",
+        "gt_score": 58.82
+    },
+    {
+        "image": "02397.jpg",
+        "gt_score": 15.44
+    },
+    {
+        "image": "02400.jpg",
+        "gt_score": 59.5
+    },
+    {
+        "image": "02417.jpg",
+        "gt_score": 75.88
+    },
+    {
+        "image": "02420.jpg",
+        "gt_score": 79.86
+    },
+    {
+        "image": "02423.jpg",
+        "gt_score": 69.25
+    },
+    {
+        "image": "02425.jpg",
+        "gt_score": 21.7
+    },
+    {
+        "image": "02436.jpg",
+        "gt_score": 23.0
+    },
+    {
+        "image": "02445.jpg",
+        "gt_score": 31.44
+    },
+    {
+        "image": "02454.jpg",
+        "gt_score": 28.82
+    },
+    {
+        "image": "02471.jpg",
+        "gt_score": 30.6
+    },
+    {
+        "image": "02475.jpg",
+        "gt_score": 41.36
+    },
+    {
+        "image": "02478.jpg",
+        "gt_score": 42.0
+    },
+    {
+        "image": "02486.jpg",
+        "gt_score": 49.9
+    },
+    {
+        "image": "02489.jpg",
+        "gt_score": 72.55
+    },
+    {
+        "image": "02491.jpg",
+        "gt_score": 54.92
+    },
+    {
+        "image": "02493.jpg",
+        "gt_score": 32.8
+    },
+    {
+        "image": "02495.jpg",
+        "gt_score": 33.09
+    },
+    {
+        "image": "02499.jpg",
+        "gt_score": 17.0
+    },
+    {
+        "image": "02500.jpg",
+        "gt_score": 80.0
+    },
+    {
+        "image": "02513.jpg",
+        "gt_score": 62.11
+    },
+    {
+        "image": "02518.jpg",
+        "gt_score": 27.33
+    },
+    {
+        "image": "02519.jpg",
+        "gt_score": 19.73
+    },
+    {
+        "image": "02524.jpg",
+        "gt_score": 58.55
+    },
+    {
+        "image": "02539.jpg",
+        "gt_score": 87.27
+    },
+    {
+        "image": "02560.jpg",
+        "gt_score": 61.78
+    },
+    {
+        "image": "02562.jpg",
+        "gt_score": 30.56
+    },
+    {
+        "image": "02564.jpg",
+        "gt_score": 74.1
+    },
+    {
+        "image": "02566.jpg",
+        "gt_score": 36.11
+    },
+    {
+        "image": "02567.jpg",
+        "gt_score": 63.92
+    },
+    {
+        "image": "02571.jpg",
+        "gt_score": 53.8
+    },
+    {
+        "image": "02586.jpg",
+        "gt_score": 34.5
+    },
+    {
+        "image": "02591.jpg",
+        "gt_score": 19.55
+    },
+    {
+        "image": "02592.jpg",
+        "gt_score": 37.55
+    },
+    {
+        "image": "02597.jpg",
+        "gt_score": 37.27
+    },
+    {
+        "image": "02598.jpg",
+        "gt_score": 40.22
+    },
+    {
+        "image": "02603.jpg",
+        "gt_score": 10.0
+    },
+    {
+        "image": "02607.jpg",
+        "gt_score": 42.0
+    },
+    {
+        "image": "02608.jpg",
+        "gt_score": 51.9
+    },
+    {
+        "image": "02617.jpg",
+        "gt_score": 54.0
+    },
+    {
+        "image": "02619.jpg",
+        "gt_score": 37.3
+    },
+    {
+        "image": "02624.jpg",
+        "gt_score": 63.1
+    },
+    {
+        "image": "02625.jpg",
+        "gt_score": 73.36
+    },
+    {
+        "image": "02629.jpg",
+        "gt_score": 71.5
+    },
+    {
+        "image": "02634.jpg",
+        "gt_score": 45.91
+    },
+    {
+        "image": "02642.jpg",
+        "gt_score": 66.36
+    },
+    {
+        "image": "02643.jpg",
+        "gt_score": 44.1
+    },
+    {
+        "image": "02646.jpg",
+        "gt_score": 73.6
+    },
+    {
+        "image": "02647.jpg",
+        "gt_score": 55.0
+    },
+    {
+        "image": "02649.jpg",
+        "gt_score": 35.55
+    },
+    {
+        "image": "02650.jpg",
+        "gt_score": 25.0
+    },
+    {
+        "image": "02651.jpg",
+        "gt_score": 27.33
+    },
+    {
+        "image": "02652.jpg",
+        "gt_score": 31.64
+    },
+    {
+        "image": "02654.jpg",
+        "gt_score": 24.22
+    },
+    {
+        "image": "02655.jpg",
+        "gt_score": 60.82
+    },
+    {
+        "image": "02664.jpg",
+        "gt_score": 80.6
+    },
+    {
+        "image": "02665.jpg",
+        "gt_score": 60.86
+    },
+    {
+        "image": "02670.jpg",
+        "gt_score": 75.14
+    },
+    {
+        "image": "02679.jpg",
+        "gt_score": 69.57
+    },
+    {
+        "image": "02684.jpg",
+        "gt_score": 75.27
+    },
+    {
+        "image": "02688.jpg",
+        "gt_score": 52.86
+    },
+    {
+        "image": "02689.jpg",
+        "gt_score": 67.21
+    },
+    {
+        "image": "02691.jpg",
+        "gt_score": 38.43
+    },
+    {
+        "image": "02706.jpg",
+        "gt_score": 61.64
+    },
+    {
+        "image": "02709.jpg",
+        "gt_score": 20.07
+    },
+    {
+        "image": "02711.jpg",
+        "gt_score": 69.08
+    },
+    {
+        "image": "02714.jpg",
+        "gt_score": 23.46
+    },
+    {
+        "image": "02720.jpg",
+        "gt_score": 43.62
+    },
+    {
+        "image": "02725.jpg",
+        "gt_score": 62.43
+    },
+    {
+        "image": "02729.jpg",
+        "gt_score": 64.23
+    },
+    {
+        "image": "02730.jpg",
+        "gt_score": 70.92
+    },
+    {
+        "image": "02731.jpg",
+        "gt_score": 49.0
+    },
+    {
+        "image": "02734.jpg",
+        "gt_score": 23.77
+    },
+    {
+        "image": "02738.jpg",
+        "gt_score": 46.31
+    },
+    {
+        "image": "02742.jpg",
+        "gt_score": 12.27
+    },
+    {
+        "image": "02753.jpg",
+        "gt_score": 47.48
+    },
+    {
+        "image": "02754.jpg",
+        "gt_score": 43.1
+    },
+    {
+        "image": "02758.jpg",
+        "gt_score": 30.13
+    },
+    {
+        "image": "02761.jpg",
+        "gt_score": 24.56
+    },
+    {
+        "image": "02770.jpg",
+        "gt_score": 40.14
+    },
+    {
+        "image": "02775.jpg",
+        "gt_score": 43.0
+    },
+    {
+        "image": "02780.jpg",
+        "gt_score": 46.8
+    },
+    {
+        "image": "02793.jpg",
+        "gt_score": 78.23
+    },
+    {
+        "image": "02796.jpg",
+        "gt_score": 47.64
+    },
+    {
+        "image": "02799.jpg",
+        "gt_score": 34.38
+    },
+    {
+        "image": "02801.jpg",
+        "gt_score": 78.89
+    },
+    {
+        "image": "02806.jpg",
+        "gt_score": 77.0
+    },
+    {
+        "image": "02811.jpg",
+        "gt_score": 81.95
+    },
+    {
+        "image": "02813.jpg",
+        "gt_score": 74.5
+    },
+    {
+        "image": "02818.jpg",
+        "gt_score": 22.32
+    },
+    {
+        "image": "02825.jpg",
+        "gt_score": 75.8
+    },
+    {
+        "image": "02827.jpg",
+        "gt_score": 24.31
+    },
+    {
+        "image": "02828.jpg",
+        "gt_score": 62.61
+    },
+    {
+        "image": "02829.jpg",
+        "gt_score": 69.74
+    },
+    {
+        "image": "02841.jpg",
+        "gt_score": 79.5
+    },
+    {
+        "image": "02847.jpg",
+        "gt_score": 62.95
+    },
+    {
+        "image": "02848.jpg",
+        "gt_score": 49.94
+    },
+    {
+        "image": "02849.jpg",
+        "gt_score": 79.82
+    },
+    {
+        "image": "02851.jpg",
+        "gt_score": 38.35
+    },
+    {
+        "image": "02853.jpg",
+        "gt_score": 65.88
+    },
+    {
+        "image": "02857.jpg",
+        "gt_score": 24.71
+    },
+    {
+        "image": "02859.jpg",
+        "gt_score": 33.31
+    },
+    {
+        "image": "02874.jpg",
+        "gt_score": 29.28
+    },
+    {
+        "image": "02879.jpg",
+        "gt_score": 61.27
+    },
+    {
+        "image": "02881.jpg",
+        "gt_score": 59.63
+    },
+    {
+        "image": "02897.jpg",
+        "gt_score": 32.5
+    },
+    {
+        "image": "02905.jpg",
+        "gt_score": 73.78
+    },
+    {
+        "image": "02909.jpg",
+        "gt_score": 72.27
+    },
+    {
+        "image": "02914.jpg",
+        "gt_score": 26.05
+    },
+    {
+        "image": "02928.jpg",
+        "gt_score": 46.0
+    },
+    {
+        "image": "02931.jpg",
+        "gt_score": 63.29
+    },
+    {
+        "image": "02934.jpg",
+        "gt_score": 68.5
+    },
+    {
+        "image": "02940.jpg",
+        "gt_score": 29.25
+    },
+    {
+        "image": "02941.jpg",
+        "gt_score": 25.4
+    },
+    {
+        "image": "02950.jpg",
+        "gt_score": 24.5
+    },
+    {
+        "image": "02952.jpg",
+        "gt_score": 76.44
+    },
+    {
+        "image": "02954.jpg",
+        "gt_score": 75.5
+    },
+    {
+        "image": "02980.jpg",
+        "gt_score": 18.75
+    },
+    {
+        "image": "02981.jpg",
+        "gt_score": 55.33
+    },
+    {
+        "image": "02982.jpg",
+        "gt_score": 22.4
+    },
+    {
+        "image": "02988.jpg",
+        "gt_score": 81.5
+    },
+    {
+        "image": "02992.jpg",
+        "gt_score": 27.25
+    },
+    {
+        "image": "02995.jpg",
+        "gt_score": 24.11
+    },
+    {
+        "image": "03010.jpg",
+        "gt_score": 20.57
+    },
+    {
+        "image": "03012.jpg",
+        "gt_score": 30.43
+    },
+    {
+        "image": "03018.jpg",
+        "gt_score": 25.71
+    },
+    {
+        "image": "03026.jpg",
+        "gt_score": 23.83
+    },
+    {
+        "image": "03034.jpg",
+        "gt_score": 37.71
+    },
+    {
+        "image": "03052.jpg",
+        "gt_score": 27.83
+    },
+    {
+        "image": "03065.jpg",
+        "gt_score": 67.0
+    },
+    {
+        "image": "03067.jpg",
+        "gt_score": 73.6
+    },
+    {
+        "image": "03068.jpg",
+        "gt_score": 28.83
+    },
+    {
+        "image": "03073.jpg",
+        "gt_score": 39.33
+    },
+    {
+        "image": "03077.jpg",
+        "gt_score": 31.17
+    },
+    {
+        "image": "03080.jpg",
+        "gt_score": 72.0
+    },
+    {
+        "image": "03082.jpg",
+        "gt_score": 30.71
+    },
+    {
+        "image": "03087.jpg",
+        "gt_score": 18.29
+    },
+    {
+        "image": "03092.jpg",
+        "gt_score": 79.38
+    },
+    {
+        "image": "03097.jpg",
+        "gt_score": 81.25
+    },
+    {
+        "image": "03106.jpg",
+        "gt_score": 78.14
+    },
+    {
+        "image": "03108.jpg",
+        "gt_score": 79.86
+    },
+    {
+        "image": "03109.jpg",
+        "gt_score": 22.75
+    },
+    {
+        "image": "03115.jpg",
+        "gt_score": 87.56
+    },
+    {
+        "image": "03138.jpg",
+        "gt_score": 62.86
+    },
+    {
+        "image": "03139.jpg",
+        "gt_score": 61.5
+    },
+    {
+        "image": "03143.jpg",
+        "gt_score": 47.0
+    },
+    {
+        "image": "03144.jpg",
+        "gt_score": 35.71
+    },
+    {
+        "image": "03147.jpg",
+        "gt_score": 23.75
+    },
+    {
+        "image": "03148.jpg",
+        "gt_score": 31.29
+    },
+    {
+        "image": "03159.jpg",
+        "gt_score": 24.71
+    },
+    {
+        "image": "03167.jpg",
+        "gt_score": 67.0
+    },
+    {
+        "image": "03169.jpg",
+        "gt_score": 72.38
+    },
+    {
+        "image": "03171.jpg",
+        "gt_score": 34.5
+    },
+    {
+        "image": "03174.jpg",
+        "gt_score": 84.25
+    },
+    {
+        "image": "03176.jpg",
+        "gt_score": 20.17
+    },
+    {
+        "image": "03182.jpg",
+        "gt_score": 74.0
+    },
+    {
+        "image": "03187.jpg",
+        "gt_score": 54.17
+    },
+    {
+        "image": "03189.jpg",
+        "gt_score": 46.63
+    },
+    {
+        "image": "03203.jpg",
+        "gt_score": 43.29
+    },
+    {
+        "image": "03206.jpg",
+        "gt_score": 71.0
+    },
+    {
+        "image": "03216.jpg",
+        "gt_score": 78.57
+    },
+    {
+        "image": "03218.jpg",
+        "gt_score": 62.17
+    },
+    {
+        "image": "03222.jpg",
+        "gt_score": 56.44
+    },
+    {
+        "image": "03230.jpg",
+        "gt_score": 21.56
+    },
+    {
+        "image": "03232.jpg",
+        "gt_score": 69.35
+    },
+    {
+        "image": "03234.jpg",
+        "gt_score": 68.63
+    },
+    {
+        "image": "03246.jpg",
+        "gt_score": 57.78
+    },
+    {
+        "image": "03248.jpg",
+        "gt_score": 30.29
+    },
+    {
+        "image": "03249.jpg",
+        "gt_score": 29.32
+    },
+    {
+        "image": "03250.jpg",
+        "gt_score": 56.0
+    },
+    {
+        "image": "03257.jpg",
+        "gt_score": 81.72
+    },
+    {
+        "image": "03262.jpg",
+        "gt_score": 47.28
+    },
+    {
+        "image": "03269.jpg",
+        "gt_score": 42.88
+    },
+    {
+        "image": "03281.jpg",
+        "gt_score": 80.28
+    },
+    {
+        "image": "03283.jpg",
+        "gt_score": 34.0
+    },
+    {
+        "image": "03294.jpg",
+        "gt_score": 81.71
+    },
+    {
+        "image": "03295.jpg",
+        "gt_score": 43.0
+    },
+    {
+        "image": "03298.jpg",
+        "gt_score": 68.0
+    },
+    {
+        "image": "03301.jpg",
+        "gt_score": 77.5
+    },
+    {
+        "image": "03304.jpg",
+        "gt_score": 50.57
+    },
+    {
+        "image": "03307.jpg",
+        "gt_score": 19.0
+    },
+    {
+        "image": "03312.jpg",
+        "gt_score": 26.71
+    },
+    {
+        "image": "03326.jpg",
+        "gt_score": 49.38
+    },
+    {
+        "image": "03327.jpg",
+        "gt_score": 65.88
+    },
+    {
+        "image": "03330.jpg",
+        "gt_score": 83.88
+    },
+    {
+        "image": "03338.jpg",
+        "gt_score": 32.25
+    },
+    {
+        "image": "03339.jpg",
+        "gt_score": 22.0
+    },
+    {
+        "image": "03344.jpg",
+        "gt_score": 82.88
+    },
+    {
+        "image": "03354.jpg",
+        "gt_score": 38.67
+    },
+    {
+        "image": "03364.jpg",
+        "gt_score": 20.0
+    },
+    {
+        "image": "03367.jpg",
+        "gt_score": 59.75
+    },
+    {
+        "image": "03371.jpg",
+        "gt_score": 59.88
+    },
+    {
+        "image": "03374.jpg",
+        "gt_score": 31.22
+    },
+    {
+        "image": "03379.jpg",
+        "gt_score": 67.56
+    },
+    {
+        "image": "03384.jpg",
+        "gt_score": 62.67
+    },
+    {
+        "image": "03386.jpg",
+        "gt_score": 73.89
+    },
+    {
+        "image": "03395.jpg",
+        "gt_score": 31.11
+    },
+    {
+        "image": "03400.jpg",
+        "gt_score": 63.0
+    },
+    {
+        "image": "03403.jpg",
+        "gt_score": 35.89
+    },
+    {
+        "image": "03404.jpg",
+        "gt_score": 36.67
+    },
+    {
+        "image": "03409.jpg",
+        "gt_score": 24.89
+    },
+    {
+        "image": "03410.jpg",
+        "gt_score": 23.9
+    },
+    {
+        "image": "03416.jpg",
+        "gt_score": 61.67
+    },
+    {
+        "image": "03421.jpg",
+        "gt_score": 76.89
+    },
+    {
+        "image": "03435.jpg",
+        "gt_score": 66.69
+    },
+    {
+        "image": "03441.jpg",
+        "gt_score": 48.38
+    },
+    {
+        "image": "03442.jpg",
+        "gt_score": 33.18
+    },
+    {
+        "image": "03451.jpg",
+        "gt_score": 50.62
+    },
+    {
+        "image": "03452.jpg",
+        "gt_score": 47.17
+    },
+    {
+        "image": "03455.jpg",
+        "gt_score": 67.08
+    },
+    {
+        "image": "03459.jpg",
+        "gt_score": 61.67
+    },
+    {
+        "image": "03464.jpg",
+        "gt_score": 4.17
+    },
+    {
+        "image": "03468.jpg",
+        "gt_score": 49.58
+    },
+    {
+        "image": "03472.jpg",
+        "gt_score": 35.18
+    },
+    {
+        "image": "03474.jpg",
+        "gt_score": 71.17
+    },
+    {
+        "image": "03475.jpg",
+        "gt_score": 71.7
+    },
+    {
+        "image": "03482.jpg",
+        "gt_score": 67.0
+    },
+    {
+        "image": "03483.jpg",
+        "gt_score": 72.33
+    },
+    {
+        "image": "03485.jpg",
+        "gt_score": 17.82
+    },
+    {
+        "image": "03488.jpg",
+        "gt_score": 59.73
+    },
+    {
+        "image": "03491.jpg",
+        "gt_score": 44.64
+    },
+    {
+        "image": "03495.jpg",
+        "gt_score": 67.5
+    },
+    {
+        "image": "03502.jpg",
+        "gt_score": 49.45
+    },
+    {
+        "image": "03504.jpg",
+        "gt_score": 39.0
+    },
+    {
+        "image": "03506.jpg",
+        "gt_score": 62.42
+    },
+    {
+        "image": "03515.jpg",
+        "gt_score": 27.82
+    },
+    {
+        "image": "03517.jpg",
+        "gt_score": 33.27
+    },
+    {
+        "image": "03528.jpg",
+        "gt_score": 54.73
+    },
+    {
+        "image": "03532.jpg",
+        "gt_score": 68.0
+    },
+    {
+        "image": "03554.jpg",
+        "gt_score": 54.27
+    },
+    {
+        "image": "03556.jpg",
+        "gt_score": 28.73
+    },
+    {
+        "image": "03558.jpg",
+        "gt_score": 52.93
+    },
+    {
+        "image": "03560.jpg",
+        "gt_score": 30.42
+    },
+    {
+        "image": "03565.jpg",
+        "gt_score": 78.83
+    },
+    {
+        "image": "03569.jpg",
+        "gt_score": 45.0
+    },
+    {
+        "image": "03576.jpg",
+        "gt_score": 17.09
+    },
+    {
+        "image": "03588.jpg",
+        "gt_score": 36.83
+    },
+    {
+        "image": "03590.jpg",
+        "gt_score": 65.0
+    },
+    {
+        "image": "03593.jpg",
+        "gt_score": 73.08
+    },
+    {
+        "image": "03594.jpg",
+        "gt_score": 45.0
+    },
+    {
+        "image": "03600.jpg",
+        "gt_score": 69.45
+    },
+    {
+        "image": "03601.jpg",
+        "gt_score": 73.27
+    },
+    {
+        "image": "03608.jpg",
+        "gt_score": 24.17
+    },
+    {
+        "image": "03622.jpg",
+        "gt_score": 57.36
+    },
+    {
+        "image": "03623.jpg",
+        "gt_score": 16.08
+    },
+    {
+        "image": "03640.jpg",
+        "gt_score": 15.11
+    },
+    {
+        "image": "03647.jpg",
+        "gt_score": 70.55
+    },
+    {
+        "image": "03649.jpg",
+        "gt_score": 65.36
+    },
+    {
+        "image": "03663.jpg",
+        "gt_score": 37.08
+    },
+    {
+        "image": "03669.jpg",
+        "gt_score": 75.08
+    },
+    {
+        "image": "03677.jpg",
+        "gt_score": 31.18
+    },
+    {
+        "image": "03684.jpg",
+        "gt_score": 78.0
+    },
+    {
+        "image": "03693.jpg",
+        "gt_score": 71.15
+    },
+    {
+        "image": "03696.jpg",
+        "gt_score": 79.91
+    },
+    {
+        "image": "03697.jpg",
+        "gt_score": 46.17
+    },
+    {
+        "image": "03698.jpg",
+        "gt_score": 40.4
+    },
+    {
+        "image": "03702.jpg",
+        "gt_score": 47.3
+    },
+    {
+        "image": "03709.jpg",
+        "gt_score": 39.13
+    },
+    {
+        "image": "03719.jpg",
+        "gt_score": 54.08
+    },
+    {
+        "image": "03721.jpg",
+        "gt_score": 69.33
+    },
+    {
+        "image": "03723.jpg",
+        "gt_score": 73.09
+    },
+    {
+        "image": "03726.jpg",
+        "gt_score": 24.23
+    },
+    {
+        "image": "03727.jpg",
+        "gt_score": 19.25
+    },
+    {
+        "image": "03729.jpg",
+        "gt_score": 75.08
+    },
+    {
+        "image": "03730.jpg",
+        "gt_score": 40.15
+    },
+    {
+        "image": "03735.jpg",
+        "gt_score": 69.92
+    },
+    {
+        "image": "03745.jpg",
+        "gt_score": 8.08
+    },
+    {
+        "image": "03746.jpg",
+        "gt_score": 22.69
+    },
+    {
+        "image": "03750.jpg",
+        "gt_score": 27.17
+    },
+    {
+        "image": "03752.jpg",
+        "gt_score": 72.17
+    },
+    {
+        "image": "03754.jpg",
+        "gt_score": 40.54
+    },
+    {
+        "image": "03759.jpg",
+        "gt_score": 27.17
+    },
+    {
+        "image": "03766.jpg",
+        "gt_score": 56.85
+    },
+    {
+        "image": "03767.jpg",
+        "gt_score": 60.92
+    },
+    {
+        "image": "03772.jpg",
+        "gt_score": 47.67
+    },
+    {
+        "image": "03776.jpg",
+        "gt_score": 64.33
+    },
+    {
+        "image": "03777.jpg",
+        "gt_score": 67.92
+    },
+    {
+        "image": "03785.jpg",
+        "gt_score": 38.33
+    },
+    {
+        "image": "03786.jpg",
+        "gt_score": 24.67
+    },
+    {
+        "image": "03804.jpg",
+        "gt_score": 25.86
+    },
+    {
+        "image": "03807.jpg",
+        "gt_score": 79.0
+    },
+    {
+        "image": "03808.jpg",
+        "gt_score": 62.71
+    },
+    {
+        "image": "03811.jpg",
+        "gt_score": 33.29
+    },
+    {
+        "image": "03812.jpg",
+        "gt_score": 57.57
+    },
+    {
+        "image": "03819.jpg",
+        "gt_score": 70.71
+    },
+    {
+        "image": "03821.jpg",
+        "gt_score": 31.14
+    },
+    {
+        "image": "03824.jpg",
+        "gt_score": 60.33
+    },
+    {
+        "image": "03826.jpg",
+        "gt_score": 67.0
+    },
+    {
+        "image": "03829.jpg",
+        "gt_score": 42.29
+    },
+    {
+        "image": "03830.jpg",
+        "gt_score": 74.75
+    },
+    {
+        "image": "03831.jpg",
+        "gt_score": 72.17
+    },
+    {
+        "image": "03843.jpg",
+        "gt_score": 47.14
+    },
+    {
+        "image": "03847.jpg",
+        "gt_score": 59.0
+    },
+    {
+        "image": "03849.jpg",
+        "gt_score": 25.14
+    },
+    {
+        "image": "03850.jpg",
+        "gt_score": 73.33
+    },
+    {
+        "image": "03852.jpg",
+        "gt_score": 21.31
+    },
+    {
+        "image": "03854.jpg",
+        "gt_score": 80.5
+    },
+    {
+        "image": "03857.jpg",
+        "gt_score": 9.46
+    },
+    {
+        "image": "03867.jpg",
+        "gt_score": 21.5
+    },
+    {
+        "image": "03874.jpg",
+        "gt_score": 19.14
+    },
+    {
+        "image": "03881.jpg",
+        "gt_score": 70.23
+    },
+    {
+        "image": "03886.jpg",
+        "gt_score": 52.21
+    },
+    {
+        "image": "03888.jpg",
+        "gt_score": 34.85
+    },
+    {
+        "image": "03891.jpg",
+        "gt_score": 22.07
+    },
+    {
+        "image": "03896.jpg",
+        "gt_score": 86.77
+    },
+    {
+        "image": "03898.jpg",
+        "gt_score": 82.77
+    },
+    {
+        "image": "03907.jpg",
+        "gt_score": 72.23
+    },
+    {
+        "image": "03908.jpg",
+        "gt_score": 79.62
+    },
+    {
+        "image": "03911.jpg",
+        "gt_score": 68.15
+    },
+    {
+        "image": "03919.jpg",
+        "gt_score": 76.92
+    },
+    {
+        "image": "03923.jpg",
+        "gt_score": 69.0
+    },
+    {
+        "image": "03924.jpg",
+        "gt_score": 56.73
+    },
+    {
+        "image": "03941.jpg",
+        "gt_score": 32.33
+    },
+    {
+        "image": "03942.jpg",
+        "gt_score": 84.89
+    },
+    {
+        "image": "03954.jpg",
+        "gt_score": 81.91
+    },
+    {
+        "image": "03957.jpg",
+        "gt_score": 73.08
+    },
+    {
+        "image": "03961.jpg",
+        "gt_score": 47.0
+    },
+    {
+        "image": "03963.jpg",
+        "gt_score": 60.73
+    },
+    {
+        "image": "03967.jpg",
+        "gt_score": 76.18
+    },
+    {
+        "image": "03969.jpg",
+        "gt_score": 47.25
+    },
+    {
+        "image": "03975.jpg",
+        "gt_score": 65.56
+    },
+    {
+        "image": "03983.jpg",
+        "gt_score": 34.78
+    },
+    {
+        "image": "03984.jpg",
+        "gt_score": 60.08
+    },
+    {
+        "image": "03989.jpg",
+        "gt_score": 48.56
+    },
+    {
+        "image": "03991.jpg",
+        "gt_score": 37.13
+    },
+    {
+        "image": "03993.jpg",
+        "gt_score": 61.0
+    },
+    {
+        "image": "03996.jpg",
+        "gt_score": 14.0
+    },
+    {
+        "image": "03997.jpg",
+        "gt_score": 26.62
+    },
+    {
+        "image": "03999.jpg",
+        "gt_score": 24.0
+    },
+    {
+        "image": "04000.jpg",
+        "gt_score": 82.29
+    },
+    {
+        "image": "04005.jpg",
+        "gt_score": 59.17
+    },
+    {
+        "image": "04023.jpg",
+        "gt_score": 24.13
+    },
+    {
+        "image": "04026.jpg",
+        "gt_score": 69.33
+    },
+    {
+        "image": "04029.jpg",
+        "gt_score": 29.36
+    },
+    {
+        "image": "04035.jpg",
+        "gt_score": 80.0
+    },
+    {
+        "image": "04038.jpg",
+        "gt_score": 56.67
+    },
+    {
+        "image": "04042.jpg",
+        "gt_score": 42.5
+    },
+    {
+        "image": "04064.jpg",
+        "gt_score": 75.08
+    },
+    {
+        "image": "04066.jpg",
+        "gt_score": 80.18
+    },
+    {
+        "image": "04067.jpg",
+        "gt_score": 17.7
+    },
+    {
+        "image": "04071.jpg",
+        "gt_score": 68.18
+    },
+    {
+        "image": "04074.jpg",
+        "gt_score": 27.36
+    },
+    {
+        "image": "04076.jpg",
+        "gt_score": 69.33
+    },
+    {
+        "image": "04079.jpg",
+        "gt_score": 31.4
+    },
+    {
+        "image": "04083.jpg",
+        "gt_score": 79.73
+    },
+    {
+        "image": "04101.jpg",
+        "gt_score": 27.64
+    },
+    {
+        "image": "04107.jpg",
+        "gt_score": 64.08
+    },
+    {
+        "image": "04115.jpg",
+        "gt_score": 81.4
+    },
+    {
+        "image": "04121.jpg",
+        "gt_score": 34.5
+    },
+    {
+        "image": "04126.jpg",
+        "gt_score": 68.25
+    },
+    {
+        "image": "04128.jpg",
+        "gt_score": 64.6
+    },
+    {
+        "image": "04130.jpg",
+        "gt_score": 33.91
+    },
+    {
+        "image": "04131.jpg",
+        "gt_score": 73.57
+    },
+    {
+        "image": "04144.jpg",
+        "gt_score": 16.17
+    },
+    {
+        "image": "04145.jpg",
+        "gt_score": 80.0
+    },
+    {
+        "image": "04148.jpg",
+        "gt_score": 85.17
+    },
+    {
+        "image": "04153.jpg",
+        "gt_score": 61.17
+    },
+    {
+        "image": "04154.jpg",
+        "gt_score": 35.5
+    },
+    {
+        "image": "04159.jpg",
+        "gt_score": 25.17
+    },
+    {
+        "image": "04165.jpg",
+        "gt_score": 19.33
+    },
+    {
+        "image": "04169.jpg",
+        "gt_score": 53.0
+    },
+    {
+        "image": "04178.jpg",
+        "gt_score": 81.33
+    },
+    {
+        "image": "04179.jpg",
+        "gt_score": 17.14
+    },
+    {
+        "image": "04183.jpg",
+        "gt_score": 38.67
+    },
+    {
+        "image": "04189.jpg",
+        "gt_score": 49.33
+    },
+    {
+        "image": "04198.jpg",
+        "gt_score": 22.86
+    },
+    {
+        "image": "04200.jpg",
+        "gt_score": 81.0
+    },
+    {
+        "image": "04202.jpg",
+        "gt_score": 42.67
+    },
+    {
+        "image": "04206.jpg",
+        "gt_score": 39.36
+    },
+    {
+        "image": "04207.jpg",
+        "gt_score": 50.33
+    },
+    {
+        "image": "04208.jpg",
+        "gt_score": 26.58
+    },
+    {
+        "image": "04214.jpg",
+        "gt_score": 27.33
+    },
+    {
+        "image": "04219.jpg",
+        "gt_score": 29.0
+    },
+    {
+        "image": "04224.jpg",
+        "gt_score": 19.91
+    },
+    {
+        "image": "04228.jpg",
+        "gt_score": 33.55
+    },
+    {
+        "image": "04234.jpg",
+        "gt_score": 57.42
+    },
+    {
+        "image": "04236.jpg",
+        "gt_score": 41.14
+    },
+    {
+        "image": "04246.jpg",
+        "gt_score": 30.17
+    },
+    {
+        "image": "04247.jpg",
+        "gt_score": 48.17
+    },
+    {
+        "image": "04251.jpg",
+        "gt_score": 63.38
+    },
+    {
+        "image": "04258.jpg",
+        "gt_score": 27.42
+    },
+    {
+        "image": "04260.jpg",
+        "gt_score": 43.54
+    },
+    {
+        "image": "04261.jpg",
+        "gt_score": 65.67
+    },
+    {
+        "image": "04269.jpg",
+        "gt_score": 7.38
+    },
+    {
+        "image": "04270.jpg",
+        "gt_score": 43.79
+    },
+    {
+        "image": "04271.jpg",
+        "gt_score": 70.55
+    },
+    {
+        "image": "04273.jpg",
+        "gt_score": 60.17
+    },
+    {
+        "image": "04281.jpg",
+        "gt_score": 50.91
+    },
+    {
+        "image": "04298.jpg",
+        "gt_score": 58.18
+    },
+    {
+        "image": "04313.jpg",
+        "gt_score": 26.82
+    },
+    {
+        "image": "04338.jpg",
+        "gt_score": 18.5
+    },
+    {
+        "image": "04342.jpg",
+        "gt_score": 41.6
+    },
+    {
+        "image": "04346.jpg",
+        "gt_score": 74.06
+    },
+    {
+        "image": "04353.jpg",
+        "gt_score": 43.69
+    },
+    {
+        "image": "04367.jpg",
+        "gt_score": 81.19
+    },
+    {
+        "image": "04368.jpg",
+        "gt_score": 74.38
+    },
+    {
+        "image": "04375.jpg",
+        "gt_score": 29.53
+    },
+    {
+        "image": "04379.jpg",
+        "gt_score": 54.76
+    },
+    {
+        "image": "04383.jpg",
+        "gt_score": 16.31
+    },
+    {
+        "image": "04388.jpg",
+        "gt_score": 70.38
+    },
+    {
+        "image": "04399.jpg",
+        "gt_score": 74.95
+    },
+    {
+        "image": "04408.jpg",
+        "gt_score": 18.6
+    },
+    {
+        "image": "04421.jpg",
+        "gt_score": 34.33
+    },
+    {
+        "image": "04423.jpg",
+        "gt_score": 67.6
+    },
+    {
+        "image": "04424.jpg",
+        "gt_score": 44.44
+    },
+    {
+        "image": "04439.jpg",
+        "gt_score": 43.89
+    },
+    {
+        "image": "04445.jpg",
+        "gt_score": 47.75
+    },
+    {
+        "image": "04448.jpg",
+        "gt_score": 57.5
+    },
+    {
+        "image": "04456.jpg",
+        "gt_score": 61.36
+    },
+    {
+        "image": "04461.jpg",
+        "gt_score": 71.67
+    },
+    {
+        "image": "04470.jpg",
+        "gt_score": 25.13
+    },
+    {
+        "image": "04476.jpg",
+        "gt_score": 31.11
+    },
+    {
+        "image": "04483.jpg",
+        "gt_score": 40.25
+    },
+    {
+        "image": "04487.jpg",
+        "gt_score": 78.83
+    },
+    {
+        "image": "04492.jpg",
+        "gt_score": 67.43
+    },
+    {
+        "image": "04493.jpg",
+        "gt_score": 40.86
+    },
+    {
+        "image": "04498.jpg",
+        "gt_score": 70.88
+    },
+    {
+        "image": "04500.jpg",
+        "gt_score": 58.86
+    },
+    {
+        "image": "04503.jpg",
+        "gt_score": 36.57
+    },
+    {
+        "image": "04509.jpg",
+        "gt_score": 74.57
+    },
+    {
+        "image": "04519.jpg",
+        "gt_score": 80.71
+    },
+    {
+        "image": "04521.jpg",
+        "gt_score": 72.71
+    },
+    {
+        "image": "04523.jpg",
+        "gt_score": 76.71
+    },
+    {
+        "image": "04535.jpg",
+        "gt_score": 59.13
+    },
+    {
+        "image": "04544.jpg",
+        "gt_score": 71.11
+    },
+    {
+        "image": "04546.jpg",
+        "gt_score": 25.89
+    },
+    {
+        "image": "04548.jpg",
+        "gt_score": 25.71
+    },
+    {
+        "image": "04549.jpg",
+        "gt_score": 39.29
+    },
+    {
+        "image": "04554.jpg",
+        "gt_score": 61.58
+    },
+    {
+        "image": "04568.jpg",
+        "gt_score": 44.83
+    },
+    {
+        "image": "04573.jpg",
+        "gt_score": 30.42
+    },
+    {
+        "image": "04577.jpg",
+        "gt_score": 66.38
+    },
+    {
+        "image": "04578.jpg",
+        "gt_score": 45.0
+    },
+    {
+        "image": "04581.jpg",
+        "gt_score": 70.83
+    },
+    {
+        "image": "04583.jpg",
+        "gt_score": 25.33
+    },
+    {
+        "image": "04588.jpg",
+        "gt_score": 65.23
+    },
+    {
+        "image": "04589.jpg",
+        "gt_score": 38.67
+    },
+    {
+        "image": "04600.jpg",
+        "gt_score": 31.55
+    },
+    {
+        "image": "04607.jpg",
+        "gt_score": 54.73
+    },
+    {
+        "image": "04609.jpg",
+        "gt_score": 31.23
+    },
+    {
+        "image": "04615.jpg",
+        "gt_score": 66.92
+    },
+    {
+        "image": "04620.jpg",
+        "gt_score": 74.92
+    },
+    {
+        "image": "04647.jpg",
+        "gt_score": 44.0
+    },
+    {
+        "image": "04656.jpg",
+        "gt_score": 60.67
+    },
+    {
+        "image": "04667.jpg",
+        "gt_score": 87.67
+    },
+    {
+        "image": "04676.jpg",
+        "gt_score": 62.33
+    },
+    {
+        "image": "04690.jpg",
+        "gt_score": 86.0
+    },
+    {
+        "image": "04691.jpg",
+        "gt_score": 44.75
+    },
+    {
+        "image": "04693.jpg",
+        "gt_score": 75.29
+    },
+    {
+        "image": "04698.jpg",
+        "gt_score": 16.25
+    },
+    {
+        "image": "04699.jpg",
+        "gt_score": 32.0
+    },
+    {
+        "image": "04700.jpg",
+        "gt_score": 59.0
+    },
+    {
+        "image": "04710.jpg",
+        "gt_score": 64.78
+    },
+    {
+        "image": "04718.jpg",
+        "gt_score": 80.5
+    },
+    {
+        "image": "04723.jpg",
+        "gt_score": 60.33
+    },
+    {
+        "image": "04724.jpg",
+        "gt_score": 46.67
+    },
+    {
+        "image": "04725.jpg",
+        "gt_score": 25.83
+    },
+    {
+        "image": "04732.jpg",
+        "gt_score": 18.33
+    },
+    {
+        "image": "04734.jpg",
+        "gt_score": 74.67
+    },
+    {
+        "image": "04737.jpg",
+        "gt_score": 22.17
+    },
+    {
+        "image": "04746.jpg",
+        "gt_score": 63.83
+    },
+    {
+        "image": "04747.jpg",
+        "gt_score": 13.83
+    },
+    {
+        "image": "04751.jpg",
+        "gt_score": 21.5
+    },
+    {
+        "image": "04755.jpg",
+        "gt_score": 73.71
+    },
+    {
+        "image": "04756.jpg",
+        "gt_score": 62.75
+    },
+    {
+        "image": "04764.jpg",
+        "gt_score": 68.33
+    },
+    {
+        "image": "04766.jpg",
+        "gt_score": 83.78
+    },
+    {
+        "image": "04767.jpg",
+        "gt_score": 26.22
+    },
+    {
+        "image": "04770.jpg",
+        "gt_score": 51.89
+    },
+    {
+        "image": "04772.jpg",
+        "gt_score": 67.73
+    },
+    {
+        "image": "04774.jpg",
+        "gt_score": 35.0
+    },
+    {
+        "image": "04775.jpg",
+        "gt_score": 43.67
+    },
+    {
+        "image": "04785.jpg",
+        "gt_score": 68.22
+    },
+    {
+        "image": "04786.jpg",
+        "gt_score": 43.22
+    },
+    {
+        "image": "04794.jpg",
+        "gt_score": 29.56
+    },
+    {
+        "image": "04804.jpg",
+        "gt_score": 38.89
+    },
+    {
+        "image": "04805.jpg",
+        "gt_score": 38.67
+    },
+    {
+        "image": "04806.jpg",
+        "gt_score": 37.0
+    },
+    {
+        "image": "04814.jpg",
+        "gt_score": 39.56
+    },
+    {
+        "image": "04818.jpg",
+        "gt_score": 78.3
+    },
+    {
+        "image": "04820.jpg",
+        "gt_score": 26.1
+    },
+    {
+        "image": "04822.jpg",
+        "gt_score": 80.3
+    },
+    {
+        "image": "04833.jpg",
+        "gt_score": 69.17
+    },
+    {
+        "image": "04837.jpg",
+        "gt_score": 27.77
+    },
+    {
+        "image": "04839.jpg",
+        "gt_score": 34.54
+    },
+    {
+        "image": "04844.jpg",
+        "gt_score": 49.0
+    },
+    {
+        "image": "04846.jpg",
+        "gt_score": 38.64
+    },
+    {
+        "image": "04848.jpg",
+        "gt_score": 36.07
+    },
+    {
+        "image": "04849.jpg",
+        "gt_score": 30.82
+    },
+    {
+        "image": "04859.jpg",
+        "gt_score": 34.17
+    },
+    {
+        "image": "04864.jpg",
+        "gt_score": 67.42
+    },
+    {
+        "image": "04867.jpg",
+        "gt_score": 34.58
+    },
+    {
+        "image": "04868.jpg",
+        "gt_score": 77.55
+    },
+    {
+        "image": "04886.jpg",
+        "gt_score": 40.92
+    },
+    {
+        "image": "04895.jpg",
+        "gt_score": 23.46
+    },
+    {
+        "image": "04907.jpg",
+        "gt_score": 60.75
+    },
+    {
+        "image": "04910.jpg",
+        "gt_score": 66.11
+    },
+    {
+        "image": "04913.jpg",
+        "gt_score": 33.86
+    },
+    {
+        "image": "04916.jpg",
+        "gt_score": 15.14
+    },
+    {
+        "image": "04918.jpg",
+        "gt_score": 30.14
+    },
+    {
+        "image": "04919.jpg",
+        "gt_score": 74.88
+    },
+    {
+        "image": "04922.jpg",
+        "gt_score": 58.71
+    },
+    {
+        "image": "04924.jpg",
+        "gt_score": 26.43
+    },
+    {
+        "image": "04926.jpg",
+        "gt_score": 31.0
+    },
+    {
+        "image": "04927.jpg",
+        "gt_score": 65.13
+    },
+    {
+        "image": "04928.jpg",
+        "gt_score": 52.33
+    },
+    {
+        "image": "04932.jpg",
+        "gt_score": 68.71
+    },
+    {
+        "image": "04936.jpg",
+        "gt_score": 35.29
+    },
+    {
+        "image": "04938.jpg",
+        "gt_score": 13.5
+    },
+    {
+        "image": "04940.jpg",
+        "gt_score": 72.0
+    },
+    {
+        "image": "04943.jpg",
+        "gt_score": 24.43
+    },
+    {
+        "image": "04945.jpg",
+        "gt_score": 41.13
+    },
+    {
+        "image": "04948.jpg",
+        "gt_score": 39.5
+    },
+    {
+        "image": "04949.jpg",
+        "gt_score": 21.14
+    },
+    {
+        "image": "04957.jpg",
+        "gt_score": 10.14
+    },
+    {
+        "image": "04958.jpg",
+        "gt_score": 66.43
+    },
+    {
+        "image": "04962.jpg",
+        "gt_score": 33.78
+    },
+    {
+        "image": "04964.jpg",
+        "gt_score": 70.29
+    },
+    {
+        "image": "04976.jpg",
+        "gt_score": 83.5
+    },
+    {
+        "image": "04985.jpg",
+        "gt_score": 73.5
+    },
+    {
+        "image": "04990.jpg",
+        "gt_score": 67.8
+    },
+    {
+        "image": "05003.jpg",
+        "gt_score": 48.44
+    },
+    {
+        "image": "05007.jpg",
+        "gt_score": 61.0
+    },
+    {
+        "image": "05010.jpg",
+        "gt_score": 66.25
+    },
+    {
+        "image": "05011.jpg",
+        "gt_score": 46.0
+    },
+    {
+        "image": "05016.jpg",
+        "gt_score": 32.63
+    },
+    {
+        "image": "05028.jpg",
+        "gt_score": 65.25
+    },
+    {
+        "image": "05034.jpg",
+        "gt_score": 50.2
+    },
+    {
+        "image": "05038.jpg",
+        "gt_score": 17.5
+    },
+    {
+        "image": "05040.jpg",
+        "gt_score": 25.38
+    },
+    {
+        "image": "05048.jpg",
+        "gt_score": 49.0
+    },
+    {
+        "image": "05058.jpg",
+        "gt_score": 35.08
+    },
+    {
+        "image": "05068.jpg",
+        "gt_score": 68.45
+    },
+    {
+        "image": "05078.jpg",
+        "gt_score": 79.5
+    },
+    {
+        "image": "05081.jpg",
+        "gt_score": 76.55
+    },
+    {
+        "image": "05091.jpg",
+        "gt_score": 79.91
+    },
+    {
+        "image": "05095.jpg",
+        "gt_score": 7.09
+    },
+    {
+        "image": "05104.jpg",
+        "gt_score": 36.64
+    },
+    {
+        "image": "05119.jpg",
+        "gt_score": 56.11
+    },
+    {
+        "image": "05127.jpg",
+        "gt_score": 71.78
+    },
+    {
+        "image": "05131.jpg",
+        "gt_score": 75.22
+    },
+    {
+        "image": "05135.jpg",
+        "gt_score": 81.8
+    },
+    {
+        "image": "05146.jpg",
+        "gt_score": 48.0
+    },
+    {
+        "image": "05152.jpg",
+        "gt_score": 73.73
+    },
+    {
+        "image": "05153.jpg",
+        "gt_score": 79.22
+    },
+    {
+        "image": "05157.jpg",
+        "gt_score": 40.82
+    },
+    {
+        "image": "05166.jpg",
+        "gt_score": 60.1
+    },
+    {
+        "image": "05176.jpg",
+        "gt_score": 34.56
+    },
+    {
+        "image": "05178.jpg",
+        "gt_score": 79.67
+    },
+    {
+        "image": "05179.jpg",
+        "gt_score": 48.44
+    },
+    {
+        "image": "05187.jpg",
+        "gt_score": 75.8
+    },
+    {
+        "image": "05193.jpg",
+        "gt_score": 80.0
+    },
+    {
+        "image": "05196.jpg",
+        "gt_score": 25.2
+    },
+    {
+        "image": "05199.jpg",
+        "gt_score": 42.6
+    },
+    {
+        "image": "05201.jpg",
+        "gt_score": 87.5
+    },
+    {
+        "image": "05203.jpg",
+        "gt_score": 46.2
+    },
+    {
+        "image": "05218.jpg",
+        "gt_score": 31.33
+    },
+    {
+        "image": "05229.jpg",
+        "gt_score": 72.0
+    },
+    {
+        "image": "05235.jpg",
+        "gt_score": 53.0
+    },
+    {
+        "image": "05239.jpg",
+        "gt_score": 11.0
+    },
+    {
+        "image": "05240.jpg",
+        "gt_score": 4.0
+    },
+    {
+        "image": "05245.jpg",
+        "gt_score": 52.25
+    },
+    {
+        "image": "05247.jpg",
+        "gt_score": 25.0
+    },
+    {
+        "image": "05252.jpg",
+        "gt_score": 85.0
+    },
+    {
+        "image": "05260.jpg",
+        "gt_score": 75.67
+    },
+    {
+        "image": "05261.jpg",
+        "gt_score": 78.14
+    },
+    {
+        "image": "05266.jpg",
+        "gt_score": 7.29
+    },
+    {
+        "image": "05274.jpg",
+        "gt_score": 31.57
+    },
+    {
+        "image": "05276.jpg",
+        "gt_score": 28.43
+    },
+    {
+        "image": "05283.jpg",
+        "gt_score": 16.86
+    },
+    {
+        "image": "05285.jpg",
+        "gt_score": 36.13
+    },
+    {
+        "image": "05287.jpg",
+        "gt_score": 32.14
+    },
+    {
+        "image": "05288.jpg",
+        "gt_score": 67.29
+    },
+    {
+        "image": "05290.jpg",
+        "gt_score": 66.56
+    },
+    {
+        "image": "05291.jpg",
+        "gt_score": 38.57
+    },
+    {
+        "image": "05294.jpg",
+        "gt_score": 37.0
+    },
+    {
+        "image": "05297.jpg",
+        "gt_score": 66.57
+    },
+    {
+        "image": "05299.jpg",
+        "gt_score": 20.5
+    },
+    {
+        "image": "05303.jpg",
+        "gt_score": 40.75
+    },
+    {
+        "image": "05308.jpg",
+        "gt_score": 14.88
+    },
+    {
+        "image": "05311.jpg",
+        "gt_score": 80.86
+    },
+    {
+        "image": "05314.jpg",
+        "gt_score": 20.71
+    },
+    {
+        "image": "05325.jpg",
+        "gt_score": 67.0
+    },
+    {
+        "image": "05334.jpg",
+        "gt_score": 36.63
+    },
+    {
+        "image": "05335.jpg",
+        "gt_score": 64.44
+    },
+    {
+        "image": "05338.jpg",
+        "gt_score": 66.5
+    },
+    {
+        "image": "05342.jpg",
+        "gt_score": 60.75
+    },
+    {
+        "image": "05359.jpg",
+        "gt_score": 81.25
+    },
+    {
+        "image": "05366.jpg",
+        "gt_score": 65.13
+    },
+    {
+        "image": "05370.jpg",
+        "gt_score": 14.89
+    },
+    {
+        "image": "05372.jpg",
+        "gt_score": 75.22
+    },
+    {
+        "image": "05379.jpg",
+        "gt_score": 40.63
+    },
+    {
+        "image": "05382.jpg",
+        "gt_score": 70.0
+    },
+    {
+        "image": "05385.jpg",
+        "gt_score": 73.63
+    },
+    {
+        "image": "05386.jpg",
+        "gt_score": 71.5
+    },
+    {
+        "image": "05389.jpg",
+        "gt_score": 53.5
+    },
+    {
+        "image": "05392.jpg",
+        "gt_score": 76.17
+    },
+    {
+        "image": "05396.jpg",
+        "gt_score": 23.0
+    },
+    {
+        "image": "05398.jpg",
+        "gt_score": 19.33
+    },
+    {
+        "image": "05404.jpg",
+        "gt_score": 36.71
+    },
+    {
+        "image": "05409.jpg",
+        "gt_score": 17.71
+    },
+    {
+        "image": "05412.jpg",
+        "gt_score": 78.86
+    },
+    {
+        "image": "05413.jpg",
+        "gt_score": 39.83
+    },
+    {
+        "image": "05414.jpg",
+        "gt_score": 79.83
+    },
+    {
+        "image": "05417.jpg",
+        "gt_score": 48.67
+    },
+    {
+        "image": "05424.jpg",
+        "gt_score": 72.5
+    },
+    {
+        "image": "05430.jpg",
+        "gt_score": 26.5
+    },
+    {
+        "image": "05439.jpg",
+        "gt_score": 78.33
+    },
+    {
+        "image": "05441.jpg",
+        "gt_score": 78.33
+    },
+    {
+        "image": "05453.jpg",
+        "gt_score": 77.67
+    },
+    {
+        "image": "05461.jpg",
+        "gt_score": 31.25
+    },
+    {
+        "image": "05463.jpg",
+        "gt_score": 79.57
+    },
+    {
+        "image": "05467.jpg",
+        "gt_score": 30.63
+    },
+    {
+        "image": "05473.jpg",
+        "gt_score": 43.25
+    },
+    {
+        "image": "05479.jpg",
+        "gt_score": 60.25
+    },
+    {
+        "image": "05482.jpg",
+        "gt_score": 67.0
+    },
+    {
+        "image": "05495.jpg",
+        "gt_score": 47.5
+    },
+    {
+        "image": "05507.jpg",
+        "gt_score": 48.0
+    },
+    {
+        "image": "05514.jpg",
+        "gt_score": 36.0
+    },
+    {
+        "image": "05515.jpg",
+        "gt_score": 44.0
+    },
+    {
+        "image": "05521.jpg",
+        "gt_score": 40.0
+    },
+    {
+        "image": "05524.jpg",
+        "gt_score": 37.38
+    },
+    {
+        "image": "05534.jpg",
+        "gt_score": 46.2
+    },
+    {
+        "image": "05556.jpg",
+        "gt_score": 18.5
+    },
+    {
+        "image": "05567.jpg",
+        "gt_score": 17.4
+    },
+    {
+        "image": "05574.jpg",
+        "gt_score": 68.4
+    },
+    {
+        "image": "05575.jpg",
+        "gt_score": 40.6
+    },
+    {
+        "image": "05577.jpg",
+        "gt_score": 79.43
+    },
+    {
+        "image": "05596.jpg",
+        "gt_score": 37.8
+    },
+    {
+        "image": "05606.jpg",
+        "gt_score": 59.2
+    },
+    {
+        "image": "05608.jpg",
+        "gt_score": 36.57
+    },
+    {
+        "image": "05613.jpg",
+        "gt_score": 67.13
+    },
+    {
+        "image": "05615.jpg",
+        "gt_score": 42.78
+    },
+    {
+        "image": "05619.jpg",
+        "gt_score": 82.75
+    },
+    {
+        "image": "05621.jpg",
+        "gt_score": 51.88
+    },
+    {
+        "image": "05627.jpg",
+        "gt_score": 40.33
+    },
+    {
+        "image": "05628.jpg",
+        "gt_score": 12.0
+    },
+    {
+        "image": "05636.jpg",
+        "gt_score": 12.25
+    },
+    {
+        "image": "05638.jpg",
+        "gt_score": 45.75
+    },
+    {
+        "image": "05648.jpg",
+        "gt_score": 56.1
+    },
+    {
+        "image": "05657.jpg",
+        "gt_score": 86.63
+    },
+    {
+        "image": "05659.jpg",
+        "gt_score": 55.0
+    },
+    {
+        "image": "05673.jpg",
+        "gt_score": 48.71
+    },
+    {
+        "image": "05687.jpg",
+        "gt_score": 65.86
+    },
+    {
+        "image": "05693.jpg",
+        "gt_score": 52.57
+    },
+    {
+        "image": "05696.jpg",
+        "gt_score": 69.88
+    },
+    {
+        "image": "05699.jpg",
+        "gt_score": 37.13
+    },
+    {
+        "image": "05725.jpg",
+        "gt_score": 59.86
+    },
+    {
+        "image": "05726.jpg",
+        "gt_score": 37.0
+    },
+    {
+        "image": "05728.jpg",
+        "gt_score": 81.11
+    },
+    {
+        "image": "05730.jpg",
+        "gt_score": 78.38
+    },
+    {
+        "image": "05732.jpg",
+        "gt_score": 22.14
+    },
+    {
+        "image": "05738.jpg",
+        "gt_score": 18.38
+    },
+    {
+        "image": "05739.jpg",
+        "gt_score": 65.29
+    },
+    {
+        "image": "05741.jpg",
+        "gt_score": 58.3
+    },
+    {
+        "image": "05756.jpg",
+        "gt_score": 50.0
+    },
+    {
+        "image": "05757.jpg",
+        "gt_score": 48.1
+    },
+    {
+        "image": "05759.jpg",
+        "gt_score": 33.56
+    },
+    {
+        "image": "05760.jpg",
+        "gt_score": 22.5
+    },
+    {
+        "image": "05764.jpg",
+        "gt_score": 71.78
+    },
+    {
+        "image": "05765.jpg",
+        "gt_score": 48.56
+    },
+    {
+        "image": "05771.jpg",
+        "gt_score": 67.5
+    },
+    {
+        "image": "05774.jpg",
+        "gt_score": 63.75
+    },
+    {
+        "image": "05775.jpg",
+        "gt_score": 53.0
+    },
+    {
+        "image": "05777.jpg",
+        "gt_score": 45.82
+    },
+    {
+        "image": "05782.jpg",
+        "gt_score": 76.56
+    },
+    {
+        "image": "05784.jpg",
+        "gt_score": 11.88
+    },
+    {
+        "image": "05787.jpg",
+        "gt_score": 54.63
+    },
+    {
+        "image": "05790.jpg",
+        "gt_score": 35.0
+    },
+    {
+        "image": "05795.jpg",
+        "gt_score": 27.38
+    },
+    {
+        "image": "05803.jpg",
+        "gt_score": 49.0
+    },
+    {
+        "image": "05806.jpg",
+        "gt_score": 39.43
+    },
+    {
+        "image": "05807.jpg",
+        "gt_score": 45.25
+    },
+    {
+        "image": "05818.jpg",
+        "gt_score": 77.0
+    },
+    {
+        "image": "05827.jpg",
+        "gt_score": 53.2
+    },
+    {
+        "image": "05831.jpg",
+        "gt_score": 42.4
+    },
+    {
+        "image": "05848.jpg",
+        "gt_score": 71.6
+    },
+    {
+        "image": "05854.jpg",
+        "gt_score": 24.14
+    },
+    {
+        "image": "05859.jpg",
+        "gt_score": 48.17
+    },
+    {
+        "image": "05860.jpg",
+        "gt_score": 31.33
+    },
+    {
+        "image": "05866.jpg",
+        "gt_score": 57.17
+    },
+    {
+        "image": "05867.jpg",
+        "gt_score": 68.8
+    },
+    {
+        "image": "05868.jpg",
+        "gt_score": 57.38
+    },
+    {
+        "image": "05870.jpg",
+        "gt_score": 68.4
+    },
+    {
+        "image": "05875.jpg",
+        "gt_score": 39.0
+    },
+    {
+        "image": "05878.jpg",
+        "gt_score": 57.2
+    },
+    {
+        "image": "05888.jpg",
+        "gt_score": 27.3
+    },
+    {
+        "image": "05889.jpg",
+        "gt_score": 59.6
+    },
+    {
+        "image": "05894.jpg",
+        "gt_score": 47.09
+    },
+    {
+        "image": "05896.jpg",
+        "gt_score": 27.1
+    },
+    {
+        "image": "05897.jpg",
+        "gt_score": 32.58
+    },
+    {
+        "image": "05898.jpg",
+        "gt_score": 16.4
+    },
+    {
+        "image": "05909.jpg",
+        "gt_score": 45.1
+    },
+    {
+        "image": "05913.jpg",
+        "gt_score": 20.8
+    },
+    {
+        "image": "05914.jpg",
+        "gt_score": 72.4
+    },
+    {
+        "image": "05915.jpg",
+        "gt_score": 44.7
+    },
+    {
+        "image": "05923.jpg",
+        "gt_score": 72.22
+    },
+    {
+        "image": "05936.jpg",
+        "gt_score": 48.4
+    },
+    {
+        "image": "05944.jpg",
+        "gt_score": 33.7
+    },
+    {
+        "image": "05945.jpg",
+        "gt_score": 15.7
+    },
+    {
+        "image": "05948.jpg",
+        "gt_score": 74.4
+    },
+    {
+        "image": "05952.jpg",
+        "gt_score": 82.0
+    },
+    {
+        "image": "05960.jpg",
+        "gt_score": 30.0
+    },
+    {
+        "image": "05961.jpg",
+        "gt_score": 70.67
+    },
+    {
+        "image": "05966.jpg",
+        "gt_score": 42.75
+    },
+    {
+        "image": "05967.jpg",
+        "gt_score": 49.0
+    },
+    {
+        "image": "05972.jpg",
+        "gt_score": 82.0
+    },
+    {
+        "image": "05974.jpg",
+        "gt_score": 53.5
+    },
+    {
+        "image": "05980.jpg",
+        "gt_score": 71.0
+    },
+    {
+        "image": "06001.jpg",
+        "gt_score": 25.33
+    },
+    {
+        "image": "06010.jpg",
+        "gt_score": 75.67
+    },
+    {
+        "image": "06012.jpg",
+        "gt_score": 76.75
+    },
+    {
+        "image": "06014.jpg",
+        "gt_score": 67.25
+    },
+    {
+        "image": "06020.jpg",
+        "gt_score": 67.5
+    },
+    {
+        "image": "06023.jpg",
+        "gt_score": 40.5
+    },
+    {
+        "image": "06032.jpg",
+        "gt_score": 28.89
+    },
+    {
+        "image": "06047.jpg",
+        "gt_score": 23.89
+    },
+    {
+        "image": "06054.jpg",
+        "gt_score": 59.22
+    },
+    {
+        "image": "06063.jpg",
+        "gt_score": 62.11
+    },
+    {
+        "image": "06071.jpg",
+        "gt_score": 70.2
+    },
+    {
+        "image": "06083.jpg",
+        "gt_score": 50.22
+    },
+    {
+        "image": "06089.jpg",
+        "gt_score": 31.1
+    },
+    {
+        "image": "06099.jpg",
+        "gt_score": 72.33
+    },
+    {
+        "image": "06108.jpg",
+        "gt_score": 38.5
+    },
+    {
+        "image": "06121.jpg",
+        "gt_score": 39.17
+    },
+    {
+        "image": "06128.jpg",
+        "gt_score": 44.17
+    },
+    {
+        "image": "06130.jpg",
+        "gt_score": 46.0
+    },
+    {
+        "image": "06134.jpg",
+        "gt_score": 16.67
+    },
+    {
+        "image": "06139.jpg",
+        "gt_score": 20.71
+    },
+    {
+        "image": "06140.jpg",
+        "gt_score": 24.0
+    },
+    {
+        "image": "06143.jpg",
+        "gt_score": 63.5
+    },
+    {
+        "image": "06144.jpg",
+        "gt_score": 29.83
+    },
+    {
+        "image": "06146.jpg",
+        "gt_score": 48.71
+    },
+    {
+        "image": "06148.jpg",
+        "gt_score": 75.83
+    },
+    {
+        "image": "06152.jpg",
+        "gt_score": 21.29
+    },
+    {
+        "image": "06156.jpg",
+        "gt_score": 57.5
+    },
+    {
+        "image": "06157.jpg",
+        "gt_score": 81.0
+    },
+    {
+        "image": "06159.jpg",
+        "gt_score": 11.5
+    },
+    {
+        "image": "06163.jpg",
+        "gt_score": 68.0
+    },
+    {
+        "image": "06172.jpg",
+        "gt_score": 66.43
+    },
+    {
+        "image": "06173.jpg",
+        "gt_score": 19.83
+    },
+    {
+        "image": "06174.jpg",
+        "gt_score": 73.57
+    },
+    {
+        "image": "06176.jpg",
+        "gt_score": 49.57
+    },
+    {
+        "image": "06183.jpg",
+        "gt_score": 39.57
+    },
+    {
+        "image": "06185.jpg",
+        "gt_score": 78.38
+    },
+    {
+        "image": "06186.jpg",
+        "gt_score": 79.43
+    },
+    {
+        "image": "06191.jpg",
+        "gt_score": 30.71
+    },
+    {
+        "image": "06198.jpg",
+        "gt_score": 46.71
+    },
+    {
+        "image": "06204.jpg",
+        "gt_score": 45.63
+    },
+    {
+        "image": "06209.jpg",
+        "gt_score": 68.0
+    },
+    {
+        "image": "06230.jpg",
+        "gt_score": 69.25
+    },
+    {
+        "image": "06238.jpg",
+        "gt_score": 44.0
+    },
+    {
+        "image": "06252.jpg",
+        "gt_score": 45.0
+    },
+    {
+        "image": "06257.jpg",
+        "gt_score": 32.0
+    },
+    {
+        "image": "06273.jpg",
+        "gt_score": 43.0
+    },
+    {
+        "image": "06274.jpg",
+        "gt_score": 55.33
+    },
+    {
+        "image": "06275.jpg",
+        "gt_score": 33.67
+    },
+    {
+        "image": "06286.jpg",
+        "gt_score": 73.33
+    },
+    {
+        "image": "06288.jpg",
+        "gt_score": 36.67
+    },
+    {
+        "image": "06289.jpg",
+        "gt_score": 58.67
+    },
+    {
+        "image": "06292.jpg",
+        "gt_score": 36.67
+    },
+    {
+        "image": "06302.jpg",
+        "gt_score": 69.17
+    },
+    {
+        "image": "06307.jpg",
+        "gt_score": 67.86
+    },
+    {
+        "image": "06314.jpg",
+        "gt_score": 48.33
+    },
+    {
+        "image": "06317.jpg",
+        "gt_score": 60.33
+    },
+    {
+        "image": "06322.jpg",
+        "gt_score": 70.33
+    },
+    {
+        "image": "06326.jpg",
+        "gt_score": 67.0
+    },
+    {
+        "image": "06327.jpg",
+        "gt_score": 58.83
+    },
+    {
+        "image": "06330.jpg",
+        "gt_score": 45.33
+    },
+    {
+        "image": "06349.jpg",
+        "gt_score": 61.67
+    },
+    {
+        "image": "06354.jpg",
+        "gt_score": 45.17
+    },
+    {
+        "image": "06357.jpg",
+        "gt_score": 74.83
+    },
+    {
+        "image": "06358.jpg",
+        "gt_score": 18.67
+    },
+    {
+        "image": "06372.jpg",
+        "gt_score": 53.25
+    },
+    {
+        "image": "06381.jpg",
+        "gt_score": 64.63
+    },
+    {
+        "image": "06383.jpg",
+        "gt_score": 52.89
+    },
+    {
+        "image": "06384.jpg",
+        "gt_score": 32.22
+    },
+    {
+        "image": "06389.jpg",
+        "gt_score": 61.89
+    },
+    {
+        "image": "06401.jpg",
+        "gt_score": 71.44
+    },
+    {
+        "image": "06407.jpg",
+        "gt_score": 49.38
+    },
+    {
+        "image": "06409.jpg",
+        "gt_score": 22.38
+    },
+    {
+        "image": "06410.jpg",
+        "gt_score": 16.5
+    },
+    {
+        "image": "06415.jpg",
+        "gt_score": 34.0
+    },
+    {
+        "image": "06425.jpg",
+        "gt_score": 28.0
+    },
+    {
+        "image": "06433.jpg",
+        "gt_score": 53.13
+    },
+    {
+        "image": "06436.jpg",
+        "gt_score": 58.75
+    },
+    {
+        "image": "06445.jpg",
+        "gt_score": 32.14
+    },
+    {
+        "image": "06447.jpg",
+        "gt_score": 74.71
+    },
+    {
+        "image": "06451.jpg",
+        "gt_score": 93.33
+    },
+    {
+        "image": "06453.jpg",
+        "gt_score": 35.86
+    },
+    {
+        "image": "06459.jpg",
+        "gt_score": 14.88
+    },
+    {
+        "image": "06465.jpg",
+        "gt_score": 24.0
+    },
+    {
+        "image": "06474.jpg",
+        "gt_score": 75.86
+    },
+    {
+        "image": "06478.jpg",
+        "gt_score": 33.33
+    },
+    {
+        "image": "06486.jpg",
+        "gt_score": 69.71
+    },
+    {
+        "image": "06488.jpg",
+        "gt_score": 35.38
+    },
+    {
+        "image": "06503.jpg",
+        "gt_score": 62.43
+    },
+    {
+        "image": "06507.jpg",
+        "gt_score": 76.11
+    },
+    {
+        "image": "06509.jpg",
+        "gt_score": 68.56
+    },
+    {
+        "image": "06529.jpg",
+        "gt_score": 56.89
+    },
+    {
+        "image": "06533.jpg",
+        "gt_score": 46.86
+    },
+    {
+        "image": "06534.jpg",
+        "gt_score": 22.25
+    },
+    {
+        "image": "06541.jpg",
+        "gt_score": 71.29
+    },
+    {
+        "image": "06545.jpg",
+        "gt_score": 69.0
+    },
+    {
+        "image": "06546.jpg",
+        "gt_score": 77.86
+    },
+    {
+        "image": "06550.jpg",
+        "gt_score": 49.71
+    },
+    {
+        "image": "06553.jpg",
+        "gt_score": 26.0
+    },
+    {
+        "image": "06559.jpg",
+        "gt_score": 38.71
+    },
+    {
+        "image": "06563.jpg",
+        "gt_score": 60.38
+    },
+    {
+        "image": "06568.jpg",
+        "gt_score": 43.57
+    },
+    {
+        "image": "06574.jpg",
+        "gt_score": 76.25
+    },
+    {
+        "image": "06577.jpg",
+        "gt_score": 26.57
+    },
+    {
+        "image": "06582.jpg",
+        "gt_score": 63.0
+    },
+    {
+        "image": "06585.jpg",
+        "gt_score": 79.4
+    },
+    {
+        "image": "06586.jpg",
+        "gt_score": 72.83
+    },
+    {
+        "image": "06587.jpg",
+        "gt_score": 74.0
+    },
+    {
+        "image": "06588.jpg",
+        "gt_score": 64.6
+    },
+    {
+        "image": "06592.jpg",
+        "gt_score": 31.2
+    },
+    {
+        "image": "06601.jpg",
+        "gt_score": 56.6
+    },
+    {
+        "image": "06606.jpg",
+        "gt_score": 43.4
+    },
+    {
+        "image": "06607.jpg",
+        "gt_score": 23.6
+    },
+    {
+        "image": "06619.jpg",
+        "gt_score": 36.4
+    },
+    {
+        "image": "06623.jpg",
+        "gt_score": 47.83
+    },
+    {
+        "image": "06628.jpg",
+        "gt_score": 43.5
+    },
+    {
+        "image": "06637.jpg",
+        "gt_score": 28.67
+    },
+    {
+        "image": "06640.jpg",
+        "gt_score": 49.0
+    },
+    {
+        "image": "06646.jpg",
+        "gt_score": 45.25
+    },
+    {
+        "image": "06652.jpg",
+        "gt_score": 67.33
+    },
+    {
+        "image": "06659.jpg",
+        "gt_score": 45.86
+    },
+    {
+        "image": "06663.jpg",
+        "gt_score": 54.67
+    },
+    {
+        "image": "06666.jpg",
+        "gt_score": 75.86
+    },
+    {
+        "image": "06669.jpg",
+        "gt_score": 32.57
+    },
+    {
+        "image": "06670.jpg",
+        "gt_score": 55.83
+    },
+    {
+        "image": "06671.jpg",
+        "gt_score": 40.0
+    },
+    {
+        "image": "06683.jpg",
+        "gt_score": 34.29
+    },
+    {
+        "image": "06687.jpg",
+        "gt_score": 26.33
+    },
+    {
+        "image": "06694.jpg",
+        "gt_score": 70.57
+    },
+    {
+        "image": "06699.jpg",
+        "gt_score": 57.83
+    },
+    {
+        "image": "06700.jpg",
+        "gt_score": 53.17
+    },
+    {
+        "image": "06705.jpg",
+        "gt_score": 73.83
+    },
+    {
+        "image": "06708.jpg",
+        "gt_score": 14.71
+    },
+    {
+        "image": "06713.jpg",
+        "gt_score": 53.88
+    },
+    {
+        "image": "06714.jpg",
+        "gt_score": 53.29
+    },
+    {
+        "image": "06718.jpg",
+        "gt_score": 41.5
+    },
+    {
+        "image": "06727.jpg",
+        "gt_score": 72.2
+    },
+    {
+        "image": "06731.jpg",
+        "gt_score": 59.83
+    },
+    {
+        "image": "06732.jpg",
+        "gt_score": 61.6
+    },
+    {
+        "image": "06733.jpg",
+        "gt_score": 18.2
+    },
+    {
+        "image": "06734.jpg",
+        "gt_score": 9.6
+    },
+    {
+        "image": "06743.jpg",
+        "gt_score": 36.6
+    },
+    {
+        "image": "06744.jpg",
+        "gt_score": 25.2
+    },
+    {
+        "image": "06745.jpg",
+        "gt_score": 58.88
+    },
+    {
+        "image": "06748.jpg",
+        "gt_score": 71.2
+    },
+    {
+        "image": "06749.jpg",
+        "gt_score": 20.2
+    },
+    {
+        "image": "06750.jpg",
+        "gt_score": 62.8
+    },
+    {
+        "image": "06758.jpg",
+        "gt_score": 8.4
+    },
+    {
+        "image": "06759.jpg",
+        "gt_score": 60.0
+    },
+    {
+        "image": "06770.jpg",
+        "gt_score": 22.0
+    },
+    {
+        "image": "06781.jpg",
+        "gt_score": 27.0
+    },
+    {
+        "image": "06782.jpg",
+        "gt_score": 23.8
+    },
+    {
+        "image": "06785.jpg",
+        "gt_score": 19.8
+    },
+    {
+        "image": "06786.jpg",
+        "gt_score": 37.6
+    },
+    {
+        "image": "06789.jpg",
+        "gt_score": 29.8
+    },
+    {
+        "image": "06792.jpg",
+        "gt_score": 89.0
+    },
+    {
+        "image": "06798.jpg",
+        "gt_score": 93.5
+    },
+    {
+        "image": "06800.jpg",
+        "gt_score": 7.5
+    },
+    {
+        "image": "06803.jpg",
+        "gt_score": 20.5
+    },
+    {
+        "image": "06805.jpg",
+        "gt_score": 22.5
+    },
+    {
+        "image": "06811.jpg",
+        "gt_score": 79.5
+    },
+    {
+        "image": "06813.jpg",
+        "gt_score": 79.5
+    },
+    {
+        "image": "06818.jpg",
+        "gt_score": 15.67
+    },
+    {
+        "image": "06824.jpg",
+        "gt_score": 27.5
+    },
+    {
+        "image": "06825.jpg",
+        "gt_score": 49.0
+    },
+    {
+        "image": "06828.jpg",
+        "gt_score": 83.75
+    },
+    {
+        "image": "06829.jpg",
+        "gt_score": 48.33
+    },
+    {
+        "image": "06830.jpg",
+        "gt_score": 44.0
+    },
+    {
+        "image": "06831.jpg",
+        "gt_score": 88.5
+    },
+    {
+        "image": "06852.jpg",
+        "gt_score": 40.0
+    },
+    {
+        "image": "06858.jpg",
+        "gt_score": 86.0
+    },
+    {
+        "image": "06889.jpg",
+        "gt_score": 45.0
+    },
+    {
+        "image": "06900.jpg",
+        "gt_score": 85.5
+    },
+    {
+        "image": "06915.jpg",
+        "gt_score": 26.75
+    },
+    {
+        "image": "06917.jpg",
+        "gt_score": 30.5
+    },
+    {
+        "image": "06924.jpg",
+        "gt_score": 38.0
+    },
+    {
+        "image": "06925.jpg",
+        "gt_score": 53.0
+    },
+    {
+        "image": "06934.jpg",
+        "gt_score": 72.56
+    },
+    {
+        "image": "06939.jpg",
+        "gt_score": 13.7
+    },
+    {
+        "image": "06941.jpg",
+        "gt_score": 29.6
+    },
+    {
+        "image": "06943.jpg",
+        "gt_score": 6.11
+    },
+    {
+        "image": "06947.jpg",
+        "gt_score": 40.1
+    },
+    {
+        "image": "06949.jpg",
+        "gt_score": 79.0
+    },
+    {
+        "image": "06952.jpg",
+        "gt_score": 74.82
+    },
+    {
+        "image": "06967.jpg",
+        "gt_score": 28.1
+    },
+    {
+        "image": "06969.jpg",
+        "gt_score": 68.8
+    },
+    {
+        "image": "06972.jpg",
+        "gt_score": 44.7
+    },
+    {
+        "image": "06981.jpg",
+        "gt_score": 11.5
+    },
+    {
+        "image": "06987.jpg",
+        "gt_score": 11.11
+    },
+    {
+        "image": "06988.jpg",
+        "gt_score": 60.6
+    },
+    {
+        "image": "06991.jpg",
+        "gt_score": 30.4
+    },
+    {
+        "image": "06999.jpg",
+        "gt_score": 74.64
+    },
+    {
+        "image": "07007.jpg",
+        "gt_score": 47.0
+    },
+    {
+        "image": "07029.jpg",
+        "gt_score": 53.88
+    },
+    {
+        "image": "07042.jpg",
+        "gt_score": 44.0
+    },
+    {
+        "image": "07044.jpg",
+        "gt_score": 34.33
+    },
+    {
+        "image": "07060.jpg",
+        "gt_score": 44.14
+    },
+    {
+        "image": "07063.jpg",
+        "gt_score": 43.14
+    },
+    {
+        "image": "07072.jpg",
+        "gt_score": 61.0
+    },
+    {
+        "image": "07075.jpg",
+        "gt_score": 37.5
+    },
+    {
+        "image": "07078.jpg",
+        "gt_score": 81.67
+    },
+    {
+        "image": "07083.jpg",
+        "gt_score": 70.25
+    },
+    {
+        "image": "07089.jpg",
+        "gt_score": 8.5
+    },
+    {
+        "image": "07094.jpg",
+        "gt_score": 51.0
+    },
+    {
+        "image": "07104.jpg",
+        "gt_score": 74.17
+    },
+    {
+        "image": "07105.jpg",
+        "gt_score": 45.25
+    },
+    {
+        "image": "07108.jpg",
+        "gt_score": 38.75
+    },
+    {
+        "image": "07111.jpg",
+        "gt_score": 76.67
+    },
+    {
+        "image": "07116.jpg",
+        "gt_score": 33.25
+    },
+    {
+        "image": "07118.jpg",
+        "gt_score": 52.0
+    },
+    {
+        "image": "07120.jpg",
+        "gt_score": 87.4
+    },
+    {
+        "image": "07122.jpg",
+        "gt_score": 80.4
+    },
+    {
+        "image": "07126.jpg",
+        "gt_score": 43.0
+    },
+    {
+        "image": "07129.jpg",
+        "gt_score": 22.75
+    },
+    {
+        "image": "07132.jpg",
+        "gt_score": 34.75
+    },
+    {
+        "image": "07133.jpg",
+        "gt_score": 57.75
+    },
+    {
+        "image": "07137.jpg",
+        "gt_score": 26.75
+    },
+    {
+        "image": "07138.jpg",
+        "gt_score": 32.4
+    },
+    {
+        "image": "07142.jpg",
+        "gt_score": 32.8
+    },
+    {
+        "image": "07144.jpg",
+        "gt_score": 49.71
+    },
+    {
+        "image": "07146.jpg",
+        "gt_score": 57.17
+    },
+    {
+        "image": "07150.jpg",
+        "gt_score": 68.2
+    },
+    {
+        "image": "07156.jpg",
+        "gt_score": 62.4
+    },
+    {
+        "image": "07172.jpg",
+        "gt_score": 72.2
+    },
+    {
+        "image": "07173.jpg",
+        "gt_score": 48.4
+    },
+    {
+        "image": "07176.jpg",
+        "gt_score": 53.67
+    },
+    {
+        "image": "07187.jpg",
+        "gt_score": 72.33
+    },
+    {
+        "image": "07192.jpg",
+        "gt_score": 78.63
+    },
+    {
+        "image": "07195.jpg",
+        "gt_score": 40.83
+    },
+    {
+        "image": "07202.jpg",
+        "gt_score": 39.6
+    },
+    {
+        "image": "07205.jpg",
+        "gt_score": 79.4
+    },
+    {
+        "image": "07210.jpg",
+        "gt_score": 37.6
+    },
+    {
+        "image": "07212.jpg",
+        "gt_score": 34.0
+    },
+    {
+        "image": "07219.jpg",
+        "gt_score": 82.0
+    },
+    {
+        "image": "07220.jpg",
+        "gt_score": 67.0
+    },
+    {
+        "image": "07224.jpg",
+        "gt_score": 28.0
+    },
+    {
+        "image": "07230.jpg",
+        "gt_score": 73.5
+    },
+    {
+        "image": "07238.jpg",
+        "gt_score": 43.0
+    },
+    {
+        "image": "07241.jpg",
+        "gt_score": 62.5
+    },
+    {
+        "image": "07243.jpg",
+        "gt_score": 38.5
+    },
+    {
+        "image": "07244.jpg",
+        "gt_score": 31.0
+    },
+    {
+        "image": "07250.jpg",
+        "gt_score": 41.67
+    },
+    {
+        "image": "07251.jpg",
+        "gt_score": 77.5
+    },
+    {
+        "image": "07252.jpg",
+        "gt_score": 32.67
+    },
+    {
+        "image": "07254.jpg",
+        "gt_score": 87.0
+    },
+    {
+        "image": "07259.jpg",
+        "gt_score": 90.5
+    },
+    {
+        "image": "07260.jpg",
+        "gt_score": 66.0
+    },
+    {
+        "image": "07270.jpg",
+        "gt_score": 82.5
+    },
+    {
+        "image": "07275.jpg",
+        "gt_score": 88.0
+    },
+    {
+        "image": "07276.jpg",
+        "gt_score": 44.5
+    },
+    {
+        "image": "07281.jpg",
+        "gt_score": 79.5
+    },
+    {
+        "image": "07287.jpg",
+        "gt_score": 43.67
+    },
+    {
+        "image": "07291.jpg",
+        "gt_score": 24.75
+    },
+    {
+        "image": "07298.jpg",
+        "gt_score": 91.67
+    },
+    {
+        "image": "07301.jpg",
+        "gt_score": 63.33
+    },
+    {
+        "image": "07302.jpg",
+        "gt_score": 39.0
+    },
+    {
+        "image": "07317.jpg",
+        "gt_score": 59.0
+    },
+    {
+        "image": "07322.jpg",
+        "gt_score": 19.33
+    },
+    {
+        "image": "07331.jpg",
+        "gt_score": 25.0
+    },
+    {
+        "image": "07337.jpg",
+        "gt_score": 93.67
+    },
+    {
+        "image": "07340.jpg",
+        "gt_score": 50.67
+    },
+    {
+        "image": "07345.jpg",
+        "gt_score": 57.67
+    },
+    {
+        "image": "07348.jpg",
+        "gt_score": 83.0
+    },
+    {
+        "image": "07352.jpg",
+        "gt_score": 14.8
+    },
+    {
+        "image": "07354.jpg",
+        "gt_score": 23.67
+    },
+    {
+        "image": "07358.jpg",
+        "gt_score": 19.6
+    },
+    {
+        "image": "07360.jpg",
+        "gt_score": 70.0
+    },
+    {
+        "image": "07363.jpg",
+        "gt_score": 70.33
+    },
+    {
+        "image": "07371.jpg",
+        "gt_score": 20.8
+    },
+    {
+        "image": "07372.jpg",
+        "gt_score": 77.8
+    },
+    {
+        "image": "07374.jpg",
+        "gt_score": 65.2
+    },
+    {
+        "image": "07375.jpg",
+        "gt_score": 44.0
+    },
+    {
+        "image": "07376.jpg",
+        "gt_score": 14.2
+    },
+    {
+        "image": "07383.jpg",
+        "gt_score": 26.2
+    },
+    {
+        "image": "07385.jpg",
+        "gt_score": 66.8
+    },
+    {
+        "image": "07388.jpg",
+        "gt_score": 18.5
+    },
+    {
+        "image": "07393.jpg",
+        "gt_score": 78.0
+    },
+    {
+        "image": "07394.jpg",
+        "gt_score": 24.2
+    },
+    {
+        "image": "07396.jpg",
+        "gt_score": 7.8
+    },
+    {
+        "image": "07402.jpg",
+        "gt_score": 25.6
+    },
+    {
+        "image": "07403.jpg",
+        "gt_score": 19.2
+    },
+    {
+        "image": "07405.jpg",
+        "gt_score": 72.0
+    },
+    {
+        "image": "07411.jpg",
+        "gt_score": 24.83
+    },
+    {
+        "image": "07414.jpg",
+        "gt_score": 31.6
+    },
+    {
+        "image": "07419.jpg",
+        "gt_score": 79.8
+    },
+    {
+        "image": "07436.jpg",
+        "gt_score": 31.89
+    },
+    {
+        "image": "07447.jpg",
+        "gt_score": 68.0
+    },
+    {
+        "image": "07449.jpg",
+        "gt_score": 38.25
+    },
+    {
+        "image": "07452.jpg",
+        "gt_score": 44.75
+    },
+    {
+        "image": "07454.jpg",
+        "gt_score": 33.67
+    },
+    {
+        "image": "07458.jpg",
+        "gt_score": 33.33
+    },
+    {
+        "image": "07460.jpg",
+        "gt_score": 79.38
+    },
+    {
+        "image": "07461.jpg",
+        "gt_score": 82.0
+    },
+    {
+        "image": "07466.jpg",
+        "gt_score": 25.25
+    },
+    {
+        "image": "07469.jpg",
+        "gt_score": 85.5
+    },
+    {
+        "image": "07479.jpg",
+        "gt_score": 22.91
+    },
+    {
+        "image": "07486.jpg",
+        "gt_score": 32.43
+    },
+    {
+        "image": "07489.jpg",
+        "gt_score": 73.38
+    },
+    {
+        "image": "07507.jpg",
+        "gt_score": 80.43
+    },
+    {
+        "image": "07514.jpg",
+        "gt_score": 41.5
+    },
+    {
+        "image": "07517.jpg",
+        "gt_score": 36.17
+    },
+    {
+        "image": "07522.jpg",
+        "gt_score": 28.5
+    },
+    {
+        "image": "07527.jpg",
+        "gt_score": 39.33
+    },
+    {
+        "image": "07528.jpg",
+        "gt_score": 30.17
+    },
+    {
+        "image": "07529.jpg",
+        "gt_score": 84.17
+    },
+    {
+        "image": "07530.jpg",
+        "gt_score": 57.71
+    },
+    {
+        "image": "07533.jpg",
+        "gt_score": 16.0
+    },
+    {
+        "image": "07538.jpg",
+        "gt_score": 43.33
+    },
+    {
+        "image": "07539.jpg",
+        "gt_score": 52.14
+    },
+    {
+        "image": "07540.jpg",
+        "gt_score": 41.33
+    },
+    {
+        "image": "07547.jpg",
+        "gt_score": 40.5
+    },
+    {
+        "image": "07549.jpg",
+        "gt_score": 32.5
+    },
+    {
+        "image": "07550.jpg",
+        "gt_score": 60.17
+    },
+    {
+        "image": "07552.jpg",
+        "gt_score": 67.83
+    },
+    {
+        "image": "07560.jpg",
+        "gt_score": 77.0
+    },
+    {
+        "image": "07567.jpg",
+        "gt_score": 19.4
+    },
+    {
+        "image": "07568.jpg",
+        "gt_score": 59.4
+    },
+    {
+        "image": "07577.jpg",
+        "gt_score": 35.17
+    },
+    {
+        "image": "07588.jpg",
+        "gt_score": 48.2
+    },
+    {
+        "image": "07589.jpg",
+        "gt_score": 60.2
+    },
+    {
+        "image": "07595.jpg",
+        "gt_score": 18.83
+    },
+    {
+        "image": "07603.jpg",
+        "gt_score": 74.8
+    },
+    {
+        "image": "07608.jpg",
+        "gt_score": 75.0
+    },
+    {
+        "image": "07611.jpg",
+        "gt_score": 66.86
+    },
+    {
+        "image": "07620.jpg",
+        "gt_score": 60.75
+    },
+    {
+        "image": "07622.jpg",
+        "gt_score": 55.6
+    },
+    {
+        "image": "07638.jpg",
+        "gt_score": 54.14
+    },
+    {
+        "image": "07639.jpg",
+        "gt_score": 47.83
+    },
+    {
+        "image": "07640.jpg",
+        "gt_score": 59.5
+    },
+    {
+        "image": "07642.jpg",
+        "gt_score": 69.67
+    },
+    {
+        "image": "07647.jpg",
+        "gt_score": 77.33
+    },
+    {
+        "image": "07652.jpg",
+        "gt_score": 39.43
+    },
+    {
+        "image": "07655.jpg",
+        "gt_score": 25.43
+    },
+    {
+        "image": "07660.jpg",
+        "gt_score": 71.67
+    },
+    {
+        "image": "07669.jpg",
+        "gt_score": 75.67
+    },
+    {
+        "image": "07670.jpg",
+        "gt_score": 14.33
+    },
+    {
+        "image": "07676.jpg",
+        "gt_score": 58.86
+    },
+    {
+        "image": "07679.jpg",
+        "gt_score": 74.67
+    },
+    {
+        "image": "07681.jpg",
+        "gt_score": 50.83
+    },
+    {
+        "image": "07682.jpg",
+        "gt_score": 81.33
+    },
+    {
+        "image": "07693.jpg",
+        "gt_score": 47.13
+    },
+    {
+        "image": "07694.jpg",
+        "gt_score": 27.88
+    },
+    {
+        "image": "07698.jpg",
+        "gt_score": 75.17
+    },
+    {
+        "image": "07702.jpg",
+        "gt_score": 14.8
+    },
+    {
+        "image": "07704.jpg",
+        "gt_score": 72.6
+    },
+    {
+        "image": "07709.jpg",
+        "gt_score": 34.0
+    },
+    {
+        "image": "07713.jpg",
+        "gt_score": 23.8
+    },
+    {
+        "image": "07723.jpg",
+        "gt_score": 59.33
+    },
+    {
+        "image": "07725.jpg",
+        "gt_score": 77.0
+    },
+    {
+        "image": "07729.jpg",
+        "gt_score": 71.5
+    },
+    {
+        "image": "07730.jpg",
+        "gt_score": 41.33
+    },
+    {
+        "image": "07733.jpg",
+        "gt_score": 42.8
+    },
+    {
+        "image": "07744.jpg",
+        "gt_score": 33.4
+    },
+    {
+        "image": "07749.jpg",
+        "gt_score": 47.8
+    },
+    {
+        "image": "07758.jpg",
+        "gt_score": 8.6
+    },
+    {
+        "image": "07761.jpg",
+        "gt_score": 27.2
+    },
+    {
+        "image": "07763.jpg",
+        "gt_score": 71.2
+    },
+    {
+        "image": "07772.jpg",
+        "gt_score": 71.29
+    },
+    {
+        "image": "07773.jpg",
+        "gt_score": 24.29
+    },
+    {
+        "image": "07775.jpg",
+        "gt_score": 49.0
+    },
+    {
+        "image": "07776.jpg",
+        "gt_score": 77.29
+    },
+    {
+        "image": "07796.jpg",
+        "gt_score": 72.0
+    },
+    {
+        "image": "07803.jpg",
+        "gt_score": 27.29
+    },
+    {
+        "image": "07807.jpg",
+        "gt_score": 21.5
+    },
+    {
+        "image": "07809.jpg",
+        "gt_score": 63.29
+    },
+    {
+        "image": "07827.jpg",
+        "gt_score": 80.5
+    },
+    {
+        "image": "07832.jpg",
+        "gt_score": 40.38
+    },
+    {
+        "image": "07835.jpg",
+        "gt_score": 70.17
+    },
+    {
+        "image": "07841.jpg",
+        "gt_score": 44.0
+    },
+    {
+        "image": "07847.jpg",
+        "gt_score": 83.33
+    },
+    {
+        "image": "07848.jpg",
+        "gt_score": 81.0
+    },
+    {
+        "image": "07857.jpg",
+        "gt_score": 66.17
+    },
+    {
+        "image": "07858.jpg",
+        "gt_score": 35.86
+    },
+    {
+        "image": "07859.jpg",
+        "gt_score": 47.0
+    },
+    {
+        "image": "07865.jpg",
+        "gt_score": 43.83
+    },
+    {
+        "image": "07882.jpg",
+        "gt_score": 72.17
+    },
+    {
+        "image": "07883.jpg",
+        "gt_score": 61.17
+    },
+    {
+        "image": "07886.jpg",
+        "gt_score": 12.17
+    },
+    {
+        "image": "07888.jpg",
+        "gt_score": 74.67
+    },
+    {
+        "image": "07900.jpg",
+        "gt_score": 50.43
+    },
+    {
+        "image": "07909.jpg",
+        "gt_score": 62.8
+    },
+    {
+        "image": "07912.jpg",
+        "gt_score": 29.71
+    },
+    {
+        "image": "07915.jpg",
+        "gt_score": 24.5
+    },
+    {
+        "image": "07917.jpg",
+        "gt_score": 38.67
+    },
+    {
+        "image": "07927.jpg",
+        "gt_score": 50.86
+    },
+    {
+        "image": "07929.jpg",
+        "gt_score": 27.13
+    },
+    {
+        "image": "07958.jpg",
+        "gt_score": 56.33
+    },
+    {
+        "image": "07968.jpg",
+        "gt_score": 75.0
+    },
+    {
+        "image": "07971.jpg",
+        "gt_score": 60.0
+    },
+    {
+        "image": "07979.jpg",
+        "gt_score": 50.14
+    },
+    {
+        "image": "07983.jpg",
+        "gt_score": 68.33
+    },
+    {
+        "image": "07993.jpg",
+        "gt_score": 66.0
+    },
+    {
+        "image": "07999.jpg",
+        "gt_score": 48.6
+    },
+    {
+        "image": "08002.jpg",
+        "gt_score": 48.83
+    },
+    {
+        "image": "08004.jpg",
+        "gt_score": 78.8
+    },
+    {
+        "image": "08025.jpg",
+        "gt_score": 69.5
+    },
+    {
+        "image": "08028.jpg",
+        "gt_score": 31.4
+    },
+    {
+        "image": "08031.jpg",
+        "gt_score": 28.6
+    },
+    {
+        "image": "08033.jpg",
+        "gt_score": 84.6
+    },
+    {
+        "image": "08035.jpg",
+        "gt_score": 54.14
+    },
+    {
+        "image": "08040.jpg",
+        "gt_score": 26.0
+    },
+    {
+        "image": "08043.jpg",
+        "gt_score": 53.6
+    },
+    {
+        "image": "08044.jpg",
+        "gt_score": 39.2
+    },
+    {
+        "image": "08047.jpg",
+        "gt_score": 36.2
+    },
+    {
+        "image": "08052.jpg",
+        "gt_score": 34.75
+    },
+    {
+        "image": "08059.jpg",
+        "gt_score": 52.57
+    },
+    {
+        "image": "08060.jpg",
+        "gt_score": 51.0
+    },
+    {
+        "image": "08067.jpg",
+        "gt_score": 46.14
+    },
+    {
+        "image": "08068.jpg",
+        "gt_score": 75.14
+    },
+    {
+        "image": "08074.jpg",
+        "gt_score": 83.17
+    },
+    {
+        "image": "08078.jpg",
+        "gt_score": 63.38
+    },
+    {
+        "image": "08082.jpg",
+        "gt_score": 66.29
+    },
+    {
+        "image": "08086.jpg",
+        "gt_score": 67.14
+    },
+    {
+        "image": "08091.jpg",
+        "gt_score": 75.43
+    },
+    {
+        "image": "08093.jpg",
+        "gt_score": 70.5
+    },
+    {
+        "image": "08098.jpg",
+        "gt_score": 32.43
+    },
+    {
+        "image": "08101.jpg",
+        "gt_score": 78.75
+    },
+    {
+        "image": "08113.jpg",
+        "gt_score": 65.89
+    },
+    {
+        "image": "08114.jpg",
+        "gt_score": 80.5
+    },
+    {
+        "image": "08120.jpg",
+        "gt_score": 43.57
+    },
+    {
+        "image": "08124.jpg",
+        "gt_score": 18.5
+    },
+    {
+        "image": "08138.jpg",
+        "gt_score": 38.29
+    },
+    {
+        "image": "08147.jpg",
+        "gt_score": 71.17
+    },
+    {
+        "image": "08159.jpg",
+        "gt_score": 42.0
+    },
+    {
+        "image": "08161.jpg",
+        "gt_score": 41.71
+    },
+    {
+        "image": "08170.jpg",
+        "gt_score": 78.57
+    },
+    {
+        "image": "08173.jpg",
+        "gt_score": 71.0
+    },
+    {
+        "image": "08192.jpg",
+        "gt_score": 61.25
+    },
+    {
+        "image": "08208.jpg",
+        "gt_score": 33.8
+    },
+    {
+        "image": "08209.jpg",
+        "gt_score": 11.0
+    },
+    {
+        "image": "08211.jpg",
+        "gt_score": 27.0
+    },
+    {
+        "image": "08219.jpg",
+        "gt_score": 13.75
+    },
+    {
+        "image": "08229.jpg",
+        "gt_score": 43.0
+    },
+    {
+        "image": "08235.jpg",
+        "gt_score": 50.75
+    },
+    {
+        "image": "08237.jpg",
+        "gt_score": 63.25
+    },
+    {
+        "image": "08242.jpg",
+        "gt_score": 70.67
+    },
+    {
+        "image": "08247.jpg",
+        "gt_score": 35.75
+    },
+    {
+        "image": "08248.jpg",
+        "gt_score": 31.8
+    },
+    {
+        "image": "08253.jpg",
+        "gt_score": 68.75
+    },
+    {
+        "image": "08255.jpg",
+        "gt_score": 56.67
+    },
+    {
+        "image": "08262.jpg",
+        "gt_score": 19.92
+    },
+    {
+        "image": "08263.jpg",
+        "gt_score": 15.44
+    },
+    {
+        "image": "08266.jpg",
+        "gt_score": 31.11
+    },
+    {
+        "image": "08269.jpg",
+        "gt_score": 18.56
+    },
+    {
+        "image": "08279.jpg",
+        "gt_score": 82.89
+    },
+    {
+        "image": "08286.jpg",
+        "gt_score": 63.88
+    },
+    {
+        "image": "08304.jpg",
+        "gt_score": 66.78
+    },
+    {
+        "image": "08329.jpg",
+        "gt_score": 83.5
+    },
+    {
+        "image": "08351.jpg",
+        "gt_score": 48.5
+    },
+    {
+        "image": "08353.jpg",
+        "gt_score": 66.6
+    },
+    {
+        "image": "08357.jpg",
+        "gt_score": 85.17
+    },
+    {
+        "image": "08365.jpg",
+        "gt_score": 45.4
+    },
+    {
+        "image": "08371.jpg",
+        "gt_score": 64.8
+    },
+    {
+        "image": "08375.jpg",
+        "gt_score": 45.6
+    },
+    {
+        "image": "08376.jpg",
+        "gt_score": 44.4
+    },
+    {
+        "image": "08379.jpg",
+        "gt_score": 51.8
+    },
+    {
+        "image": "08385.jpg",
+        "gt_score": 62.6
+    },
+    {
+        "image": "08387.jpg",
+        "gt_score": 75.2
+    },
+    {
+        "image": "08389.jpg",
+        "gt_score": 39.2
+    },
+    {
+        "image": "08392.jpg",
+        "gt_score": 36.29
+    },
+    {
+        "image": "08394.jpg",
+        "gt_score": 40.38
+    },
+    {
+        "image": "08397.jpg",
+        "gt_score": 39.75
+    },
+    {
+        "image": "08401.jpg",
+        "gt_score": 59.0
+    },
+    {
+        "image": "08407.jpg",
+        "gt_score": 59.0
+    },
+    {
+        "image": "08412.jpg",
+        "gt_score": 75.75
+    },
+    {
+        "image": "08420.jpg",
+        "gt_score": 35.25
+    },
+    {
+        "image": "08424.jpg",
+        "gt_score": 82.5
+    },
+    {
+        "image": "08426.jpg",
+        "gt_score": 58.67
+    },
+    {
+        "image": "08427.jpg",
+        "gt_score": 89.33
+    },
+    {
+        "image": "08435.jpg",
+        "gt_score": 29.67
+    },
+    {
+        "image": "08439.jpg",
+        "gt_score": 35.0
+    },
+    {
+        "image": "08444.jpg",
+        "gt_score": 77.0
+    },
+    {
+        "image": "08450.jpg",
+        "gt_score": 74.33
+    },
+    {
+        "image": "08452.jpg",
+        "gt_score": 85.33
+    },
+    {
+        "image": "08456.jpg",
+        "gt_score": 4.75
+    },
+    {
+        "image": "08459.jpg",
+        "gt_score": 35.67
+    },
+    {
+        "image": "08461.jpg",
+        "gt_score": 74.0
+    },
+    {
+        "image": "08462.jpg",
+        "gt_score": 36.67
+    },
+    {
+        "image": "08467.jpg",
+        "gt_score": 29.0
+    },
+    {
+        "image": "08469.jpg",
+        "gt_score": 82.5
+    },
+    {
+        "image": "08484.jpg",
+        "gt_score": 19.44
+    },
+    {
+        "image": "08485.jpg",
+        "gt_score": 65.33
+    },
+    {
+        "image": "08486.jpg",
+        "gt_score": 21.33
+    },
+    {
+        "image": "08494.jpg",
+        "gt_score": 69.75
+    },
+    {
+        "image": "08495.jpg",
+        "gt_score": 76.63
+    },
+    {
+        "image": "08506.jpg",
+        "gt_score": 73.0
+    },
+    {
+        "image": "08507.jpg",
+        "gt_score": 47.5
+    },
+    {
+        "image": "08511.jpg",
+        "gt_score": 48.5
+    },
+    {
+        "image": "08518.jpg",
+        "gt_score": 41.0
+    },
+    {
+        "image": "08530.jpg",
+        "gt_score": 20.25
+    },
+    {
+        "image": "08532.jpg",
+        "gt_score": 80.2
+    },
+    {
+        "image": "08536.jpg",
+        "gt_score": 43.5
+    },
+    {
+        "image": "08541.jpg",
+        "gt_score": 72.83
+    },
+    {
+        "image": "08554.jpg",
+        "gt_score": 42.5
+    },
+    {
+        "image": "08561.jpg",
+        "gt_score": 40.75
+    },
+    {
+        "image": "08565.jpg",
+        "gt_score": 58.6
+    },
+    {
+        "image": "08566.jpg",
+        "gt_score": 80.5
+    },
+    {
+        "image": "08576.jpg",
+        "gt_score": 79.4
+    },
+    {
+        "image": "08578.jpg",
+        "gt_score": 64.25
+    },
+    {
+        "image": "08580.jpg",
+        "gt_score": 66.2
+    },
+    {
+        "image": "08593.jpg",
+        "gt_score": 43.0
+    },
+    {
+        "image": "08597.jpg",
+        "gt_score": 55.25
+    },
+    {
+        "image": "08598.jpg",
+        "gt_score": 66.25
+    },
+    {
+        "image": "08604.jpg",
+        "gt_score": 22.8
+    },
+    {
+        "image": "08605.jpg",
+        "gt_score": 80.5
+    },
+    {
+        "image": "08613.jpg",
+        "gt_score": 32.8
+    },
+    {
+        "image": "08620.jpg",
+        "gt_score": 21.0
+    },
+    {
+        "image": "08625.jpg",
+        "gt_score": 87.6
+    },
+    {
+        "image": "08627.jpg",
+        "gt_score": 85.33
+    },
+    {
+        "image": "08631.jpg",
+        "gt_score": 57.2
+    },
+    {
+        "image": "08633.jpg",
+        "gt_score": 42.71
+    },
+    {
+        "image": "08635.jpg",
+        "gt_score": 56.4
+    },
+    {
+        "image": "08638.jpg",
+        "gt_score": 52.33
+    },
+    {
+        "image": "08643.jpg",
+        "gt_score": 87.6
+    },
+    {
+        "image": "08648.jpg",
+        "gt_score": 4.8
+    },
+    {
+        "image": "08649.jpg",
+        "gt_score": 73.4
+    },
+    {
+        "image": "08652.jpg",
+        "gt_score": 24.17
+    },
+    {
+        "image": "08659.jpg",
+        "gt_score": 70.5
+    },
+    {
+        "image": "08665.jpg",
+        "gt_score": 33.5
+    },
+    {
+        "image": "08674.jpg",
+        "gt_score": 67.0
+    },
+    {
+        "image": "08676.jpg",
+        "gt_score": 38.25
+    },
+    {
+        "image": "08685.jpg",
+        "gt_score": 60.13
+    },
+    {
+        "image": "08686.jpg",
+        "gt_score": 28.4
+    },
+    {
+        "image": "08689.jpg",
+        "gt_score": 71.88
+    },
+    {
+        "image": "08690.jpg",
+        "gt_score": 52.25
+    },
+    {
+        "image": "08694.jpg",
+        "gt_score": 46.13
+    },
+    {
+        "image": "08696.jpg",
+        "gt_score": 73.78
+    },
+    {
+        "image": "08703.jpg",
+        "gt_score": 77.5
+    },
+    {
+        "image": "08710.jpg",
+        "gt_score": 22.44
+    },
+    {
+        "image": "08711.jpg",
+        "gt_score": 18.78
+    },
+    {
+        "image": "08717.jpg",
+        "gt_score": 17.38
+    },
+    {
+        "image": "08718.jpg",
+        "gt_score": 39.5
+    },
+    {
+        "image": "08719.jpg",
+        "gt_score": 72.6
+    },
+    {
+        "image": "08721.jpg",
+        "gt_score": 71.5
+    },
+    {
+        "image": "08723.jpg",
+        "gt_score": 32.0
+    },
+    {
+        "image": "08726.jpg",
+        "gt_score": 21.89
+    },
+    {
+        "image": "08727.jpg",
+        "gt_score": 45.13
+    },
+    {
+        "image": "08729.jpg",
+        "gt_score": 35.33
+    },
+    {
+        "image": "08730.jpg",
+        "gt_score": 60.0
+    },
+    {
+        "image": "08733.jpg",
+        "gt_score": 39.75
+    },
+    {
+        "image": "08734.jpg",
+        "gt_score": 34.78
+    },
+    {
+        "image": "08741.jpg",
+        "gt_score": 39.33
+    },
+    {
+        "image": "08746.jpg",
+        "gt_score": 49.86
+    },
+    {
+        "image": "08749.jpg",
+        "gt_score": 35.88
+    },
+    {
+        "image": "08753.jpg",
+        "gt_score": 71.2
+    },
+    {
+        "image": "08756.jpg",
+        "gt_score": 16.83
+    },
+    {
+        "image": "08762.jpg",
+        "gt_score": 43.5
+    },
+    {
+        "image": "08766.jpg",
+        "gt_score": 62.5
+    },
+    {
+        "image": "08773.jpg",
+        "gt_score": 79.5
+    },
+    {
+        "image": "08775.jpg",
+        "gt_score": 27.8
+    },
+    {
+        "image": "08776.jpg",
+        "gt_score": 76.25
+    },
+    {
+        "image": "08781.jpg",
+        "gt_score": 66.5
+    },
+    {
+        "image": "08785.jpg",
+        "gt_score": 27.25
+    },
+    {
+        "image": "08786.jpg",
+        "gt_score": 73.25
+    },
+    {
+        "image": "08788.jpg",
+        "gt_score": 12.0
+    },
+    {
+        "image": "08795.jpg",
+        "gt_score": 50.0
+    },
+    {
+        "image": "08797.jpg",
+        "gt_score": 17.0
+    },
+    {
+        "image": "08799.jpg",
+        "gt_score": 63.8
+    },
+    {
+        "image": "08800.jpg",
+        "gt_score": 76.0
+    },
+    {
+        "image": "08806.jpg",
+        "gt_score": 86.25
+    },
+    {
+        "image": "08818.jpg",
+        "gt_score": 43.75
+    },
+    {
+        "image": "08821.jpg",
+        "gt_score": 64.33
+    },
+    {
+        "image": "08829.jpg",
+        "gt_score": 60.5
+    },
+    {
+        "image": "08837.jpg",
+        "gt_score": 38.2
+    },
+    {
+        "image": "08848.jpg",
+        "gt_score": 22.71
+    },
+    {
+        "image": "08860.jpg",
+        "gt_score": 71.13
+    },
+    {
+        "image": "08865.jpg",
+        "gt_score": 28.25
+    },
+    {
+        "image": "08872.jpg",
+        "gt_score": 85.29
+    },
+    {
+        "image": "08874.jpg",
+        "gt_score": 64.0
+    },
+    {
+        "image": "08877.jpg",
+        "gt_score": 30.5
+    },
+    {
+        "image": "08882.jpg",
+        "gt_score": 74.33
+    },
+    {
+        "image": "08885.jpg",
+        "gt_score": 70.13
+    },
+    {
+        "image": "08887.jpg",
+        "gt_score": 35.29
+    },
+    {
+        "image": "08889.jpg",
+        "gt_score": 51.5
+    },
+    {
+        "image": "08893.jpg",
+        "gt_score": 53.86
+    },
+    {
+        "image": "08909.jpg",
+        "gt_score": 44.38
+    },
+    {
+        "image": "08913.jpg",
+        "gt_score": 28.43
+    },
+    {
+        "image": "08916.jpg",
+        "gt_score": 20.13
+    },
+    {
+        "image": "08917.jpg",
+        "gt_score": 55.83
+    },
+    {
+        "image": "08922.jpg",
+        "gt_score": 72.0
+    },
+    {
+        "image": "08923.jpg",
+        "gt_score": 61.71
+    },
+    {
+        "image": "08927.jpg",
+        "gt_score": 78.29
+    },
+    {
+        "image": "08929.jpg",
+        "gt_score": 78.43
+    },
+    {
+        "image": "08934.jpg",
+        "gt_score": 41.57
+    },
+    {
+        "image": "08945.jpg",
+        "gt_score": 52.33
+    },
+    {
+        "image": "08946.jpg",
+        "gt_score": 68.0
+    },
+    {
+        "image": "08949.jpg",
+        "gt_score": 35.33
+    },
+    {
+        "image": "08954.jpg",
+        "gt_score": 53.83
+    },
+    {
+        "image": "08956.jpg",
+        "gt_score": 46.83
+    },
+    {
+        "image": "08979.jpg",
+        "gt_score": 37.1
+    },
+    {
+        "image": "08982.jpg",
+        "gt_score": 57.5
+    },
+    {
+        "image": "08993.jpg",
+        "gt_score": 55.88
+    },
+    {
+        "image": "08995.jpg",
+        "gt_score": 16.29
+    },
+    {
+        "image": "08999.jpg",
+        "gt_score": 33.63
+    },
+    {
+        "image": "09010.jpg",
+        "gt_score": 32.17
+    },
+    {
+        "image": "09012.jpg",
+        "gt_score": 63.33
+    },
+    {
+        "image": "09013.jpg",
+        "gt_score": 83.17
+    },
+    {
+        "image": "09020.jpg",
+        "gt_score": 52.29
+    },
+    {
+        "image": "09021.jpg",
+        "gt_score": 50.43
+    },
+    {
+        "image": "09024.jpg",
+        "gt_score": 59.67
+    },
+    {
+        "image": "09027.jpg",
+        "gt_score": 59.83
+    },
+    {
+        "image": "09031.jpg",
+        "gt_score": 49.5
+    },
+    {
+        "image": "09032.jpg",
+        "gt_score": 6.17
+    },
+    {
+        "image": "09034.jpg",
+        "gt_score": 6.67
+    },
+    {
+        "image": "09041.jpg",
+        "gt_score": 65.5
+    },
+    {
+        "image": "09043.jpg",
+        "gt_score": 10.33
+    },
+    {
+        "image": "09051.jpg",
+        "gt_score": 34.25
+    },
+    {
+        "image": "09066.jpg",
+        "gt_score": 60.6
+    },
+    {
+        "image": "09067.jpg",
+        "gt_score": 65.8
+    },
+    {
+        "image": "09068.jpg",
+        "gt_score": 68.13
+    },
+    {
+        "image": "09074.jpg",
+        "gt_score": 57.5
+    },
+    {
+        "image": "09075.jpg",
+        "gt_score": 67.4
+    },
+    {
+        "image": "09088.jpg",
+        "gt_score": 66.83
+    },
+    {
+        "image": "09093.jpg",
+        "gt_score": 69.17
+    },
+    {
+        "image": "09094.jpg",
+        "gt_score": 37.25
+    },
+    {
+        "image": "09101.jpg",
+        "gt_score": 42.0
+    },
+    {
+        "image": "09107.jpg",
+        "gt_score": 27.4
+    },
+    {
+        "image": "09111.jpg",
+        "gt_score": 73.43
+    },
+    {
+        "image": "09112.jpg",
+        "gt_score": 64.5
+    },
+    {
+        "image": "09116.jpg",
+        "gt_score": 53.2
+    },
+    {
+        "image": "09140.jpg",
+        "gt_score": 38.0
+    },
+    {
+        "image": "09145.jpg",
+        "gt_score": 75.17
+    },
+    {
+        "image": "09154.jpg",
+        "gt_score": 47.8
+    },
+    {
+        "image": "09156.jpg",
+        "gt_score": 42.4
+    },
+    {
+        "image": "09158.jpg",
+        "gt_score": 36.4
+    },
+    {
+        "image": "09178.jpg",
+        "gt_score": 35.6
+    },
+    {
+        "image": "09182.jpg",
+        "gt_score": 71.89
+    },
+    {
+        "image": "09184.jpg",
+        "gt_score": 56.44
+    },
+    {
+        "image": "09187.jpg",
+        "gt_score": 29.67
+    },
+    {
+        "image": "09188.jpg",
+        "gt_score": 34.67
+    },
+    {
+        "image": "09189.jpg",
+        "gt_score": 46.9
+    },
+    {
+        "image": "09191.jpg",
+        "gt_score": 13.13
+    },
+    {
+        "image": "09206.jpg",
+        "gt_score": 56.33
+    },
+    {
+        "image": "09210.jpg",
+        "gt_score": 30.78
+    },
+    {
+        "image": "09212.jpg",
+        "gt_score": 35.45
+    },
+    {
+        "image": "09213.jpg",
+        "gt_score": 33.4
+    },
+    {
+        "image": "09221.jpg",
+        "gt_score": 54.56
+    },
+    {
+        "image": "09224.jpg",
+        "gt_score": 43.1
+    },
+    {
+        "image": "09227.jpg",
+        "gt_score": 85.56
+    },
+    {
+        "image": "09230.jpg",
+        "gt_score": 26.78
+    },
+    {
+        "image": "09236.jpg",
+        "gt_score": 73.3
+    },
+    {
+        "image": "09253.jpg",
+        "gt_score": 68.86
+    },
+    {
+        "image": "09259.jpg",
+        "gt_score": 46.29
+    },
+    {
+        "image": "09260.jpg",
+        "gt_score": 59.67
+    },
+    {
+        "image": "09263.jpg",
+        "gt_score": 65.83
+    },
+    {
+        "image": "09265.jpg",
+        "gt_score": 24.43
+    },
+    {
+        "image": "09267.jpg",
+        "gt_score": 62.67
+    },
+    {
+        "image": "09272.jpg",
+        "gt_score": 63.33
+    },
+    {
+        "image": "09274.jpg",
+        "gt_score": 26.83
+    },
+    {
+        "image": "09285.jpg",
+        "gt_score": 63.43
+    },
+    {
+        "image": "09291.jpg",
+        "gt_score": 32.67
+    },
+    {
+        "image": "09296.jpg",
+        "gt_score": 33.17
+    },
+    {
+        "image": "09299.jpg",
+        "gt_score": 69.67
+    },
+    {
+        "image": "09300.jpg",
+        "gt_score": 25.29
+    },
+    {
+        "image": "09303.jpg",
+        "gt_score": 32.17
+    },
+    {
+        "image": "09307.jpg",
+        "gt_score": 59.83
+    },
+    {
+        "image": "09314.jpg",
+        "gt_score": 76.63
+    },
+    {
+        "image": "09318.jpg",
+        "gt_score": 67.13
+    },
+    {
+        "image": "09321.jpg",
+        "gt_score": 43.13
+    },
+    {
+        "image": "09333.jpg",
+        "gt_score": 28.9
+    },
+    {
+        "image": "09335.jpg",
+        "gt_score": 34.38
+    },
+    {
+        "image": "09346.jpg",
+        "gt_score": 77.43
+    },
+    {
+        "image": "09349.jpg",
+        "gt_score": 68.57
+    },
+    {
+        "image": "09356.jpg",
+        "gt_score": 42.75
+    },
+    {
+        "image": "09357.jpg",
+        "gt_score": 35.43
+    },
+    {
+        "image": "09358.jpg",
+        "gt_score": 31.25
+    },
+    {
+        "image": "09360.jpg",
+        "gt_score": 25.14
+    },
+    {
+        "image": "09363.jpg",
+        "gt_score": 72.0
+    },
+    {
+        "image": "09364.jpg",
+        "gt_score": 44.88
+    },
+    {
+        "image": "09376.jpg",
+        "gt_score": 48.33
+    },
+    {
+        "image": "09379.jpg",
+        "gt_score": 27.14
+    },
+    {
+        "image": "09384.jpg",
+        "gt_score": 32.83
+    },
+    {
+        "image": "09391.jpg",
+        "gt_score": 76.83
+    },
+    {
+        "image": "09399.jpg",
+        "gt_score": 14.14
+    },
+    {
+        "image": "09402.jpg",
+        "gt_score": 75.43
+    },
+    {
+        "image": "09408.jpg",
+        "gt_score": 83.0
+    },
+    {
+        "image": "09416.jpg",
+        "gt_score": 10.83
+    },
+    {
+        "image": "09421.jpg",
+        "gt_score": 79.0
+    },
+    {
+        "image": "09425.jpg",
+        "gt_score": 71.67
+    },
+    {
+        "image": "09441.jpg",
+        "gt_score": 11.0
+    },
+    {
+        "image": "09446.jpg",
+        "gt_score": 37.0
+    },
+    {
+        "image": "09448.jpg",
+        "gt_score": 10.0
+    },
+    {
+        "image": "09451.jpg",
+        "gt_score": 76.22
+    },
+    {
+        "image": "09452.jpg",
+        "gt_score": 12.0
+    },
+    {
+        "image": "09455.jpg",
+        "gt_score": 75.22
+    },
+    {
+        "image": "09460.jpg",
+        "gt_score": 71.33
+    },
+    {
+        "image": "09461.jpg",
+        "gt_score": 17.2
+    },
+    {
+        "image": "09468.jpg",
+        "gt_score": 81.56
+    },
+    {
+        "image": "09472.jpg",
+        "gt_score": 80.11
+    },
+    {
+        "image": "09473.jpg",
+        "gt_score": 64.4
+    },
+    {
+        "image": "09477.jpg",
+        "gt_score": 10.44
+    },
+    {
+        "image": "09480.jpg",
+        "gt_score": 57.33
+    },
+    {
+        "image": "09483.jpg",
+        "gt_score": 56.4
+    },
+    {
+        "image": "09485.jpg",
+        "gt_score": 42.89
+    },
+    {
+        "image": "09487.jpg",
+        "gt_score": 21.56
+    },
+    {
+        "image": "09498.jpg",
+        "gt_score": 75.0
+    },
+    {
+        "image": "09499.jpg",
+        "gt_score": 45.67
+    },
+    {
+        "image": "09509.jpg",
+        "gt_score": 60.5
+    },
+    {
+        "image": "09510.jpg",
+        "gt_score": 66.4
+    },
+    {
+        "image": "09511.jpg",
+        "gt_score": 69.88
+    },
+    {
+        "image": "09513.jpg",
+        "gt_score": 74.5
+    },
+    {
+        "image": "09520.jpg",
+        "gt_score": 26.38
+    },
+    {
+        "image": "09521.jpg",
+        "gt_score": 73.29
+    },
+    {
+        "image": "09528.jpg",
+        "gt_score": 75.83
+    },
+    {
+        "image": "09535.jpg",
+        "gt_score": 25.67
+    },
+    {
+        "image": "09540.jpg",
+        "gt_score": 43.0
+    },
+    {
+        "image": "09541.jpg",
+        "gt_score": 31.29
+    },
+    {
+        "image": "09543.jpg",
+        "gt_score": 59.5
+    },
+    {
+        "image": "09551.jpg",
+        "gt_score": 50.57
+    },
+    {
+        "image": "09555.jpg",
+        "gt_score": 36.0
+    },
+    {
+        "image": "09557.jpg",
+        "gt_score": 42.29
+    },
+    {
+        "image": "09560.jpg",
+        "gt_score": 76.17
+    },
+    {
+        "image": "09562.jpg",
+        "gt_score": 67.33
+    },
+    {
+        "image": "09563.jpg",
+        "gt_score": 52.17
+    },
+    {
+        "image": "09588.jpg",
+        "gt_score": 72.17
+    },
+    {
+        "image": "09589.jpg",
+        "gt_score": 75.0
+    },
+    {
+        "image": "09592.jpg",
+        "gt_score": 80.83
+    },
+    {
+        "image": "09596.jpg",
+        "gt_score": 22.57
+    },
+    {
+        "image": "09599.jpg",
+        "gt_score": 74.57
+    },
+    {
+        "image": "09602.jpg",
+        "gt_score": 47.0
+    },
+    {
+        "image": "09609.jpg",
+        "gt_score": 40.33
+    },
+    {
+        "image": "09611.jpg",
+        "gt_score": 50.67
+    },
+    {
+        "image": "09612.jpg",
+        "gt_score": 31.83
+    },
+    {
+        "image": "09613.jpg",
+        "gt_score": 23.83
+    },
+    {
+        "image": "09615.jpg",
+        "gt_score": 75.14
+    },
+    {
+        "image": "09619.jpg",
+        "gt_score": 83.17
+    },
+    {
+        "image": "09622.jpg",
+        "gt_score": 79.67
+    },
+    {
+        "image": "09628.jpg",
+        "gt_score": 56.17
+    },
+    {
+        "image": "09629.jpg",
+        "gt_score": 64.0
+    },
+    {
+        "image": "09632.jpg",
+        "gt_score": 55.83
+    },
+    {
+        "image": "09633.jpg",
+        "gt_score": 57.71
+    },
+    {
+        "image": "09634.jpg",
+        "gt_score": 24.25
+    },
+    {
+        "image": "09644.jpg",
+        "gt_score": 21.67
+    },
+    {
+        "image": "09648.jpg",
+        "gt_score": 9.33
+    },
+    {
+        "image": "09653.jpg",
+        "gt_score": 66.0
+    },
+    {
+        "image": "09663.jpg",
+        "gt_score": 88.25
+    },
+    {
+        "image": "09670.jpg",
+        "gt_score": 77.0
+    },
+    {
+        "image": "09673.jpg",
+        "gt_score": 74.5
+    },
+    {
+        "image": "09674.jpg",
+        "gt_score": 49.0
+    },
+    {
+        "image": "09679.jpg",
+        "gt_score": 31.0
+    },
+    {
+        "image": "09689.jpg",
+        "gt_score": 66.0
+    },
+    {
+        "image": "09694.jpg",
+        "gt_score": 41.25
+    },
+    {
+        "image": "09702.jpg",
+        "gt_score": 34.25
+    },
+    {
+        "image": "09705.jpg",
+        "gt_score": 90.25
+    },
+    {
+        "image": "09711.jpg",
+        "gt_score": 56.75
+    },
+    {
+        "image": "09713.jpg",
+        "gt_score": 51.0
+    },
+    {
+        "image": "09715.jpg",
+        "gt_score": 42.5
+    },
+    {
+        "image": "09716.jpg",
+        "gt_score": 83.25
+    },
+    {
+        "image": "09717.jpg",
+        "gt_score": 59.6
+    },
+    {
+        "image": "09721.jpg",
+        "gt_score": 82.0
+    },
+    {
+        "image": "09722.jpg",
+        "gt_score": 29.25
+    },
+    {
+        "image": "09723.jpg",
+        "gt_score": 48.25
+    },
+    {
+        "image": "09724.jpg",
+        "gt_score": 65.5
+    },
+    {
+        "image": "09726.jpg",
+        "gt_score": 71.6
+    },
+    {
+        "image": "09727.jpg",
+        "gt_score": 47.25
+    },
+    {
+        "image": "09738.jpg",
+        "gt_score": 80.56
+    },
+    {
+        "image": "09740.jpg",
+        "gt_score": 44.11
+    },
+    {
+        "image": "09754.jpg",
+        "gt_score": 27.63
+    },
+    {
+        "image": "09756.jpg",
+        "gt_score": 49.11
+    },
+    {
+        "image": "09764.jpg",
+        "gt_score": 22.9
+    },
+    {
+        "image": "09766.jpg",
+        "gt_score": 40.4
+    },
+    {
+        "image": "09774.jpg",
+        "gt_score": 19.7
+    },
+    {
+        "image": "09775.jpg",
+        "gt_score": 20.78
+    },
+    {
+        "image": "09776.jpg",
+        "gt_score": 78.09
+    },
+    {
+        "image": "09777.jpg",
+        "gt_score": 86.88
+    },
+    {
+        "image": "09779.jpg",
+        "gt_score": 57.44
+    },
+    {
+        "image": "09783.jpg",
+        "gt_score": 30.7
+    },
+    {
+        "image": "09786.jpg",
+        "gt_score": 35.73
+    },
+    {
+        "image": "09787.jpg",
+        "gt_score": 40.3
+    },
+    {
+        "image": "09789.jpg",
+        "gt_score": 84.0
+    },
+    {
+        "image": "09791.jpg",
+        "gt_score": 62.33
+    },
+    {
+        "image": "09796.jpg",
+        "gt_score": 80.0
+    },
+    {
+        "image": "09810.jpg",
+        "gt_score": 31.14
+    },
+    {
+        "image": "09811.jpg",
+        "gt_score": 28.29
+    },
+    {
+        "image": "09818.jpg",
+        "gt_score": 46.57
+    },
+    {
+        "image": "09821.jpg",
+        "gt_score": 64.29
+    },
+    {
+        "image": "09827.jpg",
+        "gt_score": 27.43
+    },
+    {
+        "image": "09829.jpg",
+        "gt_score": 44.57
+    },
+    {
+        "image": "09836.jpg",
+        "gt_score": 46.0
+    },
+    {
+        "image": "09842.jpg",
+        "gt_score": 75.63
+    },
+    {
+        "image": "09870.jpg",
+        "gt_score": 86.0
+    },
+    {
+        "image": "09876.jpg",
+        "gt_score": 34.4
+    },
+    {
+        "image": "09893.jpg",
+        "gt_score": 71.0
+    },
+    {
+        "image": "09894.jpg",
+        "gt_score": 40.0
+    },
+    {
+        "image": "09895.jpg",
+        "gt_score": 42.6
+    },
+    {
+        "image": "09898.jpg",
+        "gt_score": 71.5
+    },
+    {
+        "image": "09901.jpg",
+        "gt_score": 36.75
+    },
+    {
+        "image": "09904.jpg",
+        "gt_score": 31.0
+    },
+    {
+        "image": "09907.jpg",
+        "gt_score": 49.25
+    },
+    {
+        "image": "09913.jpg",
+        "gt_score": 32.5
+    },
+    {
+        "image": "09922.jpg",
+        "gt_score": 38.8
+    },
+    {
+        "image": "09924.jpg",
+        "gt_score": 57.8
+    },
+    {
+        "image": "09926.jpg",
+        "gt_score": 68.0
+    },
+    {
+        "image": "09927.jpg",
+        "gt_score": 56.25
+    },
+    {
+        "image": "09928.jpg",
+        "gt_score": 28.4
+    },
+    {
+        "image": "09931.jpg",
+        "gt_score": 52.75
+    },
+    {
+        "image": "09940.jpg",
+        "gt_score": 52.0
+    },
+    {
+        "image": "09941.jpg",
+        "gt_score": 23.0
+    },
+    {
+        "image": "09948.jpg",
+        "gt_score": 17.5
+    },
+    {
+        "image": "09949.jpg",
+        "gt_score": 43.14
+    },
+    {
+        "image": "09951.jpg",
+        "gt_score": 18.83
+    },
+    {
+        "image": "09953.jpg",
+        "gt_score": 36.0
+    },
+    {
+        "image": "09958.jpg",
+        "gt_score": 54.0
+    },
+    {
+        "image": "09961.jpg",
+        "gt_score": 18.57
+    },
+    {
+        "image": "09967.jpg",
+        "gt_score": 63.33
+    },
+    {
+        "image": "09971.jpg",
+        "gt_score": 29.83
+    },
+    {
+        "image": "09972.jpg",
+        "gt_score": 49.33
+    },
+    {
+        "image": "09988.jpg",
+        "gt_score": 6.33
+    },
+    {
+        "image": "09992.jpg",
+        "gt_score": 67.33
+    },
+    {
+        "image": "09993.jpg",
+        "gt_score": 28.0
+    },
+    {
+        "image": "09997.jpg",
+        "gt_score": 63.0
+    },
+    {
+        "image": "10016.jpg",
+        "gt_score": 69.08
+    },
+    {
+        "image": "10019.jpg",
+        "gt_score": 29.08
+    },
+    {
+        "image": "10032.jpg",
+        "gt_score": 4.75
+    },
+    {
+        "image": "10045.jpg",
+        "gt_score": 44.0
+    },
+    {
+        "image": "10060.jpg",
+        "gt_score": 36.77
+    },
+    {
+        "image": "10062.jpg",
+        "gt_score": 26.08
+    },
+    {
+        "image": "10067.jpg",
+        "gt_score": 69.0
+    },
+    {
+        "image": "10079.jpg",
+        "gt_score": 53.43
+    },
+    {
+        "image": "10082.jpg",
+        "gt_score": 43.0
+    },
+    {
+        "image": "10098.jpg",
+        "gt_score": 33.71
+    },
+    {
+        "image": "10101.jpg",
+        "gt_score": 84.57
+    },
+    {
+        "image": "10102.jpg",
+        "gt_score": 66.13
+    },
+    {
+        "image": "10104.jpg",
+        "gt_score": 26.63
+    },
+    {
+        "image": "10109.jpg",
+        "gt_score": 36.13
+    },
+    {
+        "image": "10110.jpg",
+        "gt_score": 54.5
+    },
+    {
+        "image": "10118.jpg",
+        "gt_score": 85.71
+    },
+    {
+        "image": "10124.jpg",
+        "gt_score": 65.5
+    },
+    {
+        "image": "10127.jpg",
+        "gt_score": 21.25
+    },
+    {
+        "image": "10128.jpg",
+        "gt_score": 78.13
+    },
+    {
+        "image": "10129.jpg",
+        "gt_score": 26.63
+    },
+    {
+        "image": "10132.jpg",
+        "gt_score": 25.38
+    },
+    {
+        "image": "10133.jpg",
+        "gt_score": 30.13
+    },
+    {
+        "image": "10135.jpg",
+        "gt_score": 79.71
+    },
+    {
+        "image": "10138.jpg",
+        "gt_score": 51.88
+    },
+    {
+        "image": "10144.jpg",
+        "gt_score": 49.75
+    },
+    {
+        "image": "10147.jpg",
+        "gt_score": 51.63
+    },
+    {
+        "image": "10150.jpg",
+        "gt_score": 76.5
+    },
+    {
+        "image": "10151.jpg",
+        "gt_score": 36.75
+    },
+    {
+        "image": "10152.jpg",
+        "gt_score": 34.75
+    },
+    {
+        "image": "10156.jpg",
+        "gt_score": 66.38
+    },
+    {
+        "image": "10166.jpg",
+        "gt_score": 15.17
+    },
+    {
+        "image": "10168.jpg",
+        "gt_score": 57.14
+    },
+    {
+        "image": "10173.jpg",
+        "gt_score": 16.43
+    },
+    {
+        "image": "10175.jpg",
+        "gt_score": 79.14
+    },
+    {
+        "image": "10180.jpg",
+        "gt_score": 70.57
+    },
+    {
+        "image": "10182.jpg",
+        "gt_score": 25.43
+    },
+    {
+        "image": "10183.jpg",
+        "gt_score": 36.43
+    },
+    {
+        "image": "10185.jpg",
+        "gt_score": 15.14
+    },
+    {
+        "image": "10186.jpg",
+        "gt_score": 83.71
+    },
+    {
+        "image": "10188.jpg",
+        "gt_score": 85.86
+    },
+    {
+        "image": "10197.jpg",
+        "gt_score": 48.71
+    },
+    {
+        "image": "10199.jpg",
+        "gt_score": 73.57
+    },
+    {
+        "image": "10200.jpg",
+        "gt_score": 33.86
+    },
+    {
+        "image": "10212.jpg",
+        "gt_score": 62.71
+    },
+    {
+        "image": "10218.jpg",
+        "gt_score": 56.71
+    },
+    {
+        "image": "10219.jpg",
+        "gt_score": 25.0
+    },
+    {
+        "image": "10221.jpg",
+        "gt_score": 66.29
+    },
+    {
+        "image": "10233.jpg",
+        "gt_score": 19.57
+    },
+    {
+        "image": "10234.jpg",
+        "gt_score": 69.14
+    },
+    {
+        "image": "10245.jpg",
+        "gt_score": 50.88
+    },
+    {
+        "image": "10248.jpg",
+        "gt_score": 56.63
+    },
+    {
+        "image": "10271.jpg",
+        "gt_score": 71.88
+    },
+    {
+        "image": "10277.jpg",
+        "gt_score": 26.13
+    },
+    {
+        "image": "10278.jpg",
+        "gt_score": 24.5
+    },
+    {
+        "image": "10283.jpg",
+        "gt_score": 63.88
+    },
+    {
+        "image": "10285.jpg",
+        "gt_score": 27.88
+    },
+    {
+        "image": "10290.jpg",
+        "gt_score": 26.25
+    },
+    {
+        "image": "10296.jpg",
+        "gt_score": 27.57
+    },
+    {
+        "image": "10298.jpg",
+        "gt_score": 54.57
+    },
+    {
+        "image": "10312.jpg",
+        "gt_score": 27.43
+    },
+    {
+        "image": "10315.jpg",
+        "gt_score": 39.14
+    },
+    {
+        "image": "10316.jpg",
+        "gt_score": 73.5
+    },
+    {
+        "image": "10318.jpg",
+        "gt_score": 58.86
+    },
+    {
+        "image": "10323.jpg",
+        "gt_score": 77.14
+    },
+    {
+        "image": "10324.jpg",
+        "gt_score": 37.57
+    },
+    {
+        "image": "10327.jpg",
+        "gt_score": 38.71
+    },
+    {
+        "image": "10334.jpg",
+        "gt_score": 72.29
+    },
+    {
+        "image": "10336.jpg",
+        "gt_score": 86.0
+    },
+    {
+        "image": "10337.jpg",
+        "gt_score": 12.71
+    },
+    {
+        "image": "10342.jpg",
+        "gt_score": 61.57
+    },
+    {
+        "image": "10350.jpg",
+        "gt_score": 35.33
+    },
+    {
+        "image": "10361.jpg",
+        "gt_score": 75.5
+    },
+    {
+        "image": "10369.jpg",
+        "gt_score": 31.17
+    },
+    {
+        "image": "10380.jpg",
+        "gt_score": 78.0
+    },
+    {
+        "image": "10383.jpg",
+        "gt_score": 66.17
+    },
+    {
+        "image": "10396.jpg",
+        "gt_score": 62.33
+    },
+    {
+        "image": "10397.jpg",
+        "gt_score": 39.33
+    },
+    {
+        "image": "10401.jpg",
+        "gt_score": 45.0
+    },
+    {
+        "image": "10405.jpg",
+        "gt_score": 12.67
+    },
+    {
+        "image": "10407.jpg",
+        "gt_score": 8.6
+    },
+    {
+        "image": "10410.jpg",
+        "gt_score": 72.33
+    },
+    {
+        "image": "10411.jpg",
+        "gt_score": 22.33
+    },
+    {
+        "image": "10412.jpg",
+        "gt_score": 72.0
+    },
+    {
+        "image": "10414.jpg",
+        "gt_score": 63.33
+    },
+    {
+        "image": "10421.jpg",
+        "gt_score": 21.0
+    },
+    {
+        "image": "10428.jpg",
+        "gt_score": 22.67
+    },
+    {
+        "image": "10430.jpg",
+        "gt_score": 40.5
+    },
+    {
+        "image": "10435.jpg",
+        "gt_score": 13.4
+    },
+    {
+        "image": "10436.jpg",
+        "gt_score": 58.83
+    },
+    {
+        "image": "10441.jpg",
+        "gt_score": 64.83
+    },
+    {
+        "image": "10450.jpg",
+        "gt_score": 69.33
+    },
+    {
+        "image": "10453.jpg",
+        "gt_score": 57.67
+    },
+    {
+        "image": "10454.jpg",
+        "gt_score": 33.5
+    },
+    {
+        "image": "10455.jpg",
+        "gt_score": 16.17
+    },
+    {
+        "image": "10462.jpg",
+        "gt_score": 46.67
+    },
+    {
+        "image": "10476.jpg",
+        "gt_score": 29.67
+    },
+    {
+        "image": "10480.jpg",
+        "gt_score": 56.0
+    },
+    {
+        "image": "10481.jpg",
+        "gt_score": 10.86
+    },
+    {
+        "image": "10485.jpg",
+        "gt_score": 53.5
+    },
+    {
+        "image": "10487.jpg",
+        "gt_score": 66.33
+    },
+    {
+        "image": "10491.jpg",
+        "gt_score": 9.83
+    },
+    {
+        "image": "10494.jpg",
+        "gt_score": 50.67
+    },
+    {
+        "image": "10495.jpg",
+        "gt_score": 48.33
+    },
+    {
+        "image": "10504.jpg",
+        "gt_score": 41.5
+    },
+    {
+        "image": "10511.jpg",
+        "gt_score": 28.33
+    },
+    {
+        "image": "10516.jpg",
+        "gt_score": 41.67
+    },
+    {
+        "image": "10523.jpg",
+        "gt_score": 78.67
+    },
+    {
+        "image": "10526.jpg",
+        "gt_score": 62.83
+    },
+    {
+        "image": "10542.jpg",
+        "gt_score": 68.5
+    },
+    {
+        "image": "10550.jpg",
+        "gt_score": 35.33
+    },
+    {
+        "image": "10554.jpg",
+        "gt_score": 39.83
+    },
+    {
+        "image": "10556.jpg",
+        "gt_score": 24.83
+    },
+    {
+        "image": "10557.jpg",
+        "gt_score": 31.33
+    },
+    {
+        "image": "10559.jpg",
+        "gt_score": 24.33
+    },
+    {
+        "image": "10565.jpg",
+        "gt_score": 13.86
+    },
+    {
+        "image": "10566.jpg",
+        "gt_score": 12.0
+    },
+    {
+        "image": "10568.jpg",
+        "gt_score": 51.57
+    },
+    {
+        "image": "10581.jpg",
+        "gt_score": 29.29
+    },
+    {
+        "image": "10586.jpg",
+        "gt_score": 29.29
+    },
+    {
+        "image": "10588.jpg",
+        "gt_score": 37.43
+    },
+    {
+        "image": "10590.jpg",
+        "gt_score": 36.43
+    },
+    {
+        "image": "10592.jpg",
+        "gt_score": 14.17
+    },
+    {
+        "image": "10597.jpg",
+        "gt_score": 13.71
+    },
+    {
+        "image": "10606.jpg",
+        "gt_score": 64.43
+    },
+    {
+        "image": "10611.jpg",
+        "gt_score": 68.57
+    },
+    {
+        "image": "10613.jpg",
+        "gt_score": 18.43
+    },
+    {
+        "image": "10615.jpg",
+        "gt_score": 33.14
+    },
+    {
+        "image": "10617.jpg",
+        "gt_score": 67.14
+    },
+    {
+        "image": "10618.jpg",
+        "gt_score": 41.0
+    },
+    {
+        "image": "10622.jpg",
+        "gt_score": 11.5
+    },
+    {
+        "image": "10623.jpg",
+        "gt_score": 51.29
+    },
+    {
+        "image": "10637.jpg",
+        "gt_score": 12.83
+    },
+    {
+        "image": "10643.jpg",
+        "gt_score": 70.29
+    },
+    {
+        "image": "10651.jpg",
+        "gt_score": 82.57
+    },
+    {
+        "image": "10652.jpg",
+        "gt_score": 36.0
+    },
+    {
+        "image": "10667.jpg",
+        "gt_score": 33.14
+    },
+    {
+        "image": "10670.jpg",
+        "gt_score": 76.29
+    },
+    {
+        "image": "10671.jpg",
+        "gt_score": 43.86
+    },
+    {
+        "image": "10678.jpg",
+        "gt_score": 75.0
+    },
+    {
+        "image": "10683.jpg",
+        "gt_score": 69.57
+    },
+    {
+        "image": "10684.jpg",
+        "gt_score": 73.29
+    },
+    {
+        "image": "10685.jpg",
+        "gt_score": 24.14
+    },
+    {
+        "image": "10690.jpg",
+        "gt_score": 64.29
+    },
+    {
+        "image": "10691.jpg",
+        "gt_score": 29.14
+    },
+    {
+        "image": "10694.jpg",
+        "gt_score": 42.43
+    },
+    {
+        "image": "10696.jpg",
+        "gt_score": 47.63
+    },
+    {
+        "image": "10697.jpg",
+        "gt_score": 23.71
+    },
+    {
+        "image": "10703.jpg",
+        "gt_score": 68.71
+    },
+    {
+        "image": "10706.jpg",
+        "gt_score": 40.14
+    },
+    {
+        "image": "10709.jpg",
+        "gt_score": 29.0
+    },
+    {
+        "image": "10712.jpg",
+        "gt_score": 34.71
+    },
+    {
+        "image": "10719.jpg",
+        "gt_score": 37.2
+    },
+    {
+        "image": "10721.jpg",
+        "gt_score": 31.0
+    },
+    {
+        "image": "10734.jpg",
+        "gt_score": 32.71
+    },
+    {
+        "image": "10746.jpg",
+        "gt_score": 56.43
+    },
+    {
+        "image": "10754.jpg",
+        "gt_score": 23.57
+    },
+    {
+        "image": "10757.jpg",
+        "gt_score": 20.0
+    },
+    {
+        "image": "10766.jpg",
+        "gt_score": 24.0
+    },
+    {
+        "image": "10767.jpg",
+        "gt_score": 32.86
+    },
+    {
+        "image": "10771.jpg",
+        "gt_score": 55.71
+    },
+    {
+        "image": "10777.jpg",
+        "gt_score": 66.0
+    },
+    {
+        "image": "10781.jpg",
+        "gt_score": 42.86
+    },
+    {
+        "image": "10790.jpg",
+        "gt_score": 43.29
+    },
+    {
+        "image": "10805.jpg",
+        "gt_score": 27.57
+    },
+    {
+        "image": "10816.jpg",
+        "gt_score": 67.43
+    },
+    {
+        "image": "10818.jpg",
+        "gt_score": 55.0
+    },
+    {
+        "image": "10819.jpg",
+        "gt_score": 59.29
+    },
+    {
+        "image": "10821.jpg",
+        "gt_score": 75.0
+    },
+    {
+        "image": "10828.jpg",
+        "gt_score": 30.57
+    },
+    {
+        "image": "10833.jpg",
+        "gt_score": 16.29
+    },
+    {
+        "image": "10841.jpg",
+        "gt_score": 20.83
+    },
+    {
+        "image": "10851.jpg",
+        "gt_score": 31.5
+    },
+    {
+        "image": "10853.jpg",
+        "gt_score": 29.29
+    },
+    {
+        "image": "10859.jpg",
+        "gt_score": 26.0
+    },
+    {
+        "image": "10860.jpg",
+        "gt_score": 33.17
+    },
+    {
+        "image": "10864.jpg",
+        "gt_score": 26.83
+    },
+    {
+        "image": "10879.jpg",
+        "gt_score": 18.2
+    },
+    {
+        "image": "10884.jpg",
+        "gt_score": 64.67
+    },
+    {
+        "image": "10885.jpg",
+        "gt_score": 86.5
+    },
+    {
+        "image": "10886.jpg",
+        "gt_score": 53.14
+    },
+    {
+        "image": "10889.jpg",
+        "gt_score": 24.86
+    },
+    {
+        "image": "10890.jpg",
+        "gt_score": 86.29
+    },
+    {
+        "image": "10892.jpg",
+        "gt_score": 87.83
+    },
+    {
+        "image": "10909.jpg",
+        "gt_score": 30.14
+    },
+    {
+        "image": "10926.jpg",
+        "gt_score": 34.14
+    },
+    {
+        "image": "10933.jpg",
+        "gt_score": 12.0
+    },
+    {
+        "image": "10935.jpg",
+        "gt_score": 68.14
+    },
+    {
+        "image": "10938.jpg",
+        "gt_score": 82.71
+    },
+    {
+        "image": "10943.jpg",
+        "gt_score": 78.71
+    },
+    {
+        "image": "10948.jpg",
+        "gt_score": 80.86
+    },
+    {
+        "image": "10952.jpg",
+        "gt_score": 63.29
+    },
+    {
+        "image": "10959.jpg",
+        "gt_score": 25.29
+    },
+    {
+        "image": "10962.jpg",
+        "gt_score": 80.86
+    },
+    {
+        "image": "10964.jpg",
+        "gt_score": 69.43
+    },
+    {
+        "image": "10969.jpg",
+        "gt_score": 72.71
+    },
+    {
+        "image": "10970.jpg",
+        "gt_score": 11.14
+    },
+    {
+        "image": "10972.jpg",
+        "gt_score": 83.57
+    },
+    {
+        "image": "10973.jpg",
+        "gt_score": 73.14
+    },
+    {
+        "image": "10975.jpg",
+        "gt_score": 24.13
+    },
+    {
+        "image": "10977.jpg",
+        "gt_score": 77.38
+    },
+    {
+        "image": "10981.jpg",
+        "gt_score": 54.57
+    },
+    {
+        "image": "10986.jpg",
+        "gt_score": 15.57
+    },
+    {
+        "image": "10987.jpg",
+        "gt_score": 34.71
+    },
+    {
+        "image": "11010.jpg",
+        "gt_score": 55.43
+    },
+    {
+        "image": "11011.jpg",
+        "gt_score": 38.86
+    },
+    {
+        "image": "11022.jpg",
+        "gt_score": 58.43
+    },
+    {
+        "image": "11023.jpg",
+        "gt_score": 27.29
+    },
+    {
+        "image": "11026.jpg",
+        "gt_score": 75.14
+    },
+    {
+        "image": "11027.jpg",
+        "gt_score": 39.14
+    },
+    {
+        "image": "11033.jpg",
+        "gt_score": 53.29
+    },
+    {
+        "image": "11038.jpg",
+        "gt_score": 67.83
+    },
+    {
+        "image": "11040.jpg",
+        "gt_score": 71.67
+    },
+    {
+        "image": "11041.jpg",
+        "gt_score": 17.63
+    },
+    {
+        "image": "11043.jpg",
+        "gt_score": 87.33
+    },
+    {
+        "image": "11048.jpg",
+        "gt_score": 71.0
+    },
+    {
+        "image": "11049.jpg",
+        "gt_score": 23.4
+    },
+    {
+        "image": "11057.jpg",
+        "gt_score": 66.33
+    },
+    {
+        "image": "11058.jpg",
+        "gt_score": 52.33
+    },
+    {
+        "image": "11059.jpg",
+        "gt_score": 20.0
+    },
+    {
+        "image": "11072.jpg",
+        "gt_score": 31.33
+    },
+    {
+        "image": "11076.jpg",
+        "gt_score": 58.17
+    },
+    {
+        "image": "11086.jpg",
+        "gt_score": 47.5
+    },
+    {
+        "image": "11097.jpg",
+        "gt_score": 71.33
+    },
+    {
+        "image": "11105.jpg",
+        "gt_score": 34.86
+    },
+    {
+        "image": "11106.jpg",
+        "gt_score": 45.67
+    },
+    {
+        "image": "11108.jpg",
+        "gt_score": 83.0
+    },
+    {
+        "image": "11109.jpg",
+        "gt_score": 44.17
+    },
+    {
+        "image": "11115.jpg",
+        "gt_score": 41.17
+    },
+    {
+        "image": "11125.jpg",
+        "gt_score": 10.8
+    }
+]

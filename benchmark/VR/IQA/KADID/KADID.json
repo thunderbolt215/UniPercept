@@ -1,0 +1,8002 @@
+[
+    {
+        "image": "I03_01_01.png",
+        "gt_score": 4.7
+    },
+    {
+        "image": "I03_01_02.png",
+        "gt_score": 4.63
+    },
+    {
+        "image": "I03_01_03.png",
+        "gt_score": 3.0
+    },
+    {
+        "image": "I03_01_04.png",
+        "gt_score": 1.83
+    },
+    {
+        "image": "I03_01_05.png",
+        "gt_score": 1.17
+    },
+    {
+        "image": "I03_02_01.png",
+        "gt_score": 4.03
+    },
+    {
+        "image": "I03_02_02.png",
+        "gt_score": 2.7
+    },
+    {
+        "image": "I03_02_03.png",
+        "gt_score": 1.7
+    },
+    {
+        "image": "I03_02_04.png",
+        "gt_score": 1.47
+    },
+    {
+        "image": "I03_02_05.png",
+        "gt_score": 1.23
+    },
+    {
+        "image": "I03_03_01.png",
+        "gt_score": 4.6
+    },
+    {
+        "image": "I03_03_02.png",
+        "gt_score": 4.37
+    },
+    {
+        "image": "I03_03_03.png",
+        "gt_score": 2.93
+    },
+    {
+        "image": "I03_03_04.png",
+        "gt_score": 2.23
+    },
+    {
+        "image": "I03_03_05.png",
+        "gt_score": 1.63
+    },
+    {
+        "image": "I03_04_01.png",
+        "gt_score": 4.6
+    },
+    {
+        "image": "I03_04_02.png",
+        "gt_score": 2.9
+    },
+    {
+        "image": "I03_04_03.png",
+        "gt_score": 1.53
+    },
+    {
+        "image": "I03_04_04.png",
+        "gt_score": 1.2
+    },
+    {
+        "image": "I03_04_05.png",
+        "gt_score": 1.1
+    },
+    {
+        "image": "I03_05_01.png",
+        "gt_score": 4.78
+    },
+    {
+        "image": "I03_05_02.png",
+        "gt_score": 2.65
+    },
+    {
+        "image": "I03_05_03.png",
+        "gt_score": 2.0
+    },
+    {
+        "image": "I03_05_04.png",
+        "gt_score": 1.87
+    },
+    {
+        "image": "I03_05_05.png",
+        "gt_score": 2.23
+    },
+    {
+        "image": "I03_06_01.png",
+        "gt_score": 4.0
+    },
+    {
+        "image": "I03_06_02.png",
+        "gt_score": 3.8
+    },
+    {
+        "image": "I03_06_03.png",
+        "gt_score": 3.33
+    },
+    {
+        "image": "I03_06_04.png",
+        "gt_score": 2.83
+    },
+    {
+        "image": "I03_06_05.png",
+        "gt_score": 1.77
+    },
+    {
+        "image": "I03_07_01.png",
+        "gt_score": 2.37
+    },
+    {
+        "image": "I03_07_02.png",
+        "gt_score": 1.67
+    },
+    {
+        "image": "I03_07_03.png",
+        "gt_score": 1.43
+    },
+    {
+        "image": "I03_07_04.png",
+        "gt_score": 1.53
+    },
+    {
+        "image": "I03_07_05.png",
+        "gt_score": 1.47
+    },
+    {
+        "image": "I03_08_01.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I03_08_02.png",
+        "gt_score": 3.13
+    },
+    {
+        "image": "I03_08_03.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I03_08_04.png",
+        "gt_score": 1.37
+    },
+    {
+        "image": "I03_08_05.png",
+        "gt_score": 1.23
+    },
+    {
+        "image": "I03_09_01.png",
+        "gt_score": 4.4
+    },
+    {
+        "image": "I03_09_02.png",
+        "gt_score": 3.6
+    },
+    {
+        "image": "I03_09_03.png",
+        "gt_score": 3.1
+    },
+    {
+        "image": "I03_09_04.png",
+        "gt_score": 1.77
+    },
+    {
+        "image": "I03_09_05.png",
+        "gt_score": 1.1
+    },
+    {
+        "image": "I03_10_01.png",
+        "gt_score": 4.47
+    },
+    {
+        "image": "I03_10_02.png",
+        "gt_score": 4.17
+    },
+    {
+        "image": "I03_10_03.png",
+        "gt_score": 3.7
+    },
+    {
+        "image": "I03_10_04.png",
+        "gt_score": 2.23
+    },
+    {
+        "image": "I03_10_05.png",
+        "gt_score": 1.53
+    },
+    {
+        "image": "I03_11_01.png",
+        "gt_score": 3.97
+    },
+    {
+        "image": "I03_11_02.png",
+        "gt_score": 3.6
+    },
+    {
+        "image": "I03_11_03.png",
+        "gt_score": 3.27
+    },
+    {
+        "image": "I03_11_04.png",
+        "gt_score": 2.93
+    },
+    {
+        "image": "I03_11_05.png",
+        "gt_score": 2.5
+    },
+    {
+        "image": "I03_12_01.png",
+        "gt_score": 4.57
+    },
+    {
+        "image": "I03_12_02.png",
+        "gt_score": 3.87
+    },
+    {
+        "image": "I03_12_03.png",
+        "gt_score": 3.17
+    },
+    {
+        "image": "I03_12_04.png",
+        "gt_score": 2.9
+    },
+    {
+        "image": "I03_12_05.png",
+        "gt_score": 2.6
+    },
+    {
+        "image": "I03_13_01.png",
+        "gt_score": 4.4
+    },
+    {
+        "image": "I03_13_02.png",
+        "gt_score": 3.57
+    },
+    {
+        "image": "I03_13_03.png",
+        "gt_score": 2.83
+    },
+    {
+        "image": "I03_13_04.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I03_13_05.png",
+        "gt_score": 2.4
+    },
+    {
+        "image": "I03_14_01.png",
+        "gt_score": 4.4
+    },
+    {
+        "image": "I03_14_02.png",
+        "gt_score": 3.5
+    },
+    {
+        "image": "I03_14_03.png",
+        "gt_score": 3.03
+    },
+    {
+        "image": "I03_14_04.png",
+        "gt_score": 2.53
+    },
+    {
+        "image": "I03_14_05.png",
+        "gt_score": 2.17
+    },
+    {
+        "image": "I03_15_01.png",
+        "gt_score": 4.13
+    },
+    {
+        "image": "I03_15_02.png",
+        "gt_score": 3.3
+    },
+    {
+        "image": "I03_15_03.png",
+        "gt_score": 2.53
+    },
+    {
+        "image": "I03_15_04.png",
+        "gt_score": 1.9
+    },
+    {
+        "image": "I03_15_05.png",
+        "gt_score": 1.43
+    },
+    {
+        "image": "I03_16_01.png",
+        "gt_score": 4.37
+    },
+    {
+        "image": "I03_16_02.png",
+        "gt_score": 4.27
+    },
+    {
+        "image": "I03_16_03.png",
+        "gt_score": 2.87
+    },
+    {
+        "image": "I03_16_04.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I03_16_05.png",
+        "gt_score": 1.4
+    },
+    {
+        "image": "I03_17_01.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I03_17_02.png",
+        "gt_score": 4.63
+    },
+    {
+        "image": "I03_17_03.png",
+        "gt_score": 4.4
+    },
+    {
+        "image": "I03_17_04.png",
+        "gt_score": 3.67
+    },
+    {
+        "image": "I03_17_05.png",
+        "gt_score": 2.77
+    },
+    {
+        "image": "I03_18_01.png",
+        "gt_score": 4.23
+    },
+    {
+        "image": "I03_18_02.png",
+        "gt_score": 4.73
+    },
+    {
+        "image": "I03_18_03.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I03_18_04.png",
+        "gt_score": 4.47
+    },
+    {
+        "image": "I03_18_05.png",
+        "gt_score": 4.2
+    },
+    {
+        "image": "I03_19_01.png",
+        "gt_score": 4.17
+    },
+    {
+        "image": "I03_19_02.png",
+        "gt_score": 3.33
+    },
+    {
+        "image": "I03_19_03.png",
+        "gt_score": 3.17
+    },
+    {
+        "image": "I03_19_04.png",
+        "gt_score": 1.77
+    },
+    {
+        "image": "I03_19_05.png",
+        "gt_score": 1.37
+    },
+    {
+        "image": "I03_20_01.png",
+        "gt_score": 4.37
+    },
+    {
+        "image": "I03_20_02.png",
+        "gt_score": 4.67
+    },
+    {
+        "image": "I03_20_03.png",
+        "gt_score": 4.23
+    },
+    {
+        "image": "I03_20_04.png",
+        "gt_score": 4.17
+    },
+    {
+        "image": "I03_20_05.png",
+        "gt_score": 3.63
+    },
+    {
+        "image": "I03_21_01.png",
+        "gt_score": 3.97
+    },
+    {
+        "image": "I03_21_02.png",
+        "gt_score": 2.8
+    },
+    {
+        "image": "I03_21_03.png",
+        "gt_score": 2.73
+    },
+    {
+        "image": "I03_21_04.png",
+        "gt_score": 2.87
+    },
+    {
+        "image": "I03_21_05.png",
+        "gt_score": 1.39
+    },
+    {
+        "image": "I03_22_01.png",
+        "gt_score": 4.4
+    },
+    {
+        "image": "I03_22_02.png",
+        "gt_score": 4.6
+    },
+    {
+        "image": "I03_22_03.png",
+        "gt_score": 4.23
+    },
+    {
+        "image": "I03_22_04.png",
+        "gt_score": 4.07
+    },
+    {
+        "image": "I03_22_05.png",
+        "gt_score": 4.0
+    },
+    {
+        "image": "I03_23_01.png",
+        "gt_score": 3.2
+    },
+    {
+        "image": "I03_23_02.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I03_23_03.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I03_23_04.png",
+        "gt_score": 2.1
+    },
+    {
+        "image": "I03_23_05.png",
+        "gt_score": 2.2
+    },
+    {
+        "image": "I03_24_01.png",
+        "gt_score": 3.67
+    },
+    {
+        "image": "I03_24_02.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I03_24_03.png",
+        "gt_score": 1.9
+    },
+    {
+        "image": "I03_24_04.png",
+        "gt_score": 1.4
+    },
+    {
+        "image": "I03_24_05.png",
+        "gt_score": 1.13
+    },
+    {
+        "image": "I03_25_01.png",
+        "gt_score": 3.67
+    },
+    {
+        "image": "I03_25_02.png",
+        "gt_score": 3.84
+    },
+    {
+        "image": "I03_25_03.png",
+        "gt_score": 4.63
+    },
+    {
+        "image": "I03_25_04.png",
+        "gt_score": 4.4
+    },
+    {
+        "image": "I03_25_05.png",
+        "gt_score": 3.67
+    },
+    {
+        "image": "I12_01_01.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I12_01_02.png",
+        "gt_score": 3.87
+    },
+    {
+        "image": "I12_01_03.png",
+        "gt_score": 2.4
+    },
+    {
+        "image": "I12_01_04.png",
+        "gt_score": 1.67
+    },
+    {
+        "image": "I12_01_05.png",
+        "gt_score": 1.17
+    },
+    {
+        "image": "I12_02_01.png",
+        "gt_score": 3.13
+    },
+    {
+        "image": "I12_02_02.png",
+        "gt_score": 2.0
+    },
+    {
+        "image": "I12_02_03.png",
+        "gt_score": 1.23
+    },
+    {
+        "image": "I12_02_04.png",
+        "gt_score": 1.37
+    },
+    {
+        "image": "I12_02_05.png",
+        "gt_score": 1.2
+    },
+    {
+        "image": "I12_03_01.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I12_03_02.png",
+        "gt_score": 3.7
+    },
+    {
+        "image": "I12_03_03.png",
+        "gt_score": 2.06
+    },
+    {
+        "image": "I12_03_04.png",
+        "gt_score": 1.6
+    },
+    {
+        "image": "I12_03_05.png",
+        "gt_score": 1.37
+    },
+    {
+        "image": "I12_04_01.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I12_04_02.png",
+        "gt_score": 2.63
+    },
+    {
+        "image": "I12_04_03.png",
+        "gt_score": 1.73
+    },
+    {
+        "image": "I12_04_04.png",
+        "gt_score": 1.53
+    },
+    {
+        "image": "I12_04_05.png",
+        "gt_score": 1.3
+    },
+    {
+        "image": "I12_05_01.png",
+        "gt_score": 3.0
+    },
+    {
+        "image": "I12_05_02.png",
+        "gt_score": 2.17
+    },
+    {
+        "image": "I12_05_03.png",
+        "gt_score": 1.4
+    },
+    {
+        "image": "I12_05_04.png",
+        "gt_score": 1.17
+    },
+    {
+        "image": "I12_05_05.png",
+        "gt_score": 1.2
+    },
+    {
+        "image": "I12_06_01.png",
+        "gt_score": 4.45
+    },
+    {
+        "image": "I12_06_02.png",
+        "gt_score": 4.06
+    },
+    {
+        "image": "I12_06_03.png",
+        "gt_score": 4.0
+    },
+    {
+        "image": "I12_06_04.png",
+        "gt_score": 3.27
+    },
+    {
+        "image": "I12_06_05.png",
+        "gt_score": 2.36
+    },
+    {
+        "image": "I12_07_01.png",
+        "gt_score": 2.4
+    },
+    {
+        "image": "I12_07_02.png",
+        "gt_score": 1.87
+    },
+    {
+        "image": "I12_07_03.png",
+        "gt_score": 2.67
+    },
+    {
+        "image": "I12_07_04.png",
+        "gt_score": 2.37
+    },
+    {
+        "image": "I12_07_05.png",
+        "gt_score": 1.93
+    },
+    {
+        "image": "I12_08_01.png",
+        "gt_score": 4.47
+    },
+    {
+        "image": "I12_08_02.png",
+        "gt_score": 3.5
+    },
+    {
+        "image": "I12_08_03.png",
+        "gt_score": 3.13
+    },
+    {
+        "image": "I12_08_04.png",
+        "gt_score": 2.55
+    },
+    {
+        "image": "I12_08_05.png",
+        "gt_score": 1.6
+    },
+    {
+        "image": "I12_09_01.png",
+        "gt_score": 4.13
+    },
+    {
+        "image": "I12_09_02.png",
+        "gt_score": 3.07
+    },
+    {
+        "image": "I12_09_03.png",
+        "gt_score": 2.6
+    },
+    {
+        "image": "I12_09_04.png",
+        "gt_score": 1.43
+    },
+    {
+        "image": "I12_09_05.png",
+        "gt_score": 1.1
+    },
+    {
+        "image": "I12_10_01.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I12_10_02.png",
+        "gt_score": 4.3
+    },
+    {
+        "image": "I12_10_03.png",
+        "gt_score": 4.0
+    },
+    {
+        "image": "I12_10_04.png",
+        "gt_score": 2.66
+    },
+    {
+        "image": "I12_10_05.png",
+        "gt_score": 1.93
+    },
+    {
+        "image": "I12_11_01.png",
+        "gt_score": 4.48
+    },
+    {
+        "image": "I12_11_02.png",
+        "gt_score": 4.0
+    },
+    {
+        "image": "I12_11_03.png",
+        "gt_score": 3.83
+    },
+    {
+        "image": "I12_11_04.png",
+        "gt_score": 3.07
+    },
+    {
+        "image": "I12_11_05.png",
+        "gt_score": 2.53
+    },
+    {
+        "image": "I12_12_01.png",
+        "gt_score": 4.63
+    },
+    {
+        "image": "I12_12_02.png",
+        "gt_score": 4.4
+    },
+    {
+        "image": "I12_12_03.png",
+        "gt_score": 3.93
+    },
+    {
+        "image": "I12_12_04.png",
+        "gt_score": 3.33
+    },
+    {
+        "image": "I12_12_05.png",
+        "gt_score": 2.97
+    },
+    {
+        "image": "I12_13_01.png",
+        "gt_score": 4.3
+    },
+    {
+        "image": "I12_13_02.png",
+        "gt_score": 3.83
+    },
+    {
+        "image": "I12_13_03.png",
+        "gt_score": 3.03
+    },
+    {
+        "image": "I12_13_04.png",
+        "gt_score": 2.73
+    },
+    {
+        "image": "I12_13_05.png",
+        "gt_score": 2.17
+    },
+    {
+        "image": "I12_14_01.png",
+        "gt_score": 4.4
+    },
+    {
+        "image": "I12_14_02.png",
+        "gt_score": 4.47
+    },
+    {
+        "image": "I12_14_03.png",
+        "gt_score": 3.5
+    },
+    {
+        "image": "I12_14_04.png",
+        "gt_score": 3.19
+    },
+    {
+        "image": "I12_14_05.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I12_15_01.png",
+        "gt_score": 3.37
+    },
+    {
+        "image": "I12_15_02.png",
+        "gt_score": 2.57
+    },
+    {
+        "image": "I12_15_03.png",
+        "gt_score": 2.2
+    },
+    {
+        "image": "I12_15_04.png",
+        "gt_score": 1.87
+    },
+    {
+        "image": "I12_15_05.png",
+        "gt_score": 1.7
+    },
+    {
+        "image": "I12_16_01.png",
+        "gt_score": 4.3
+    },
+    {
+        "image": "I12_16_02.png",
+        "gt_score": 4.2
+    },
+    {
+        "image": "I12_16_03.png",
+        "gt_score": 3.3
+    },
+    {
+        "image": "I12_16_04.png",
+        "gt_score": 2.1
+    },
+    {
+        "image": "I12_16_05.png",
+        "gt_score": 1.57
+    },
+    {
+        "image": "I12_17_01.png",
+        "gt_score": 4.6
+    },
+    {
+        "image": "I12_17_02.png",
+        "gt_score": 4.6
+    },
+    {
+        "image": "I12_17_03.png",
+        "gt_score": 4.33
+    },
+    {
+        "image": "I12_17_04.png",
+        "gt_score": 3.9
+    },
+    {
+        "image": "I12_17_05.png",
+        "gt_score": 2.5
+    },
+    {
+        "image": "I12_18_01.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I12_18_02.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I12_18_03.png",
+        "gt_score": 4.41
+    },
+    {
+        "image": "I12_18_04.png",
+        "gt_score": 4.23
+    },
+    {
+        "image": "I12_18_05.png",
+        "gt_score": 3.87
+    },
+    {
+        "image": "I12_19_01.png",
+        "gt_score": 4.1
+    },
+    {
+        "image": "I12_19_02.png",
+        "gt_score": 4.13
+    },
+    {
+        "image": "I12_19_03.png",
+        "gt_score": 2.9
+    },
+    {
+        "image": "I12_19_04.png",
+        "gt_score": 1.47
+    },
+    {
+        "image": "I12_19_05.png",
+        "gt_score": 1.2
+    },
+    {
+        "image": "I12_20_01.png",
+        "gt_score": 4.37
+    },
+    {
+        "image": "I12_20_02.png",
+        "gt_score": 4.0
+    },
+    {
+        "image": "I12_20_03.png",
+        "gt_score": 4.17
+    },
+    {
+        "image": "I12_20_04.png",
+        "gt_score": 3.37
+    },
+    {
+        "image": "I12_20_05.png",
+        "gt_score": 2.93
+    },
+    {
+        "image": "I12_21_01.png",
+        "gt_score": 3.2
+    },
+    {
+        "image": "I12_21_02.png",
+        "gt_score": 2.17
+    },
+    {
+        "image": "I12_21_03.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I12_21_04.png",
+        "gt_score": 2.17
+    },
+    {
+        "image": "I12_21_05.png",
+        "gt_score": 1.17
+    },
+    {
+        "image": "I12_22_01.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I12_22_02.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I12_22_03.png",
+        "gt_score": 4.27
+    },
+    {
+        "image": "I12_22_04.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I12_22_05.png",
+        "gt_score": 4.1
+    },
+    {
+        "image": "I12_23_01.png",
+        "gt_score": 2.26
+    },
+    {
+        "image": "I12_23_02.png",
+        "gt_score": 2.17
+    },
+    {
+        "image": "I12_23_03.png",
+        "gt_score": 2.57
+    },
+    {
+        "image": "I12_23_04.png",
+        "gt_score": 2.27
+    },
+    {
+        "image": "I12_23_05.png",
+        "gt_score": 2.13
+    },
+    {
+        "image": "I12_24_01.png",
+        "gt_score": 3.03
+    },
+    {
+        "image": "I12_24_02.png",
+        "gt_score": 1.9
+    },
+    {
+        "image": "I12_24_03.png",
+        "gt_score": 2.03
+    },
+    {
+        "image": "I12_24_04.png",
+        "gt_score": 1.3
+    },
+    {
+        "image": "I12_24_05.png",
+        "gt_score": 1.23
+    },
+    {
+        "image": "I12_25_01.png",
+        "gt_score": 3.07
+    },
+    {
+        "image": "I12_25_02.png",
+        "gt_score": 3.87
+    },
+    {
+        "image": "I12_25_03.png",
+        "gt_score": 4.35
+    },
+    {
+        "image": "I12_25_04.png",
+        "gt_score": 4.33
+    },
+    {
+        "image": "I12_25_05.png",
+        "gt_score": 3.07
+    },
+    {
+        "image": "I13_01_01.png",
+        "gt_score": 4.74
+    },
+    {
+        "image": "I13_01_02.png",
+        "gt_score": 4.4
+    },
+    {
+        "image": "I13_01_03.png",
+        "gt_score": 3.33
+    },
+    {
+        "image": "I13_01_04.png",
+        "gt_score": 2.2
+    },
+    {
+        "image": "I13_01_05.png",
+        "gt_score": 1.5
+    },
+    {
+        "image": "I13_02_01.png",
+        "gt_score": 3.9
+    },
+    {
+        "image": "I13_02_02.png",
+        "gt_score": 2.63
+    },
+    {
+        "image": "I13_02_03.png",
+        "gt_score": 1.97
+    },
+    {
+        "image": "I13_02_04.png",
+        "gt_score": 1.5
+    },
+    {
+        "image": "I13_02_05.png",
+        "gt_score": 1.23
+    },
+    {
+        "image": "I13_03_01.png",
+        "gt_score": 4.4
+    },
+    {
+        "image": "I13_03_02.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I13_03_03.png",
+        "gt_score": 3.43
+    },
+    {
+        "image": "I13_03_04.png",
+        "gt_score": 2.33
+    },
+    {
+        "image": "I13_03_05.png",
+        "gt_score": 1.47
+    },
+    {
+        "image": "I13_04_01.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I13_04_02.png",
+        "gt_score": 2.97
+    },
+    {
+        "image": "I13_04_03.png",
+        "gt_score": 2.7
+    },
+    {
+        "image": "I13_04_04.png",
+        "gt_score": 2.03
+    },
+    {
+        "image": "I13_04_05.png",
+        "gt_score": 2.13
+    },
+    {
+        "image": "I13_05_01.png",
+        "gt_score": 4.0
+    },
+    {
+        "image": "I13_05_02.png",
+        "gt_score": 3.0
+    },
+    {
+        "image": "I13_05_03.png",
+        "gt_score": 2.2
+    },
+    {
+        "image": "I13_05_04.png",
+        "gt_score": 2.2
+    },
+    {
+        "image": "I13_05_05.png",
+        "gt_score": 2.07
+    },
+    {
+        "image": "I13_06_01.png",
+        "gt_score": 3.57
+    },
+    {
+        "image": "I13_06_02.png",
+        "gt_score": 3.5
+    },
+    {
+        "image": "I13_06_03.png",
+        "gt_score": 3.33
+    },
+    {
+        "image": "I13_06_04.png",
+        "gt_score": 3.13
+    },
+    {
+        "image": "I13_06_05.png",
+        "gt_score": 2.33
+    },
+    {
+        "image": "I13_07_01.png",
+        "gt_score": 3.03
+    },
+    {
+        "image": "I13_07_02.png",
+        "gt_score": 2.07
+    },
+    {
+        "image": "I13_07_03.png",
+        "gt_score": 2.5
+    },
+    {
+        "image": "I13_07_04.png",
+        "gt_score": 2.17
+    },
+    {
+        "image": "I13_07_05.png",
+        "gt_score": 2.1
+    },
+    {
+        "image": "I13_08_01.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I13_08_02.png",
+        "gt_score": 3.73
+    },
+    {
+        "image": "I13_08_03.png",
+        "gt_score": 3.4
+    },
+    {
+        "image": "I13_08_04.png",
+        "gt_score": 2.17
+    },
+    {
+        "image": "I13_08_05.png",
+        "gt_score": 2.27
+    },
+    {
+        "image": "I13_09_01.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I13_09_02.png",
+        "gt_score": 4.7
+    },
+    {
+        "image": "I13_09_03.png",
+        "gt_score": 4.48
+    },
+    {
+        "image": "I13_09_04.png",
+        "gt_score": 3.53
+    },
+    {
+        "image": "I13_09_05.png",
+        "gt_score": 1.73
+    },
+    {
+        "image": "I13_10_01.png",
+        "gt_score": 4.67
+    },
+    {
+        "image": "I13_10_02.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I13_10_03.png",
+        "gt_score": 3.8
+    },
+    {
+        "image": "I13_10_04.png",
+        "gt_score": 2.03
+    },
+    {
+        "image": "I13_10_05.png",
+        "gt_score": 1.57
+    },
+    {
+        "image": "I13_11_01.png",
+        "gt_score": 3.83
+    },
+    {
+        "image": "I13_11_02.png",
+        "gt_score": 3.48
+    },
+    {
+        "image": "I13_11_03.png",
+        "gt_score": 3.1
+    },
+    {
+        "image": "I13_11_04.png",
+        "gt_score": 2.63
+    },
+    {
+        "image": "I13_11_05.png",
+        "gt_score": 2.13
+    },
+    {
+        "image": "I13_12_01.png",
+        "gt_score": 4.57
+    },
+    {
+        "image": "I13_12_02.png",
+        "gt_score": 3.67
+    },
+    {
+        "image": "I13_12_03.png",
+        "gt_score": 3.3
+    },
+    {
+        "image": "I13_12_04.png",
+        "gt_score": 2.43
+    },
+    {
+        "image": "I13_12_05.png",
+        "gt_score": 2.37
+    },
+    {
+        "image": "I13_13_01.png",
+        "gt_score": 3.33
+    },
+    {
+        "image": "I13_13_02.png",
+        "gt_score": 3.07
+    },
+    {
+        "image": "I13_13_03.png",
+        "gt_score": 2.77
+    },
+    {
+        "image": "I13_13_04.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I13_13_05.png",
+        "gt_score": 2.1
+    },
+    {
+        "image": "I13_14_01.png",
+        "gt_score": 4.37
+    },
+    {
+        "image": "I13_14_02.png",
+        "gt_score": 3.9
+    },
+    {
+        "image": "I13_14_03.png",
+        "gt_score": 3.4
+    },
+    {
+        "image": "I13_14_04.png",
+        "gt_score": 2.8
+    },
+    {
+        "image": "I13_14_05.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I13_15_01.png",
+        "gt_score": 4.1
+    },
+    {
+        "image": "I13_15_02.png",
+        "gt_score": 3.0
+    },
+    {
+        "image": "I13_15_03.png",
+        "gt_score": 2.57
+    },
+    {
+        "image": "I13_15_04.png",
+        "gt_score": 1.9
+    },
+    {
+        "image": "I13_15_05.png",
+        "gt_score": 1.9
+    },
+    {
+        "image": "I13_16_01.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I13_16_02.png",
+        "gt_score": 4.47
+    },
+    {
+        "image": "I13_16_03.png",
+        "gt_score": 3.4
+    },
+    {
+        "image": "I13_16_04.png",
+        "gt_score": 2.93
+    },
+    {
+        "image": "I13_16_05.png",
+        "gt_score": 1.73
+    },
+    {
+        "image": "I13_17_01.png",
+        "gt_score": 4.77
+    },
+    {
+        "image": "I13_17_02.png",
+        "gt_score": 4.57
+    },
+    {
+        "image": "I13_17_03.png",
+        "gt_score": 4.37
+    },
+    {
+        "image": "I13_17_04.png",
+        "gt_score": 3.6
+    },
+    {
+        "image": "I13_17_05.png",
+        "gt_score": 2.57
+    },
+    {
+        "image": "I13_18_01.png",
+        "gt_score": 4.1
+    },
+    {
+        "image": "I13_18_02.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I13_18_03.png",
+        "gt_score": 4.6
+    },
+    {
+        "image": "I13_18_04.png",
+        "gt_score": 4.63
+    },
+    {
+        "image": "I13_18_05.png",
+        "gt_score": 3.9
+    },
+    {
+        "image": "I13_19_01.png",
+        "gt_score": 4.3
+    },
+    {
+        "image": "I13_19_02.png",
+        "gt_score": 3.77
+    },
+    {
+        "image": "I13_19_03.png",
+        "gt_score": 3.17
+    },
+    {
+        "image": "I13_19_04.png",
+        "gt_score": 1.97
+    },
+    {
+        "image": "I13_19_05.png",
+        "gt_score": 1.47
+    },
+    {
+        "image": "I13_20_01.png",
+        "gt_score": 4.23
+    },
+    {
+        "image": "I13_20_02.png",
+        "gt_score": 4.1
+    },
+    {
+        "image": "I13_20_03.png",
+        "gt_score": 3.75
+    },
+    {
+        "image": "I13_20_04.png",
+        "gt_score": 3.57
+    },
+    {
+        "image": "I13_20_05.png",
+        "gt_score": 3.9
+    },
+    {
+        "image": "I13_21_01.png",
+        "gt_score": 4.23
+    },
+    {
+        "image": "I13_21_02.png",
+        "gt_score": 3.07
+    },
+    {
+        "image": "I13_21_03.png",
+        "gt_score": 3.2
+    },
+    {
+        "image": "I13_21_04.png",
+        "gt_score": 3.13
+    },
+    {
+        "image": "I13_21_05.png",
+        "gt_score": 1.93
+    },
+    {
+        "image": "I13_22_01.png",
+        "gt_score": 3.47
+    },
+    {
+        "image": "I13_22_02.png",
+        "gt_score": 3.9
+    },
+    {
+        "image": "I13_22_03.png",
+        "gt_score": 3.13
+    },
+    {
+        "image": "I13_22_04.png",
+        "gt_score": 2.77
+    },
+    {
+        "image": "I13_22_05.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I13_23_01.png",
+        "gt_score": 2.97
+    },
+    {
+        "image": "I13_23_02.png",
+        "gt_score": 2.6
+    },
+    {
+        "image": "I13_23_03.png",
+        "gt_score": 2.33
+    },
+    {
+        "image": "I13_23_04.png",
+        "gt_score": 2.17
+    },
+    {
+        "image": "I13_23_05.png",
+        "gt_score": 1.8
+    },
+    {
+        "image": "I13_24_01.png",
+        "gt_score": 4.17
+    },
+    {
+        "image": "I13_24_02.png",
+        "gt_score": 3.0
+    },
+    {
+        "image": "I13_24_03.png",
+        "gt_score": 2.57
+    },
+    {
+        "image": "I13_24_04.png",
+        "gt_score": 1.93
+    },
+    {
+        "image": "I13_24_05.png",
+        "gt_score": 1.7
+    },
+    {
+        "image": "I13_25_01.png",
+        "gt_score": 3.97
+    },
+    {
+        "image": "I13_25_02.png",
+        "gt_score": 4.13
+    },
+    {
+        "image": "I13_25_03.png",
+        "gt_score": 4.63
+    },
+    {
+        "image": "I13_25_04.png",
+        "gt_score": 4.32
+    },
+    {
+        "image": "I13_25_05.png",
+        "gt_score": 3.4
+    },
+    {
+        "image": "I16_01_01.png",
+        "gt_score": 4.7
+    },
+    {
+        "image": "I16_01_02.png",
+        "gt_score": 4.3
+    },
+    {
+        "image": "I16_01_03.png",
+        "gt_score": 2.0
+    },
+    {
+        "image": "I16_01_04.png",
+        "gt_score": 1.4
+    },
+    {
+        "image": "I16_01_05.png",
+        "gt_score": 1.13
+    },
+    {
+        "image": "I16_02_01.png",
+        "gt_score": 3.4
+    },
+    {
+        "image": "I16_02_02.png",
+        "gt_score": 1.93
+    },
+    {
+        "image": "I16_02_03.png",
+        "gt_score": 1.33
+    },
+    {
+        "image": "I16_02_04.png",
+        "gt_score": 1.17
+    },
+    {
+        "image": "I16_02_05.png",
+        "gt_score": 1.33
+    },
+    {
+        "image": "I16_03_01.png",
+        "gt_score": 4.47
+    },
+    {
+        "image": "I16_03_02.png",
+        "gt_score": 3.47
+    },
+    {
+        "image": "I16_03_03.png",
+        "gt_score": 2.03
+    },
+    {
+        "image": "I16_03_04.png",
+        "gt_score": 1.63
+    },
+    {
+        "image": "I16_03_05.png",
+        "gt_score": 1.17
+    },
+    {
+        "image": "I16_04_01.png",
+        "gt_score": 4.4
+    },
+    {
+        "image": "I16_04_02.png",
+        "gt_score": 1.9
+    },
+    {
+        "image": "I16_04_03.png",
+        "gt_score": 1.2
+    },
+    {
+        "image": "I16_04_04.png",
+        "gt_score": 1.2
+    },
+    {
+        "image": "I16_04_05.png",
+        "gt_score": 1.07
+    },
+    {
+        "image": "I16_05_01.png",
+        "gt_score": 3.07
+    },
+    {
+        "image": "I16_05_02.png",
+        "gt_score": 1.58
+    },
+    {
+        "image": "I16_05_03.png",
+        "gt_score": 1.23
+    },
+    {
+        "image": "I16_05_04.png",
+        "gt_score": 1.17
+    },
+    {
+        "image": "I16_05_05.png",
+        "gt_score": 1.43
+    },
+    {
+        "image": "I16_06_01.png",
+        "gt_score": 4.0
+    },
+    {
+        "image": "I16_06_02.png",
+        "gt_score": 4.13
+    },
+    {
+        "image": "I16_06_03.png",
+        "gt_score": 3.97
+    },
+    {
+        "image": "I16_06_04.png",
+        "gt_score": 3.3
+    },
+    {
+        "image": "I16_06_05.png",
+        "gt_score": 2.16
+    },
+    {
+        "image": "I16_07_01.png",
+        "gt_score": 3.07
+    },
+    {
+        "image": "I16_07_02.png",
+        "gt_score": 2.13
+    },
+    {
+        "image": "I16_07_03.png",
+        "gt_score": 2.33
+    },
+    {
+        "image": "I16_07_04.png",
+        "gt_score": 2.07
+    },
+    {
+        "image": "I16_07_05.png",
+        "gt_score": 2.03
+    },
+    {
+        "image": "I16_08_01.png",
+        "gt_score": 4.7
+    },
+    {
+        "image": "I16_08_02.png",
+        "gt_score": 2.9
+    },
+    {
+        "image": "I16_08_03.png",
+        "gt_score": 2.07
+    },
+    {
+        "image": "I16_08_04.png",
+        "gt_score": 1.23
+    },
+    {
+        "image": "I16_08_05.png",
+        "gt_score": 1.07
+    },
+    {
+        "image": "I16_09_01.png",
+        "gt_score": 4.63
+    },
+    {
+        "image": "I16_09_02.png",
+        "gt_score": 4.23
+    },
+    {
+        "image": "I16_09_03.png",
+        "gt_score": 4.0
+    },
+    {
+        "image": "I16_09_04.png",
+        "gt_score": 1.61
+    },
+    {
+        "image": "I16_09_05.png",
+        "gt_score": 1.17
+    },
+    {
+        "image": "I16_10_01.png",
+        "gt_score": 4.0
+    },
+    {
+        "image": "I16_10_02.png",
+        "gt_score": 4.23
+    },
+    {
+        "image": "I16_10_03.png",
+        "gt_score": 3.9
+    },
+    {
+        "image": "I16_10_04.png",
+        "gt_score": 2.03
+    },
+    {
+        "image": "I16_10_05.png",
+        "gt_score": 1.4
+    },
+    {
+        "image": "I16_11_01.png",
+        "gt_score": 4.03
+    },
+    {
+        "image": "I16_11_02.png",
+        "gt_score": 3.17
+    },
+    {
+        "image": "I16_11_03.png",
+        "gt_score": 2.9
+    },
+    {
+        "image": "I16_11_04.png",
+        "gt_score": 2.19
+    },
+    {
+        "image": "I16_11_05.png",
+        "gt_score": 2.07
+    },
+    {
+        "image": "I16_12_01.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I16_12_02.png",
+        "gt_score": 3.3
+    },
+    {
+        "image": "I16_12_03.png",
+        "gt_score": 3.13
+    },
+    {
+        "image": "I16_12_04.png",
+        "gt_score": 2.37
+    },
+    {
+        "image": "I16_12_05.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I16_13_01.png",
+        "gt_score": 3.57
+    },
+    {
+        "image": "I16_13_02.png",
+        "gt_score": 2.73
+    },
+    {
+        "image": "I16_13_03.png",
+        "gt_score": 2.43
+    },
+    {
+        "image": "I16_13_04.png",
+        "gt_score": 2.07
+    },
+    {
+        "image": "I16_13_05.png",
+        "gt_score": 1.77
+    },
+    {
+        "image": "I16_14_01.png",
+        "gt_score": 4.2
+    },
+    {
+        "image": "I16_14_02.png",
+        "gt_score": 3.17
+    },
+    {
+        "image": "I16_14_03.png",
+        "gt_score": 3.23
+    },
+    {
+        "image": "I16_14_04.png",
+        "gt_score": 2.27
+    },
+    {
+        "image": "I16_14_05.png",
+        "gt_score": 1.9
+    },
+    {
+        "image": "I16_15_01.png",
+        "gt_score": 3.37
+    },
+    {
+        "image": "I16_15_02.png",
+        "gt_score": 2.4
+    },
+    {
+        "image": "I16_15_03.png",
+        "gt_score": 2.03
+    },
+    {
+        "image": "I16_15_04.png",
+        "gt_score": 1.23
+    },
+    {
+        "image": "I16_15_05.png",
+        "gt_score": 1.27
+    },
+    {
+        "image": "I16_16_01.png",
+        "gt_score": 4.37
+    },
+    {
+        "image": "I16_16_02.png",
+        "gt_score": 4.37
+    },
+    {
+        "image": "I16_16_03.png",
+        "gt_score": 3.87
+    },
+    {
+        "image": "I16_16_04.png",
+        "gt_score": 2.73
+    },
+    {
+        "image": "I16_16_05.png",
+        "gt_score": 2.0
+    },
+    {
+        "image": "I16_17_01.png",
+        "gt_score": 4.63
+    },
+    {
+        "image": "I16_17_02.png",
+        "gt_score": 4.57
+    },
+    {
+        "image": "I16_17_03.png",
+        "gt_score": 4.27
+    },
+    {
+        "image": "I16_17_04.png",
+        "gt_score": 3.67
+    },
+    {
+        "image": "I16_17_05.png",
+        "gt_score": 1.9
+    },
+    {
+        "image": "I16_18_01.png",
+        "gt_score": 4.47
+    },
+    {
+        "image": "I16_18_02.png",
+        "gt_score": 4.6
+    },
+    {
+        "image": "I16_18_03.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I16_18_04.png",
+        "gt_score": 4.13
+    },
+    {
+        "image": "I16_18_05.png",
+        "gt_score": 3.93
+    },
+    {
+        "image": "I16_19_01.png",
+        "gt_score": 4.13
+    },
+    {
+        "image": "I16_19_02.png",
+        "gt_score": 3.6
+    },
+    {
+        "image": "I16_19_03.png",
+        "gt_score": 3.43
+    },
+    {
+        "image": "I16_19_04.png",
+        "gt_score": 1.57
+    },
+    {
+        "image": "I16_19_05.png",
+        "gt_score": 1.17
+    },
+    {
+        "image": "I16_20_01.png",
+        "gt_score": 4.39
+    },
+    {
+        "image": "I16_20_02.png",
+        "gt_score": 4.2
+    },
+    {
+        "image": "I16_20_03.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I16_20_04.png",
+        "gt_score": 3.93
+    },
+    {
+        "image": "I16_20_05.png",
+        "gt_score": 3.7
+    },
+    {
+        "image": "I16_21_01.png",
+        "gt_score": 4.1
+    },
+    {
+        "image": "I16_21_02.png",
+        "gt_score": 3.3
+    },
+    {
+        "image": "I16_21_03.png",
+        "gt_score": 3.33
+    },
+    {
+        "image": "I16_21_04.png",
+        "gt_score": 3.53
+    },
+    {
+        "image": "I16_21_05.png",
+        "gt_score": 1.27
+    },
+    {
+        "image": "I16_22_01.png",
+        "gt_score": 4.03
+    },
+    {
+        "image": "I16_22_02.png",
+        "gt_score": 3.53
+    },
+    {
+        "image": "I16_22_03.png",
+        "gt_score": 2.9
+    },
+    {
+        "image": "I16_22_04.png",
+        "gt_score": 3.23
+    },
+    {
+        "image": "I16_22_05.png",
+        "gt_score": 2.53
+    },
+    {
+        "image": "I16_23_01.png",
+        "gt_score": 2.13
+    },
+    {
+        "image": "I16_23_02.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I16_23_03.png",
+        "gt_score": 2.07
+    },
+    {
+        "image": "I16_23_04.png",
+        "gt_score": 1.87
+    },
+    {
+        "image": "I16_23_05.png",
+        "gt_score": 2.03
+    },
+    {
+        "image": "I16_24_01.png",
+        "gt_score": 3.43
+    },
+    {
+        "image": "I16_24_02.png",
+        "gt_score": 2.37
+    },
+    {
+        "image": "I16_24_03.png",
+        "gt_score": 1.93
+    },
+    {
+        "image": "I16_24_04.png",
+        "gt_score": 1.43
+    },
+    {
+        "image": "I16_24_05.png",
+        "gt_score": 1.2
+    },
+    {
+        "image": "I16_25_01.png",
+        "gt_score": 3.43
+    },
+    {
+        "image": "I16_25_02.png",
+        "gt_score": 3.5
+    },
+    {
+        "image": "I16_25_03.png",
+        "gt_score": 4.16
+    },
+    {
+        "image": "I16_25_04.png",
+        "gt_score": 4.17
+    },
+    {
+        "image": "I16_25_05.png",
+        "gt_score": 3.7
+    },
+    {
+        "image": "I22_01_01.png",
+        "gt_score": 4.7
+    },
+    {
+        "image": "I22_01_02.png",
+        "gt_score": 4.57
+    },
+    {
+        "image": "I22_01_03.png",
+        "gt_score": 3.13
+    },
+    {
+        "image": "I22_01_04.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I22_01_05.png",
+        "gt_score": 1.5
+    },
+    {
+        "image": "I22_02_01.png",
+        "gt_score": 3.8
+    },
+    {
+        "image": "I22_02_02.png",
+        "gt_score": 2.67
+    },
+    {
+        "image": "I22_02_03.png",
+        "gt_score": 2.17
+    },
+    {
+        "image": "I22_02_04.png",
+        "gt_score": 1.57
+    },
+    {
+        "image": "I22_02_05.png",
+        "gt_score": 1.3
+    },
+    {
+        "image": "I22_03_01.png",
+        "gt_score": 4.77
+    },
+    {
+        "image": "I22_03_02.png",
+        "gt_score": 4.33
+    },
+    {
+        "image": "I22_03_03.png",
+        "gt_score": 2.73
+    },
+    {
+        "image": "I22_03_04.png",
+        "gt_score": 2.33
+    },
+    {
+        "image": "I22_03_05.png",
+        "gt_score": 1.9
+    },
+    {
+        "image": "I22_04_01.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I22_04_02.png",
+        "gt_score": 1.5
+    },
+    {
+        "image": "I22_04_03.png",
+        "gt_score": 1.3
+    },
+    {
+        "image": "I22_04_04.png",
+        "gt_score": 1.23
+    },
+    {
+        "image": "I22_04_05.png",
+        "gt_score": 1.07
+    },
+    {
+        "image": "I22_05_01.png",
+        "gt_score": 4.13
+    },
+    {
+        "image": "I22_05_02.png",
+        "gt_score": 2.73
+    },
+    {
+        "image": "I22_05_03.png",
+        "gt_score": 1.97
+    },
+    {
+        "image": "I22_05_04.png",
+        "gt_score": 1.93
+    },
+    {
+        "image": "I22_05_05.png",
+        "gt_score": 1.47
+    },
+    {
+        "image": "I22_06_01.png",
+        "gt_score": 4.4
+    },
+    {
+        "image": "I22_06_02.png",
+        "gt_score": 4.07
+    },
+    {
+        "image": "I22_06_03.png",
+        "gt_score": 4.27
+    },
+    {
+        "image": "I22_06_04.png",
+        "gt_score": 3.23
+    },
+    {
+        "image": "I22_06_05.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I22_07_01.png",
+        "gt_score": 2.77
+    },
+    {
+        "image": "I22_07_02.png",
+        "gt_score": 2.57
+    },
+    {
+        "image": "I22_07_03.png",
+        "gt_score": 2.2
+    },
+    {
+        "image": "I22_07_04.png",
+        "gt_score": 2.27
+    },
+    {
+        "image": "I22_07_05.png",
+        "gt_score": 1.9
+    },
+    {
+        "image": "I22_08_01.png",
+        "gt_score": 4.68
+    },
+    {
+        "image": "I22_08_02.png",
+        "gt_score": 2.4
+    },
+    {
+        "image": "I22_08_03.png",
+        "gt_score": 1.37
+    },
+    {
+        "image": "I22_08_04.png",
+        "gt_score": 1.13
+    },
+    {
+        "image": "I22_08_05.png",
+        "gt_score": 1.1
+    },
+    {
+        "image": "I22_09_01.png",
+        "gt_score": 4.73
+    },
+    {
+        "image": "I22_09_02.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I22_09_03.png",
+        "gt_score": 4.77
+    },
+    {
+        "image": "I22_09_04.png",
+        "gt_score": 2.97
+    },
+    {
+        "image": "I22_09_05.png",
+        "gt_score": 1.63
+    },
+    {
+        "image": "I22_10_01.png",
+        "gt_score": 4.47
+    },
+    {
+        "image": "I22_10_02.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I22_10_03.png",
+        "gt_score": 4.03
+    },
+    {
+        "image": "I22_10_04.png",
+        "gt_score": 1.83
+    },
+    {
+        "image": "I22_10_05.png",
+        "gt_score": 1.47
+    },
+    {
+        "image": "I22_11_01.png",
+        "gt_score": 3.8
+    },
+    {
+        "image": "I22_11_02.png",
+        "gt_score": 2.97
+    },
+    {
+        "image": "I22_11_03.png",
+        "gt_score": 2.8
+    },
+    {
+        "image": "I22_11_04.png",
+        "gt_score": 2.93
+    },
+    {
+        "image": "I22_11_05.png",
+        "gt_score": 2.27
+    },
+    {
+        "image": "I22_12_01.png",
+        "gt_score": 4.73
+    },
+    {
+        "image": "I22_12_02.png",
+        "gt_score": 3.5
+    },
+    {
+        "image": "I22_12_03.png",
+        "gt_score": 2.87
+    },
+    {
+        "image": "I22_12_04.png",
+        "gt_score": 2.63
+    },
+    {
+        "image": "I22_12_05.png",
+        "gt_score": 2.5
+    },
+    {
+        "image": "I22_13_01.png",
+        "gt_score": 3.93
+    },
+    {
+        "image": "I22_13_02.png",
+        "gt_score": 3.23
+    },
+    {
+        "image": "I22_13_03.png",
+        "gt_score": 2.8
+    },
+    {
+        "image": "I22_13_04.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I22_13_05.png",
+        "gt_score": 2.1
+    },
+    {
+        "image": "I22_14_01.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I22_14_02.png",
+        "gt_score": 3.23
+    },
+    {
+        "image": "I22_14_03.png",
+        "gt_score": 3.0
+    },
+    {
+        "image": "I22_14_04.png",
+        "gt_score": 2.61
+    },
+    {
+        "image": "I22_14_05.png",
+        "gt_score": 1.97
+    },
+    {
+        "image": "I22_15_01.png",
+        "gt_score": 3.5
+    },
+    {
+        "image": "I22_15_02.png",
+        "gt_score": 2.53
+    },
+    {
+        "image": "I22_15_03.png",
+        "gt_score": 2.27
+    },
+    {
+        "image": "I22_15_04.png",
+        "gt_score": 1.97
+    },
+    {
+        "image": "I22_15_05.png",
+        "gt_score": 1.53
+    },
+    {
+        "image": "I22_16_01.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I22_16_02.png",
+        "gt_score": 4.37
+    },
+    {
+        "image": "I22_16_03.png",
+        "gt_score": 3.43
+    },
+    {
+        "image": "I22_16_04.png",
+        "gt_score": 2.2
+    },
+    {
+        "image": "I22_16_05.png",
+        "gt_score": 1.26
+    },
+    {
+        "image": "I22_17_01.png",
+        "gt_score": 4.87
+    },
+    {
+        "image": "I22_17_02.png",
+        "gt_score": 4.47
+    },
+    {
+        "image": "I22_17_03.png",
+        "gt_score": 4.3
+    },
+    {
+        "image": "I22_17_04.png",
+        "gt_score": 3.6
+    },
+    {
+        "image": "I22_17_05.png",
+        "gt_score": 2.5
+    },
+    {
+        "image": "I22_18_01.png",
+        "gt_score": 4.07
+    },
+    {
+        "image": "I22_18_02.png",
+        "gt_score": 4.6
+    },
+    {
+        "image": "I22_18_03.png",
+        "gt_score": 4.7
+    },
+    {
+        "image": "I22_18_04.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I22_18_05.png",
+        "gt_score": 4.3
+    },
+    {
+        "image": "I22_19_01.png",
+        "gt_score": 4.63
+    },
+    {
+        "image": "I22_19_02.png",
+        "gt_score": 4.23
+    },
+    {
+        "image": "I22_19_03.png",
+        "gt_score": 3.77
+    },
+    {
+        "image": "I22_19_04.png",
+        "gt_score": 2.27
+    },
+    {
+        "image": "I22_19_05.png",
+        "gt_score": 1.5
+    },
+    {
+        "image": "I22_20_01.png",
+        "gt_score": 4.7
+    },
+    {
+        "image": "I22_20_02.png",
+        "gt_score": 3.83
+    },
+    {
+        "image": "I22_20_03.png",
+        "gt_score": 3.47
+    },
+    {
+        "image": "I22_20_04.png",
+        "gt_score": 4.17
+    },
+    {
+        "image": "I22_20_05.png",
+        "gt_score": 2.37
+    },
+    {
+        "image": "I22_21_01.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I22_21_02.png",
+        "gt_score": 3.8
+    },
+    {
+        "image": "I22_21_03.png",
+        "gt_score": 3.6
+    },
+    {
+        "image": "I22_21_04.png",
+        "gt_score": 3.77
+    },
+    {
+        "image": "I22_21_05.png",
+        "gt_score": 1.87
+    },
+    {
+        "image": "I22_22_01.png",
+        "gt_score": 4.07
+    },
+    {
+        "image": "I22_22_02.png",
+        "gt_score": 3.67
+    },
+    {
+        "image": "I22_22_03.png",
+        "gt_score": 3.7
+    },
+    {
+        "image": "I22_22_04.png",
+        "gt_score": 3.33
+    },
+    {
+        "image": "I22_22_05.png",
+        "gt_score": 3.13
+    },
+    {
+        "image": "I22_23_01.png",
+        "gt_score": 1.97
+    },
+    {
+        "image": "I22_23_02.png",
+        "gt_score": 2.73
+    },
+    {
+        "image": "I22_23_03.png",
+        "gt_score": 1.7
+    },
+    {
+        "image": "I22_23_04.png",
+        "gt_score": 1.93
+    },
+    {
+        "image": "I22_23_05.png",
+        "gt_score": 2.03
+    },
+    {
+        "image": "I22_24_01.png",
+        "gt_score": 3.83
+    },
+    {
+        "image": "I22_24_02.png",
+        "gt_score": 2.8
+    },
+    {
+        "image": "I22_24_03.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I22_24_04.png",
+        "gt_score": 1.93
+    },
+    {
+        "image": "I22_24_05.png",
+        "gt_score": 1.5
+    },
+    {
+        "image": "I22_25_01.png",
+        "gt_score": 3.33
+    },
+    {
+        "image": "I22_25_02.png",
+        "gt_score": 4.03
+    },
+    {
+        "image": "I22_25_03.png",
+        "gt_score": 4.3
+    },
+    {
+        "image": "I22_25_04.png",
+        "gt_score": 4.03
+    },
+    {
+        "image": "I22_25_05.png",
+        "gt_score": 2.9
+    },
+    {
+        "image": "I26_01_01.png",
+        "gt_score": 4.74
+    },
+    {
+        "image": "I26_01_02.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I26_01_03.png",
+        "gt_score": 2.83
+    },
+    {
+        "image": "I26_01_04.png",
+        "gt_score": 1.8
+    },
+    {
+        "image": "I26_01_05.png",
+        "gt_score": 1.3
+    },
+    {
+        "image": "I26_02_01.png",
+        "gt_score": 4.1
+    },
+    {
+        "image": "I26_02_02.png",
+        "gt_score": 2.67
+    },
+    {
+        "image": "I26_02_03.png",
+        "gt_score": 2.0
+    },
+    {
+        "image": "I26_02_04.png",
+        "gt_score": 1.57
+    },
+    {
+        "image": "I26_02_05.png",
+        "gt_score": 1.27
+    },
+    {
+        "image": "I26_03_01.png",
+        "gt_score": 4.67
+    },
+    {
+        "image": "I26_03_02.png",
+        "gt_score": 4.33
+    },
+    {
+        "image": "I26_03_03.png",
+        "gt_score": 3.0
+    },
+    {
+        "image": "I26_03_04.png",
+        "gt_score": 2.37
+    },
+    {
+        "image": "I26_03_05.png",
+        "gt_score": 1.87
+    },
+    {
+        "image": "I26_04_01.png",
+        "gt_score": 4.8
+    },
+    {
+        "image": "I26_04_02.png",
+        "gt_score": 3.29
+    },
+    {
+        "image": "I26_04_03.png",
+        "gt_score": 2.9
+    },
+    {
+        "image": "I26_04_04.png",
+        "gt_score": 2.33
+    },
+    {
+        "image": "I26_04_05.png",
+        "gt_score": 2.07
+    },
+    {
+        "image": "I26_05_01.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I26_05_02.png",
+        "gt_score": 2.64
+    },
+    {
+        "image": "I26_05_03.png",
+        "gt_score": 1.57
+    },
+    {
+        "image": "I26_05_04.png",
+        "gt_score": 1.77
+    },
+    {
+        "image": "I26_05_05.png",
+        "gt_score": 1.53
+    },
+    {
+        "image": "I26_06_01.png",
+        "gt_score": 4.57
+    },
+    {
+        "image": "I26_06_02.png",
+        "gt_score": 4.39
+    },
+    {
+        "image": "I26_06_03.png",
+        "gt_score": 4.0
+    },
+    {
+        "image": "I26_06_04.png",
+        "gt_score": 3.53
+    },
+    {
+        "image": "I26_06_05.png",
+        "gt_score": 2.6
+    },
+    {
+        "image": "I26_07_01.png",
+        "gt_score": 2.6
+    },
+    {
+        "image": "I26_07_02.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I26_07_03.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I26_07_04.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I26_07_05.png",
+        "gt_score": 2.6
+    },
+    {
+        "image": "I26_08_01.png",
+        "gt_score": 4.67
+    },
+    {
+        "image": "I26_08_02.png",
+        "gt_score": 3.37
+    },
+    {
+        "image": "I26_08_03.png",
+        "gt_score": 3.53
+    },
+    {
+        "image": "I26_08_04.png",
+        "gt_score": 2.73
+    },
+    {
+        "image": "I26_08_05.png",
+        "gt_score": 1.77
+    },
+    {
+        "image": "I26_09_01.png",
+        "gt_score": 4.57
+    },
+    {
+        "image": "I26_09_02.png",
+        "gt_score": 4.63
+    },
+    {
+        "image": "I26_09_03.png",
+        "gt_score": 4.3
+    },
+    {
+        "image": "I26_09_04.png",
+        "gt_score": 2.67
+    },
+    {
+        "image": "I26_09_05.png",
+        "gt_score": 1.57
+    },
+    {
+        "image": "I26_10_01.png",
+        "gt_score": 4.6
+    },
+    {
+        "image": "I26_10_02.png",
+        "gt_score": 4.1
+    },
+    {
+        "image": "I26_10_03.png",
+        "gt_score": 3.93
+    },
+    {
+        "image": "I26_10_04.png",
+        "gt_score": 2.53
+    },
+    {
+        "image": "I26_10_05.png",
+        "gt_score": 1.5
+    },
+    {
+        "image": "I26_11_01.png",
+        "gt_score": 3.9
+    },
+    {
+        "image": "I26_11_02.png",
+        "gt_score": 3.3
+    },
+    {
+        "image": "I26_11_03.png",
+        "gt_score": 3.27
+    },
+    {
+        "image": "I26_11_04.png",
+        "gt_score": 2.8
+    },
+    {
+        "image": "I26_11_05.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I26_12_01.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I26_12_02.png",
+        "gt_score": 3.77
+    },
+    {
+        "image": "I26_12_03.png",
+        "gt_score": 2.9
+    },
+    {
+        "image": "I26_12_04.png",
+        "gt_score": 2.8
+    },
+    {
+        "image": "I26_12_05.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I26_13_01.png",
+        "gt_score": 3.4
+    },
+    {
+        "image": "I26_13_02.png",
+        "gt_score": 2.9
+    },
+    {
+        "image": "I26_13_03.png",
+        "gt_score": 2.73
+    },
+    {
+        "image": "I26_13_04.png",
+        "gt_score": 2.29
+    },
+    {
+        "image": "I26_13_05.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I26_14_01.png",
+        "gt_score": 4.67
+    },
+    {
+        "image": "I26_14_02.png",
+        "gt_score": 3.84
+    },
+    {
+        "image": "I26_14_03.png",
+        "gt_score": 3.03
+    },
+    {
+        "image": "I26_14_04.png",
+        "gt_score": 2.73
+    },
+    {
+        "image": "I26_14_05.png",
+        "gt_score": 2.23
+    },
+    {
+        "image": "I26_15_01.png",
+        "gt_score": 3.87
+    },
+    {
+        "image": "I26_15_02.png",
+        "gt_score": 3.43
+    },
+    {
+        "image": "I26_15_03.png",
+        "gt_score": 2.5
+    },
+    {
+        "image": "I26_15_04.png",
+        "gt_score": 2.07
+    },
+    {
+        "image": "I26_15_05.png",
+        "gt_score": 1.47
+    },
+    {
+        "image": "I26_16_01.png",
+        "gt_score": 4.83
+    },
+    {
+        "image": "I26_16_02.png",
+        "gt_score": 4.3
+    },
+    {
+        "image": "I26_16_03.png",
+        "gt_score": 3.57
+    },
+    {
+        "image": "I26_16_04.png",
+        "gt_score": 2.93
+    },
+    {
+        "image": "I26_16_05.png",
+        "gt_score": 1.97
+    },
+    {
+        "image": "I26_17_01.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I26_17_02.png",
+        "gt_score": 4.37
+    },
+    {
+        "image": "I26_17_03.png",
+        "gt_score": 4.0
+    },
+    {
+        "image": "I26_17_04.png",
+        "gt_score": 3.37
+    },
+    {
+        "image": "I26_17_05.png",
+        "gt_score": 1.77
+    },
+    {
+        "image": "I26_18_01.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I26_18_02.png",
+        "gt_score": 4.57
+    },
+    {
+        "image": "I26_18_03.png",
+        "gt_score": 4.74
+    },
+    {
+        "image": "I26_18_04.png",
+        "gt_score": 4.23
+    },
+    {
+        "image": "I26_18_05.png",
+        "gt_score": 3.87
+    },
+    {
+        "image": "I26_19_01.png",
+        "gt_score": 4.27
+    },
+    {
+        "image": "I26_19_02.png",
+        "gt_score": 3.6
+    },
+    {
+        "image": "I26_19_03.png",
+        "gt_score": 2.87
+    },
+    {
+        "image": "I26_19_04.png",
+        "gt_score": 1.77
+    },
+    {
+        "image": "I26_19_05.png",
+        "gt_score": 1.1
+    },
+    {
+        "image": "I26_20_01.png",
+        "gt_score": 4.23
+    },
+    {
+        "image": "I26_20_02.png",
+        "gt_score": 3.9
+    },
+    {
+        "image": "I26_20_03.png",
+        "gt_score": 4.2
+    },
+    {
+        "image": "I26_20_04.png",
+        "gt_score": 3.87
+    },
+    {
+        "image": "I26_20_05.png",
+        "gt_score": 3.57
+    },
+    {
+        "image": "I26_21_01.png",
+        "gt_score": 3.1
+    },
+    {
+        "image": "I26_21_02.png",
+        "gt_score": 2.57
+    },
+    {
+        "image": "I26_21_03.png",
+        "gt_score": 2.43
+    },
+    {
+        "image": "I26_21_04.png",
+        "gt_score": 2.57
+    },
+    {
+        "image": "I26_21_05.png",
+        "gt_score": 1.43
+    },
+    {
+        "image": "I26_22_01.png",
+        "gt_score": 4.35
+    },
+    {
+        "image": "I26_22_02.png",
+        "gt_score": 4.47
+    },
+    {
+        "image": "I26_22_03.png",
+        "gt_score": 4.0
+    },
+    {
+        "image": "I26_22_04.png",
+        "gt_score": 3.8
+    },
+    {
+        "image": "I26_22_05.png",
+        "gt_score": 2.5
+    },
+    {
+        "image": "I26_23_01.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I26_23_02.png",
+        "gt_score": 2.2
+    },
+    {
+        "image": "I26_23_03.png",
+        "gt_score": 2.67
+    },
+    {
+        "image": "I26_23_04.png",
+        "gt_score": 2.53
+    },
+    {
+        "image": "I26_23_05.png",
+        "gt_score": 1.8
+    },
+    {
+        "image": "I26_24_01.png",
+        "gt_score": 3.6
+    },
+    {
+        "image": "I26_24_02.png",
+        "gt_score": 2.81
+    },
+    {
+        "image": "I26_24_03.png",
+        "gt_score": 2.2
+    },
+    {
+        "image": "I26_24_04.png",
+        "gt_score": 1.53
+    },
+    {
+        "image": "I26_24_05.png",
+        "gt_score": 1.43
+    },
+    {
+        "image": "I26_25_01.png",
+        "gt_score": 3.07
+    },
+    {
+        "image": "I26_25_02.png",
+        "gt_score": 3.7
+    },
+    {
+        "image": "I26_25_03.png",
+        "gt_score": 4.37
+    },
+    {
+        "image": "I26_25_04.png",
+        "gt_score": 4.0
+    },
+    {
+        "image": "I26_25_05.png",
+        "gt_score": 3.03
+    },
+    {
+        "image": "I29_01_01.png",
+        "gt_score": 4.73
+    },
+    {
+        "image": "I29_01_02.png",
+        "gt_score": 4.4
+    },
+    {
+        "image": "I29_01_03.png",
+        "gt_score": 3.47
+    },
+    {
+        "image": "I29_01_04.png",
+        "gt_score": 1.87
+    },
+    {
+        "image": "I29_01_05.png",
+        "gt_score": 1.23
+    },
+    {
+        "image": "I29_02_01.png",
+        "gt_score": 4.2
+    },
+    {
+        "image": "I29_02_02.png",
+        "gt_score": 3.13
+    },
+    {
+        "image": "I29_02_03.png",
+        "gt_score": 1.73
+    },
+    {
+        "image": "I29_02_04.png",
+        "gt_score": 1.33
+    },
+    {
+        "image": "I29_02_05.png",
+        "gt_score": 1.17
+    },
+    {
+        "image": "I29_03_01.png",
+        "gt_score": 4.77
+    },
+    {
+        "image": "I29_03_02.png",
+        "gt_score": 4.4
+    },
+    {
+        "image": "I29_03_03.png",
+        "gt_score": 3.5
+    },
+    {
+        "image": "I29_03_04.png",
+        "gt_score": 2.33
+    },
+    {
+        "image": "I29_03_05.png",
+        "gt_score": 2.03
+    },
+    {
+        "image": "I29_04_01.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I29_04_02.png",
+        "gt_score": 1.97
+    },
+    {
+        "image": "I29_04_03.png",
+        "gt_score": 1.27
+    },
+    {
+        "image": "I29_04_04.png",
+        "gt_score": 1.17
+    },
+    {
+        "image": "I29_04_05.png",
+        "gt_score": 1.03
+    },
+    {
+        "image": "I29_05_01.png",
+        "gt_score": 4.13
+    },
+    {
+        "image": "I29_05_02.png",
+        "gt_score": 2.87
+    },
+    {
+        "image": "I29_05_03.png",
+        "gt_score": 1.73
+    },
+    {
+        "image": "I29_05_04.png",
+        "gt_score": 1.57
+    },
+    {
+        "image": "I29_05_05.png",
+        "gt_score": 1.63
+    },
+    {
+        "image": "I29_06_01.png",
+        "gt_score": 3.83
+    },
+    {
+        "image": "I29_06_02.png",
+        "gt_score": 3.47
+    },
+    {
+        "image": "I29_06_03.png",
+        "gt_score": 3.47
+    },
+    {
+        "image": "I29_06_04.png",
+        "gt_score": 3.1
+    },
+    {
+        "image": "I29_06_05.png",
+        "gt_score": 2.87
+    },
+    {
+        "image": "I29_07_01.png",
+        "gt_score": 2.6
+    },
+    {
+        "image": "I29_07_02.png",
+        "gt_score": 2.2
+    },
+    {
+        "image": "I29_07_03.png",
+        "gt_score": 2.37
+    },
+    {
+        "image": "I29_07_04.png",
+        "gt_score": 2.43
+    },
+    {
+        "image": "I29_07_05.png",
+        "gt_score": 1.93
+    },
+    {
+        "image": "I29_08_01.png",
+        "gt_score": 4.57
+    },
+    {
+        "image": "I29_08_02.png",
+        "gt_score": 2.77
+    },
+    {
+        "image": "I29_08_03.png",
+        "gt_score": 1.93
+    },
+    {
+        "image": "I29_08_04.png",
+        "gt_score": 1.3
+    },
+    {
+        "image": "I29_08_05.png",
+        "gt_score": 1.13
+    },
+    {
+        "image": "I29_09_01.png",
+        "gt_score": 4.67
+    },
+    {
+        "image": "I29_09_02.png",
+        "gt_score": 4.77
+    },
+    {
+        "image": "I29_09_03.png",
+        "gt_score": 4.57
+    },
+    {
+        "image": "I29_09_04.png",
+        "gt_score": 4.23
+    },
+    {
+        "image": "I29_09_05.png",
+        "gt_score": 2.73
+    },
+    {
+        "image": "I29_10_01.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I29_10_02.png",
+        "gt_score": 4.33
+    },
+    {
+        "image": "I29_10_03.png",
+        "gt_score": 3.63
+    },
+    {
+        "image": "I29_10_04.png",
+        "gt_score": 2.0
+    },
+    {
+        "image": "I29_10_05.png",
+        "gt_score": 1.3
+    },
+    {
+        "image": "I29_11_01.png",
+        "gt_score": 3.8
+    },
+    {
+        "image": "I29_11_02.png",
+        "gt_score": 3.37
+    },
+    {
+        "image": "I29_11_03.png",
+        "gt_score": 3.2
+    },
+    {
+        "image": "I29_11_04.png",
+        "gt_score": 2.9
+    },
+    {
+        "image": "I29_11_05.png",
+        "gt_score": 2.37
+    },
+    {
+        "image": "I29_12_01.png",
+        "gt_score": 4.57
+    },
+    {
+        "image": "I29_12_02.png",
+        "gt_score": 3.87
+    },
+    {
+        "image": "I29_12_03.png",
+        "gt_score": 3.33
+    },
+    {
+        "image": "I29_12_04.png",
+        "gt_score": 2.67
+    },
+    {
+        "image": "I29_12_05.png",
+        "gt_score": 2.23
+    },
+    {
+        "image": "I29_13_01.png",
+        "gt_score": 3.23
+    },
+    {
+        "image": "I29_13_02.png",
+        "gt_score": 2.83
+    },
+    {
+        "image": "I29_13_03.png",
+        "gt_score": 2.63
+    },
+    {
+        "image": "I29_13_04.png",
+        "gt_score": 2.27
+    },
+    {
+        "image": "I29_13_05.png",
+        "gt_score": 2.07
+    },
+    {
+        "image": "I29_14_01.png",
+        "gt_score": 4.63
+    },
+    {
+        "image": "I29_14_02.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I29_14_03.png",
+        "gt_score": 3.7
+    },
+    {
+        "image": "I29_14_04.png",
+        "gt_score": 3.07
+    },
+    {
+        "image": "I29_14_05.png",
+        "gt_score": 2.17
+    },
+    {
+        "image": "I29_15_01.png",
+        "gt_score": 3.87
+    },
+    {
+        "image": "I29_15_02.png",
+        "gt_score": 2.73
+    },
+    {
+        "image": "I29_15_03.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I29_15_04.png",
+        "gt_score": 1.67
+    },
+    {
+        "image": "I29_15_05.png",
+        "gt_score": 1.58
+    },
+    {
+        "image": "I29_16_01.png",
+        "gt_score": 4.6
+    },
+    {
+        "image": "I29_16_02.png",
+        "gt_score": 4.4
+    },
+    {
+        "image": "I29_16_03.png",
+        "gt_score": 3.57
+    },
+    {
+        "image": "I29_16_04.png",
+        "gt_score": 2.97
+    },
+    {
+        "image": "I29_16_05.png",
+        "gt_score": 1.87
+    },
+    {
+        "image": "I29_17_01.png",
+        "gt_score": 4.77
+    },
+    {
+        "image": "I29_17_02.png",
+        "gt_score": 4.57
+    },
+    {
+        "image": "I29_17_03.png",
+        "gt_score": 4.3
+    },
+    {
+        "image": "I29_17_04.png",
+        "gt_score": 3.57
+    },
+    {
+        "image": "I29_17_05.png",
+        "gt_score": 2.17
+    },
+    {
+        "image": "I29_18_01.png",
+        "gt_score": 4.13
+    },
+    {
+        "image": "I29_18_02.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I29_18_03.png",
+        "gt_score": 4.83
+    },
+    {
+        "image": "I29_18_04.png",
+        "gt_score": 4.37
+    },
+    {
+        "image": "I29_18_05.png",
+        "gt_score": 3.83
+    },
+    {
+        "image": "I29_19_01.png",
+        "gt_score": 4.71
+    },
+    {
+        "image": "I29_19_02.png",
+        "gt_score": 4.23
+    },
+    {
+        "image": "I29_19_03.png",
+        "gt_score": 4.0
+    },
+    {
+        "image": "I29_19_04.png",
+        "gt_score": 2.1
+    },
+    {
+        "image": "I29_19_05.png",
+        "gt_score": 1.27
+    },
+    {
+        "image": "I29_20_01.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I29_20_02.png",
+        "gt_score": 2.37
+    },
+    {
+        "image": "I29_20_03.png",
+        "gt_score": 3.03
+    },
+    {
+        "image": "I29_20_04.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I29_20_05.png",
+        "gt_score": 4.03
+    },
+    {
+        "image": "I29_21_01.png",
+        "gt_score": 3.9
+    },
+    {
+        "image": "I29_21_02.png",
+        "gt_score": 3.4
+    },
+    {
+        "image": "I29_21_03.png",
+        "gt_score": 3.0
+    },
+    {
+        "image": "I29_21_04.png",
+        "gt_score": 3.4
+    },
+    {
+        "image": "I29_21_05.png",
+        "gt_score": 1.8
+    },
+    {
+        "image": "I29_22_01.png",
+        "gt_score": 3.5
+    },
+    {
+        "image": "I29_22_02.png",
+        "gt_score": 2.73
+    },
+    {
+        "image": "I29_22_03.png",
+        "gt_score": 2.5
+    },
+    {
+        "image": "I29_22_04.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I29_22_05.png",
+        "gt_score": 1.97
+    },
+    {
+        "image": "I29_23_01.png",
+        "gt_score": 2.67
+    },
+    {
+        "image": "I29_23_02.png",
+        "gt_score": 1.8
+    },
+    {
+        "image": "I29_23_03.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I29_23_04.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I29_23_05.png",
+        "gt_score": 2.33
+    },
+    {
+        "image": "I29_24_01.png",
+        "gt_score": 4.0
+    },
+    {
+        "image": "I29_24_02.png",
+        "gt_score": 2.77
+    },
+    {
+        "image": "I29_24_03.png",
+        "gt_score": 2.1
+    },
+    {
+        "image": "I29_24_04.png",
+        "gt_score": 1.53
+    },
+    {
+        "image": "I29_24_05.png",
+        "gt_score": 1.53
+    },
+    {
+        "image": "I29_25_01.png",
+        "gt_score": 3.2
+    },
+    {
+        "image": "I29_25_02.png",
+        "gt_score": 3.74
+    },
+    {
+        "image": "I29_25_03.png",
+        "gt_score": 4.17
+    },
+    {
+        "image": "I29_25_04.png",
+        "gt_score": 4.07
+    },
+    {
+        "image": "I29_25_05.png",
+        "gt_score": 2.63
+    },
+    {
+        "image": "I37_01_01.png",
+        "gt_score": 4.77
+    },
+    {
+        "image": "I37_01_02.png",
+        "gt_score": 4.1
+    },
+    {
+        "image": "I37_01_03.png",
+        "gt_score": 2.87
+    },
+    {
+        "image": "I37_01_04.png",
+        "gt_score": 1.53
+    },
+    {
+        "image": "I37_01_05.png",
+        "gt_score": 1.33
+    },
+    {
+        "image": "I37_02_01.png",
+        "gt_score": 3.77
+    },
+    {
+        "image": "I37_02_02.png",
+        "gt_score": 2.03
+    },
+    {
+        "image": "I37_02_03.png",
+        "gt_score": 1.4
+    },
+    {
+        "image": "I37_02_04.png",
+        "gt_score": 1.23
+    },
+    {
+        "image": "I37_02_05.png",
+        "gt_score": 1.37
+    },
+    {
+        "image": "I37_03_01.png",
+        "gt_score": 4.57
+    },
+    {
+        "image": "I37_03_02.png",
+        "gt_score": 4.23
+    },
+    {
+        "image": "I37_03_03.png",
+        "gt_score": 2.9
+    },
+    {
+        "image": "I37_03_04.png",
+        "gt_score": 2.13
+    },
+    {
+        "image": "I37_03_05.png",
+        "gt_score": 1.6
+    },
+    {
+        "image": "I37_04_01.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I37_04_02.png",
+        "gt_score": 2.87
+    },
+    {
+        "image": "I37_04_03.png",
+        "gt_score": 1.93
+    },
+    {
+        "image": "I37_04_04.png",
+        "gt_score": 1.83
+    },
+    {
+        "image": "I37_04_05.png",
+        "gt_score": 1.4
+    },
+    {
+        "image": "I37_05_01.png",
+        "gt_score": 4.3
+    },
+    {
+        "image": "I37_05_02.png",
+        "gt_score": 2.37
+    },
+    {
+        "image": "I37_05_03.png",
+        "gt_score": 1.63
+    },
+    {
+        "image": "I37_05_04.png",
+        "gt_score": 1.8
+    },
+    {
+        "image": "I37_05_05.png",
+        "gt_score": 1.83
+    },
+    {
+        "image": "I37_06_01.png",
+        "gt_score": 4.03
+    },
+    {
+        "image": "I37_06_02.png",
+        "gt_score": 3.97
+    },
+    {
+        "image": "I37_06_03.png",
+        "gt_score": 4.27
+    },
+    {
+        "image": "I37_06_04.png",
+        "gt_score": 3.23
+    },
+    {
+        "image": "I37_06_05.png",
+        "gt_score": 2.97
+    },
+    {
+        "image": "I37_07_01.png",
+        "gt_score": 3.07
+    },
+    {
+        "image": "I37_07_02.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I37_07_03.png",
+        "gt_score": 2.13
+    },
+    {
+        "image": "I37_07_04.png",
+        "gt_score": 2.17
+    },
+    {
+        "image": "I37_07_05.png",
+        "gt_score": 1.83
+    },
+    {
+        "image": "I37_08_01.png",
+        "gt_score": 4.67
+    },
+    {
+        "image": "I37_08_02.png",
+        "gt_score": 3.58
+    },
+    {
+        "image": "I37_08_03.png",
+        "gt_score": 2.93
+    },
+    {
+        "image": "I37_08_04.png",
+        "gt_score": 1.93
+    },
+    {
+        "image": "I37_08_05.png",
+        "gt_score": 1.83
+    },
+    {
+        "image": "I37_09_01.png",
+        "gt_score": 4.47
+    },
+    {
+        "image": "I37_09_02.png",
+        "gt_score": 3.93
+    },
+    {
+        "image": "I37_09_03.png",
+        "gt_score": 3.3
+    },
+    {
+        "image": "I37_09_04.png",
+        "gt_score": 2.23
+    },
+    {
+        "image": "I37_09_05.png",
+        "gt_score": 1.17
+    },
+    {
+        "image": "I37_10_01.png",
+        "gt_score": 4.03
+    },
+    {
+        "image": "I37_10_02.png",
+        "gt_score": 3.9
+    },
+    {
+        "image": "I37_10_03.png",
+        "gt_score": 3.53
+    },
+    {
+        "image": "I37_10_04.png",
+        "gt_score": 1.77
+    },
+    {
+        "image": "I37_10_05.png",
+        "gt_score": 1.13
+    },
+    {
+        "image": "I37_11_01.png",
+        "gt_score": 3.07
+    },
+    {
+        "image": "I37_11_02.png",
+        "gt_score": 3.0
+    },
+    {
+        "image": "I37_11_03.png",
+        "gt_score": 2.83
+    },
+    {
+        "image": "I37_11_04.png",
+        "gt_score": 2.37
+    },
+    {
+        "image": "I37_11_05.png",
+        "gt_score": 1.83
+    },
+    {
+        "image": "I37_12_01.png",
+        "gt_score": 4.25
+    },
+    {
+        "image": "I37_12_02.png",
+        "gt_score": 3.27
+    },
+    {
+        "image": "I37_12_03.png",
+        "gt_score": 2.87
+    },
+    {
+        "image": "I37_12_04.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I37_12_05.png",
+        "gt_score": 2.0
+    },
+    {
+        "image": "I37_13_01.png",
+        "gt_score": 3.47
+    },
+    {
+        "image": "I37_13_02.png",
+        "gt_score": 2.97
+    },
+    {
+        "image": "I37_13_03.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I37_13_04.png",
+        "gt_score": 2.33
+    },
+    {
+        "image": "I37_13_05.png",
+        "gt_score": 2.1
+    },
+    {
+        "image": "I37_14_01.png",
+        "gt_score": 3.63
+    },
+    {
+        "image": "I37_14_02.png",
+        "gt_score": 2.67
+    },
+    {
+        "image": "I37_14_03.png",
+        "gt_score": 2.67
+    },
+    {
+        "image": "I37_14_04.png",
+        "gt_score": 2.03
+    },
+    {
+        "image": "I37_14_05.png",
+        "gt_score": 1.6
+    },
+    {
+        "image": "I37_15_01.png",
+        "gt_score": 3.9
+    },
+    {
+        "image": "I37_15_02.png",
+        "gt_score": 2.5
+    },
+    {
+        "image": "I37_15_03.png",
+        "gt_score": 1.87
+    },
+    {
+        "image": "I37_15_04.png",
+        "gt_score": 1.37
+    },
+    {
+        "image": "I37_15_05.png",
+        "gt_score": 1.23
+    },
+    {
+        "image": "I37_16_01.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I37_16_02.png",
+        "gt_score": 4.27
+    },
+    {
+        "image": "I37_16_03.png",
+        "gt_score": 3.1
+    },
+    {
+        "image": "I37_16_04.png",
+        "gt_score": 2.43
+    },
+    {
+        "image": "I37_16_05.png",
+        "gt_score": 1.23
+    },
+    {
+        "image": "I37_17_01.png",
+        "gt_score": 4.67
+    },
+    {
+        "image": "I37_17_02.png",
+        "gt_score": 4.27
+    },
+    {
+        "image": "I37_17_03.png",
+        "gt_score": 4.2
+    },
+    {
+        "image": "I37_17_04.png",
+        "gt_score": 3.27
+    },
+    {
+        "image": "I37_17_05.png",
+        "gt_score": 2.63
+    },
+    {
+        "image": "I37_18_01.png",
+        "gt_score": 4.17
+    },
+    {
+        "image": "I37_18_02.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I37_18_03.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I37_18_04.png",
+        "gt_score": 4.6
+    },
+    {
+        "image": "I37_18_05.png",
+        "gt_score": 4.3
+    },
+    {
+        "image": "I37_19_01.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I37_19_02.png",
+        "gt_score": 4.3
+    },
+    {
+        "image": "I37_19_03.png",
+        "gt_score": 3.17
+    },
+    {
+        "image": "I37_19_04.png",
+        "gt_score": 1.53
+    },
+    {
+        "image": "I37_19_05.png",
+        "gt_score": 1.2
+    },
+    {
+        "image": "I37_20_01.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I37_20_02.png",
+        "gt_score": 3.97
+    },
+    {
+        "image": "I37_20_03.png",
+        "gt_score": 3.53
+    },
+    {
+        "image": "I37_20_04.png",
+        "gt_score": 4.1
+    },
+    {
+        "image": "I37_20_05.png",
+        "gt_score": 3.77
+    },
+    {
+        "image": "I37_21_01.png",
+        "gt_score": 3.27
+    },
+    {
+        "image": "I37_21_02.png",
+        "gt_score": 2.27
+    },
+    {
+        "image": "I37_21_03.png",
+        "gt_score": 2.33
+    },
+    {
+        "image": "I37_21_04.png",
+        "gt_score": 2.67
+    },
+    {
+        "image": "I37_21_05.png",
+        "gt_score": 1.33
+    },
+    {
+        "image": "I37_22_01.png",
+        "gt_score": 3.43
+    },
+    {
+        "image": "I37_22_02.png",
+        "gt_score": 3.07
+    },
+    {
+        "image": "I37_22_03.png",
+        "gt_score": 2.87
+    },
+    {
+        "image": "I37_22_04.png",
+        "gt_score": 2.53
+    },
+    {
+        "image": "I37_22_05.png",
+        "gt_score": 2.23
+    },
+    {
+        "image": "I37_23_01.png",
+        "gt_score": 2.73
+    },
+    {
+        "image": "I37_23_02.png",
+        "gt_score": 2.37
+    },
+    {
+        "image": "I37_23_03.png",
+        "gt_score": 2.2
+    },
+    {
+        "image": "I37_23_04.png",
+        "gt_score": 2.17
+    },
+    {
+        "image": "I37_23_05.png",
+        "gt_score": 2.1
+    },
+    {
+        "image": "I37_24_01.png",
+        "gt_score": 3.77
+    },
+    {
+        "image": "I37_24_02.png",
+        "gt_score": 3.03
+    },
+    {
+        "image": "I37_24_03.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I37_24_04.png",
+        "gt_score": 2.0
+    },
+    {
+        "image": "I37_24_05.png",
+        "gt_score": 1.35
+    },
+    {
+        "image": "I37_25_01.png",
+        "gt_score": 3.9
+    },
+    {
+        "image": "I37_25_02.png",
+        "gt_score": 4.17
+    },
+    {
+        "image": "I37_25_03.png",
+        "gt_score": 4.63
+    },
+    {
+        "image": "I37_25_04.png",
+        "gt_score": 4.17
+    },
+    {
+        "image": "I37_25_05.png",
+        "gt_score": 2.97
+    },
+    {
+        "image": "I41_01_01.png",
+        "gt_score": 4.57
+    },
+    {
+        "image": "I41_01_02.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I41_01_03.png",
+        "gt_score": 3.17
+    },
+    {
+        "image": "I41_01_04.png",
+        "gt_score": 2.07
+    },
+    {
+        "image": "I41_01_05.png",
+        "gt_score": 1.4
+    },
+    {
+        "image": "I41_02_01.png",
+        "gt_score": 4.0
+    },
+    {
+        "image": "I41_02_02.png",
+        "gt_score": 2.81
+    },
+    {
+        "image": "I41_02_03.png",
+        "gt_score": 1.81
+    },
+    {
+        "image": "I41_02_04.png",
+        "gt_score": 1.47
+    },
+    {
+        "image": "I41_02_05.png",
+        "gt_score": 1.37
+    },
+    {
+        "image": "I41_03_01.png",
+        "gt_score": 4.57
+    },
+    {
+        "image": "I41_03_02.png",
+        "gt_score": 4.6
+    },
+    {
+        "image": "I41_03_03.png",
+        "gt_score": 3.47
+    },
+    {
+        "image": "I41_03_04.png",
+        "gt_score": 2.4
+    },
+    {
+        "image": "I41_03_05.png",
+        "gt_score": 1.77
+    },
+    {
+        "image": "I41_04_01.png",
+        "gt_score": 4.67
+    },
+    {
+        "image": "I41_04_02.png",
+        "gt_score": 2.63
+    },
+    {
+        "image": "I41_04_03.png",
+        "gt_score": 1.4
+    },
+    {
+        "image": "I41_04_04.png",
+        "gt_score": 1.37
+    },
+    {
+        "image": "I41_04_05.png",
+        "gt_score": 1.2
+    },
+    {
+        "image": "I41_05_01.png",
+        "gt_score": 4.8
+    },
+    {
+        "image": "I41_05_02.png",
+        "gt_score": 2.9
+    },
+    {
+        "image": "I41_05_03.png",
+        "gt_score": 2.8
+    },
+    {
+        "image": "I41_05_04.png",
+        "gt_score": 2.4
+    },
+    {
+        "image": "I41_05_05.png",
+        "gt_score": 2.5
+    },
+    {
+        "image": "I41_06_01.png",
+        "gt_score": 4.27
+    },
+    {
+        "image": "I41_06_02.png",
+        "gt_score": 3.87
+    },
+    {
+        "image": "I41_06_03.png",
+        "gt_score": 3.7
+    },
+    {
+        "image": "I41_06_04.png",
+        "gt_score": 2.81
+    },
+    {
+        "image": "I41_06_05.png",
+        "gt_score": 1.83
+    },
+    {
+        "image": "I41_07_01.png",
+        "gt_score": 3.13
+    },
+    {
+        "image": "I41_07_02.png",
+        "gt_score": 2.57
+    },
+    {
+        "image": "I41_07_03.png",
+        "gt_score": 1.93
+    },
+    {
+        "image": "I41_07_04.png",
+        "gt_score": 2.0
+    },
+    {
+        "image": "I41_07_05.png",
+        "gt_score": 1.7
+    },
+    {
+        "image": "I41_08_01.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I41_08_02.png",
+        "gt_score": 3.77
+    },
+    {
+        "image": "I41_08_03.png",
+        "gt_score": 2.5
+    },
+    {
+        "image": "I41_08_04.png",
+        "gt_score": 2.27
+    },
+    {
+        "image": "I41_08_05.png",
+        "gt_score": 1.37
+    },
+    {
+        "image": "I41_09_01.png",
+        "gt_score": 4.67
+    },
+    {
+        "image": "I41_09_02.png",
+        "gt_score": 4.4
+    },
+    {
+        "image": "I41_09_03.png",
+        "gt_score": 3.97
+    },
+    {
+        "image": "I41_09_04.png",
+        "gt_score": 1.83
+    },
+    {
+        "image": "I41_09_05.png",
+        "gt_score": 1.4
+    },
+    {
+        "image": "I41_10_01.png",
+        "gt_score": 4.6
+    },
+    {
+        "image": "I41_10_02.png",
+        "gt_score": 4.17
+    },
+    {
+        "image": "I41_10_03.png",
+        "gt_score": 4.03
+    },
+    {
+        "image": "I41_10_04.png",
+        "gt_score": 1.77
+    },
+    {
+        "image": "I41_10_05.png",
+        "gt_score": 1.17
+    },
+    {
+        "image": "I41_11_01.png",
+        "gt_score": 4.27
+    },
+    {
+        "image": "I41_11_02.png",
+        "gt_score": 3.63
+    },
+    {
+        "image": "I41_11_03.png",
+        "gt_score": 3.07
+    },
+    {
+        "image": "I41_11_04.png",
+        "gt_score": 2.67
+    },
+    {
+        "image": "I41_11_05.png",
+        "gt_score": 2.4
+    },
+    {
+        "image": "I41_12_01.png",
+        "gt_score": 4.67
+    },
+    {
+        "image": "I41_12_02.png",
+        "gt_score": 3.97
+    },
+    {
+        "image": "I41_12_03.png",
+        "gt_score": 3.5
+    },
+    {
+        "image": "I41_12_04.png",
+        "gt_score": 2.73
+    },
+    {
+        "image": "I41_12_05.png",
+        "gt_score": 2.6
+    },
+    {
+        "image": "I41_13_01.png",
+        "gt_score": 4.2
+    },
+    {
+        "image": "I41_13_02.png",
+        "gt_score": 3.07
+    },
+    {
+        "image": "I41_13_03.png",
+        "gt_score": 2.9
+    },
+    {
+        "image": "I41_13_04.png",
+        "gt_score": 2.6
+    },
+    {
+        "image": "I41_13_05.png",
+        "gt_score": 2.43
+    },
+    {
+        "image": "I41_14_01.png",
+        "gt_score": 4.77
+    },
+    {
+        "image": "I41_14_02.png",
+        "gt_score": 3.83
+    },
+    {
+        "image": "I41_14_03.png",
+        "gt_score": 3.1
+    },
+    {
+        "image": "I41_14_04.png",
+        "gt_score": 2.43
+    },
+    {
+        "image": "I41_14_05.png",
+        "gt_score": 1.8
+    },
+    {
+        "image": "I41_15_01.png",
+        "gt_score": 3.32
+    },
+    {
+        "image": "I41_15_02.png",
+        "gt_score": 2.33
+    },
+    {
+        "image": "I41_15_03.png",
+        "gt_score": 2.17
+    },
+    {
+        "image": "I41_15_04.png",
+        "gt_score": 1.43
+    },
+    {
+        "image": "I41_15_05.png",
+        "gt_score": 1.43
+    },
+    {
+        "image": "I41_16_01.png",
+        "gt_score": 4.6
+    },
+    {
+        "image": "I41_16_02.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I41_16_03.png",
+        "gt_score": 3.33
+    },
+    {
+        "image": "I41_16_04.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I41_16_05.png",
+        "gt_score": 1.4
+    },
+    {
+        "image": "I41_17_01.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I41_17_02.png",
+        "gt_score": 4.73
+    },
+    {
+        "image": "I41_17_03.png",
+        "gt_score": 4.27
+    },
+    {
+        "image": "I41_17_04.png",
+        "gt_score": 3.6
+    },
+    {
+        "image": "I41_17_05.png",
+        "gt_score": 2.87
+    },
+    {
+        "image": "I41_18_01.png",
+        "gt_score": 3.93
+    },
+    {
+        "image": "I41_18_02.png",
+        "gt_score": 4.63
+    },
+    {
+        "image": "I41_18_03.png",
+        "gt_score": 4.6
+    },
+    {
+        "image": "I41_18_04.png",
+        "gt_score": 4.6
+    },
+    {
+        "image": "I41_18_05.png",
+        "gt_score": 3.97
+    },
+    {
+        "image": "I41_19_01.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I41_19_02.png",
+        "gt_score": 4.7
+    },
+    {
+        "image": "I41_19_03.png",
+        "gt_score": 3.97
+    },
+    {
+        "image": "I41_19_04.png",
+        "gt_score": 1.93
+    },
+    {
+        "image": "I41_19_05.png",
+        "gt_score": 1.4
+    },
+    {
+        "image": "I41_20_01.png",
+        "gt_score": 4.2
+    },
+    {
+        "image": "I41_20_02.png",
+        "gt_score": 4.4
+    },
+    {
+        "image": "I41_20_03.png",
+        "gt_score": 3.73
+    },
+    {
+        "image": "I41_20_04.png",
+        "gt_score": 3.03
+    },
+    {
+        "image": "I41_20_05.png",
+        "gt_score": 2.4
+    },
+    {
+        "image": "I41_21_01.png",
+        "gt_score": 4.27
+    },
+    {
+        "image": "I41_21_02.png",
+        "gt_score": 3.48
+    },
+    {
+        "image": "I41_21_03.png",
+        "gt_score": 3.03
+    },
+    {
+        "image": "I41_21_04.png",
+        "gt_score": 3.13
+    },
+    {
+        "image": "I41_21_05.png",
+        "gt_score": 1.47
+    },
+    {
+        "image": "I41_22_01.png",
+        "gt_score": 4.73
+    },
+    {
+        "image": "I41_22_02.png",
+        "gt_score": 4.67
+    },
+    {
+        "image": "I41_22_03.png",
+        "gt_score": 4.27
+    },
+    {
+        "image": "I41_22_04.png",
+        "gt_score": 4.07
+    },
+    {
+        "image": "I41_22_05.png",
+        "gt_score": 3.2
+    },
+    {
+        "image": "I41_23_01.png",
+        "gt_score": 2.93
+    },
+    {
+        "image": "I41_23_02.png",
+        "gt_score": 3.13
+    },
+    {
+        "image": "I41_23_03.png",
+        "gt_score": 2.33
+    },
+    {
+        "image": "I41_23_04.png",
+        "gt_score": 2.27
+    },
+    {
+        "image": "I41_23_05.png",
+        "gt_score": 2.17
+    },
+    {
+        "image": "I41_24_01.png",
+        "gt_score": 4.07
+    },
+    {
+        "image": "I41_24_02.png",
+        "gt_score": 3.23
+    },
+    {
+        "image": "I41_24_03.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I41_24_04.png",
+        "gt_score": 1.87
+    },
+    {
+        "image": "I41_24_05.png",
+        "gt_score": 1.47
+    },
+    {
+        "image": "I41_25_01.png",
+        "gt_score": 3.73
+    },
+    {
+        "image": "I41_25_02.png",
+        "gt_score": 4.23
+    },
+    {
+        "image": "I41_25_03.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I41_25_04.png",
+        "gt_score": 4.6
+    },
+    {
+        "image": "I41_25_05.png",
+        "gt_score": 3.97
+    },
+    {
+        "image": "I45_01_01.png",
+        "gt_score": 4.57
+    },
+    {
+        "image": "I45_01_02.png",
+        "gt_score": 4.3
+    },
+    {
+        "image": "I45_01_03.png",
+        "gt_score": 2.63
+    },
+    {
+        "image": "I45_01_04.png",
+        "gt_score": 1.45
+    },
+    {
+        "image": "I45_01_05.png",
+        "gt_score": 1.23
+    },
+    {
+        "image": "I45_02_01.png",
+        "gt_score": 3.63
+    },
+    {
+        "image": "I45_02_02.png",
+        "gt_score": 2.13
+    },
+    {
+        "image": "I45_02_03.png",
+        "gt_score": 1.5
+    },
+    {
+        "image": "I45_02_04.png",
+        "gt_score": 1.4
+    },
+    {
+        "image": "I45_02_05.png",
+        "gt_score": 1.17
+    },
+    {
+        "image": "I45_03_01.png",
+        "gt_score": 4.6
+    },
+    {
+        "image": "I45_03_02.png",
+        "gt_score": 3.8
+    },
+    {
+        "image": "I45_03_03.png",
+        "gt_score": 2.53
+    },
+    {
+        "image": "I45_03_04.png",
+        "gt_score": 1.9
+    },
+    {
+        "image": "I45_03_05.png",
+        "gt_score": 1.6
+    },
+    {
+        "image": "I45_04_01.png",
+        "gt_score": 4.7
+    },
+    {
+        "image": "I45_04_02.png",
+        "gt_score": 2.8
+    },
+    {
+        "image": "I45_04_03.png",
+        "gt_score": 1.5
+    },
+    {
+        "image": "I45_04_04.png",
+        "gt_score": 1.6
+    },
+    {
+        "image": "I45_04_05.png",
+        "gt_score": 1.3
+    },
+    {
+        "image": "I45_05_01.png",
+        "gt_score": 3.8
+    },
+    {
+        "image": "I45_05_02.png",
+        "gt_score": 2.69
+    },
+    {
+        "image": "I45_05_03.png",
+        "gt_score": 1.63
+    },
+    {
+        "image": "I45_05_04.png",
+        "gt_score": 1.53
+    },
+    {
+        "image": "I45_05_05.png",
+        "gt_score": 1.63
+    },
+    {
+        "image": "I45_06_01.png",
+        "gt_score": 3.33
+    },
+    {
+        "image": "I45_06_02.png",
+        "gt_score": 3.0
+    },
+    {
+        "image": "I45_06_03.png",
+        "gt_score": 2.5
+    },
+    {
+        "image": "I45_06_04.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I45_06_05.png",
+        "gt_score": 1.53
+    },
+    {
+        "image": "I45_07_01.png",
+        "gt_score": 2.93
+    },
+    {
+        "image": "I45_07_02.png",
+        "gt_score": 2.67
+    },
+    {
+        "image": "I45_07_03.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I45_07_04.png",
+        "gt_score": 2.57
+    },
+    {
+        "image": "I45_07_05.png",
+        "gt_score": 1.93
+    },
+    {
+        "image": "I45_08_01.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I45_08_02.png",
+        "gt_score": 3.4
+    },
+    {
+        "image": "I45_08_03.png",
+        "gt_score": 2.63
+    },
+    {
+        "image": "I45_08_04.png",
+        "gt_score": 1.37
+    },
+    {
+        "image": "I45_08_05.png",
+        "gt_score": 1.3
+    },
+    {
+        "image": "I45_09_01.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I45_09_02.png",
+        "gt_score": 4.47
+    },
+    {
+        "image": "I45_09_03.png",
+        "gt_score": 3.23
+    },
+    {
+        "image": "I45_09_04.png",
+        "gt_score": 2.03
+    },
+    {
+        "image": "I45_09_05.png",
+        "gt_score": 1.13
+    },
+    {
+        "image": "I45_10_01.png",
+        "gt_score": 4.1
+    },
+    {
+        "image": "I45_10_02.png",
+        "gt_score": 4.06
+    },
+    {
+        "image": "I45_10_03.png",
+        "gt_score": 3.58
+    },
+    {
+        "image": "I45_10_04.png",
+        "gt_score": 1.53
+    },
+    {
+        "image": "I45_10_05.png",
+        "gt_score": 1.13
+    },
+    {
+        "image": "I45_11_01.png",
+        "gt_score": 3.97
+    },
+    {
+        "image": "I45_11_02.png",
+        "gt_score": 3.17
+    },
+    {
+        "image": "I45_11_03.png",
+        "gt_score": 2.67
+    },
+    {
+        "image": "I45_11_04.png",
+        "gt_score": 2.4
+    },
+    {
+        "image": "I45_11_05.png",
+        "gt_score": 2.33
+    },
+    {
+        "image": "I45_12_01.png",
+        "gt_score": 4.47
+    },
+    {
+        "image": "I45_12_02.png",
+        "gt_score": 3.43
+    },
+    {
+        "image": "I45_12_03.png",
+        "gt_score": 2.94
+    },
+    {
+        "image": "I45_12_04.png",
+        "gt_score": 2.27
+    },
+    {
+        "image": "I45_12_05.png",
+        "gt_score": 2.23
+    },
+    {
+        "image": "I45_13_01.png",
+        "gt_score": 3.37
+    },
+    {
+        "image": "I45_13_02.png",
+        "gt_score": 2.8
+    },
+    {
+        "image": "I45_13_03.png",
+        "gt_score": 2.71
+    },
+    {
+        "image": "I45_13_04.png",
+        "gt_score": 2.37
+    },
+    {
+        "image": "I45_13_05.png",
+        "gt_score": 2.03
+    },
+    {
+        "image": "I45_14_01.png",
+        "gt_score": 4.27
+    },
+    {
+        "image": "I45_14_02.png",
+        "gt_score": 3.23
+    },
+    {
+        "image": "I45_14_03.png",
+        "gt_score": 2.77
+    },
+    {
+        "image": "I45_14_04.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I45_14_05.png",
+        "gt_score": 1.73
+    },
+    {
+        "image": "I45_15_01.png",
+        "gt_score": 3.6
+    },
+    {
+        "image": "I45_15_02.png",
+        "gt_score": 2.27
+    },
+    {
+        "image": "I45_15_03.png",
+        "gt_score": 1.63
+    },
+    {
+        "image": "I45_15_04.png",
+        "gt_score": 1.47
+    },
+    {
+        "image": "I45_15_05.png",
+        "gt_score": 1.3
+    },
+    {
+        "image": "I45_16_01.png",
+        "gt_score": 4.63
+    },
+    {
+        "image": "I45_16_02.png",
+        "gt_score": 4.4
+    },
+    {
+        "image": "I45_16_03.png",
+        "gt_score": 3.7
+    },
+    {
+        "image": "I45_16_04.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I45_16_05.png",
+        "gt_score": 1.47
+    },
+    {
+        "image": "I45_17_01.png",
+        "gt_score": 4.67
+    },
+    {
+        "image": "I45_17_02.png",
+        "gt_score": 4.63
+    },
+    {
+        "image": "I45_17_03.png",
+        "gt_score": 4.17
+    },
+    {
+        "image": "I45_17_04.png",
+        "gt_score": 3.97
+    },
+    {
+        "image": "I45_17_05.png",
+        "gt_score": 2.87
+    },
+    {
+        "image": "I45_18_01.png",
+        "gt_score": 4.3
+    },
+    {
+        "image": "I45_18_02.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I45_18_03.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I45_18_04.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I45_18_05.png",
+        "gt_score": 4.03
+    },
+    {
+        "image": "I45_19_01.png",
+        "gt_score": 4.4
+    },
+    {
+        "image": "I45_19_02.png",
+        "gt_score": 4.3
+    },
+    {
+        "image": "I45_19_03.png",
+        "gt_score": 2.9
+    },
+    {
+        "image": "I45_19_04.png",
+        "gt_score": 1.57
+    },
+    {
+        "image": "I45_19_05.png",
+        "gt_score": 1.4
+    },
+    {
+        "image": "I45_20_01.png",
+        "gt_score": 4.27
+    },
+    {
+        "image": "I45_20_02.png",
+        "gt_score": 3.27
+    },
+    {
+        "image": "I45_20_03.png",
+        "gt_score": 2.67
+    },
+    {
+        "image": "I45_20_04.png",
+        "gt_score": 3.13
+    },
+    {
+        "image": "I45_20_05.png",
+        "gt_score": 2.07
+    },
+    {
+        "image": "I45_21_01.png",
+        "gt_score": 3.77
+    },
+    {
+        "image": "I45_21_02.png",
+        "gt_score": 2.43
+    },
+    {
+        "image": "I45_21_03.png",
+        "gt_score": 2.6
+    },
+    {
+        "image": "I45_21_04.png",
+        "gt_score": 2.4
+    },
+    {
+        "image": "I45_21_05.png",
+        "gt_score": 1.23
+    },
+    {
+        "image": "I45_22_01.png",
+        "gt_score": 4.23
+    },
+    {
+        "image": "I45_22_02.png",
+        "gt_score": 4.1
+    },
+    {
+        "image": "I45_22_03.png",
+        "gt_score": 3.73
+    },
+    {
+        "image": "I45_22_04.png",
+        "gt_score": 3.3
+    },
+    {
+        "image": "I45_22_05.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I45_23_01.png",
+        "gt_score": 4.03
+    },
+    {
+        "image": "I45_23_02.png",
+        "gt_score": 2.77
+    },
+    {
+        "image": "I45_23_03.png",
+        "gt_score": 2.4
+    },
+    {
+        "image": "I45_23_04.png",
+        "gt_score": 1.97
+    },
+    {
+        "image": "I45_23_05.png",
+        "gt_score": 1.97
+    },
+    {
+        "image": "I45_24_01.png",
+        "gt_score": 3.4
+    },
+    {
+        "image": "I45_24_02.png",
+        "gt_score": 2.53
+    },
+    {
+        "image": "I45_24_03.png",
+        "gt_score": 2.1
+    },
+    {
+        "image": "I45_24_04.png",
+        "gt_score": 1.53
+    },
+    {
+        "image": "I45_24_05.png",
+        "gt_score": 1.37
+    },
+    {
+        "image": "I45_25_01.png",
+        "gt_score": 3.4
+    },
+    {
+        "image": "I45_25_02.png",
+        "gt_score": 3.8
+    },
+    {
+        "image": "I45_25_03.png",
+        "gt_score": 4.27
+    },
+    {
+        "image": "I45_25_04.png",
+        "gt_score": 4.27
+    },
+    {
+        "image": "I45_25_05.png",
+        "gt_score": 3.2
+    },
+    {
+        "image": "I48_01_01.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I48_01_02.png",
+        "gt_score": 4.75
+    },
+    {
+        "image": "I48_01_03.png",
+        "gt_score": 3.5
+    },
+    {
+        "image": "I48_01_04.png",
+        "gt_score": 2.2
+    },
+    {
+        "image": "I48_01_05.png",
+        "gt_score": 1.23
+    },
+    {
+        "image": "I48_02_01.png",
+        "gt_score": 4.13
+    },
+    {
+        "image": "I48_02_02.png",
+        "gt_score": 3.03
+    },
+    {
+        "image": "I48_02_03.png",
+        "gt_score": 1.87
+    },
+    {
+        "image": "I48_02_04.png",
+        "gt_score": 1.7
+    },
+    {
+        "image": "I48_02_05.png",
+        "gt_score": 1.23
+    },
+    {
+        "image": "I48_03_01.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I48_03_02.png",
+        "gt_score": 4.27
+    },
+    {
+        "image": "I48_03_03.png",
+        "gt_score": 3.23
+    },
+    {
+        "image": "I48_03_04.png",
+        "gt_score": 2.48
+    },
+    {
+        "image": "I48_03_05.png",
+        "gt_score": 2.13
+    },
+    {
+        "image": "I48_04_01.png",
+        "gt_score": 4.63
+    },
+    {
+        "image": "I48_04_02.png",
+        "gt_score": 2.27
+    },
+    {
+        "image": "I48_04_03.png",
+        "gt_score": 1.57
+    },
+    {
+        "image": "I48_04_04.png",
+        "gt_score": 1.43
+    },
+    {
+        "image": "I48_04_05.png",
+        "gt_score": 1.5
+    },
+    {
+        "image": "I48_05_01.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I48_05_02.png",
+        "gt_score": 2.7
+    },
+    {
+        "image": "I48_05_03.png",
+        "gt_score": 1.8
+    },
+    {
+        "image": "I48_05_04.png",
+        "gt_score": 1.77
+    },
+    {
+        "image": "I48_05_05.png",
+        "gt_score": 1.9
+    },
+    {
+        "image": "I48_06_01.png",
+        "gt_score": 4.07
+    },
+    {
+        "image": "I48_06_02.png",
+        "gt_score": 4.1
+    },
+    {
+        "image": "I48_06_03.png",
+        "gt_score": 3.57
+    },
+    {
+        "image": "I48_06_04.png",
+        "gt_score": 3.03
+    },
+    {
+        "image": "I48_06_05.png",
+        "gt_score": 2.07
+    },
+    {
+        "image": "I48_07_01.png",
+        "gt_score": 2.77
+    },
+    {
+        "image": "I48_07_02.png",
+        "gt_score": 2.6
+    },
+    {
+        "image": "I48_07_03.png",
+        "gt_score": 2.13
+    },
+    {
+        "image": "I48_07_04.png",
+        "gt_score": 2.27
+    },
+    {
+        "image": "I48_07_05.png",
+        "gt_score": 2.37
+    },
+    {
+        "image": "I48_08_01.png",
+        "gt_score": 4.47
+    },
+    {
+        "image": "I48_08_02.png",
+        "gt_score": 3.0
+    },
+    {
+        "image": "I48_08_03.png",
+        "gt_score": 2.63
+    },
+    {
+        "image": "I48_08_04.png",
+        "gt_score": 1.57
+    },
+    {
+        "image": "I48_08_05.png",
+        "gt_score": 1.2
+    },
+    {
+        "image": "I48_09_01.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I48_09_02.png",
+        "gt_score": 4.57
+    },
+    {
+        "image": "I48_09_03.png",
+        "gt_score": 4.63
+    },
+    {
+        "image": "I48_09_04.png",
+        "gt_score": 3.55
+    },
+    {
+        "image": "I48_09_05.png",
+        "gt_score": 1.47
+    },
+    {
+        "image": "I48_10_01.png",
+        "gt_score": 4.7
+    },
+    {
+        "image": "I48_10_02.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I48_10_03.png",
+        "gt_score": 4.17
+    },
+    {
+        "image": "I48_10_04.png",
+        "gt_score": 1.8
+    },
+    {
+        "image": "I48_10_05.png",
+        "gt_score": 1.17
+    },
+    {
+        "image": "I48_11_01.png",
+        "gt_score": 3.77
+    },
+    {
+        "image": "I48_11_02.png",
+        "gt_score": 3.07
+    },
+    {
+        "image": "I48_11_03.png",
+        "gt_score": 2.9
+    },
+    {
+        "image": "I48_11_04.png",
+        "gt_score": 2.67
+    },
+    {
+        "image": "I48_11_05.png",
+        "gt_score": 2.1
+    },
+    {
+        "image": "I48_12_01.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I48_12_02.png",
+        "gt_score": 3.67
+    },
+    {
+        "image": "I48_12_03.png",
+        "gt_score": 2.93
+    },
+    {
+        "image": "I48_12_04.png",
+        "gt_score": 2.77
+    },
+    {
+        "image": "I48_12_05.png",
+        "gt_score": 2.27
+    },
+    {
+        "image": "I48_13_01.png",
+        "gt_score": 3.13
+    },
+    {
+        "image": "I48_13_02.png",
+        "gt_score": 2.8
+    },
+    {
+        "image": "I48_13_03.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I48_13_04.png",
+        "gt_score": 2.06
+    },
+    {
+        "image": "I48_13_05.png",
+        "gt_score": 2.27
+    },
+    {
+        "image": "I48_14_01.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I48_14_02.png",
+        "gt_score": 2.97
+    },
+    {
+        "image": "I48_14_03.png",
+        "gt_score": 2.9
+    },
+    {
+        "image": "I48_14_04.png",
+        "gt_score": 2.33
+    },
+    {
+        "image": "I48_14_05.png",
+        "gt_score": 2.06
+    },
+    {
+        "image": "I48_15_01.png",
+        "gt_score": 3.3
+    },
+    {
+        "image": "I48_15_02.png",
+        "gt_score": 2.63
+    },
+    {
+        "image": "I48_15_03.png",
+        "gt_score": 2.03
+    },
+    {
+        "image": "I48_15_04.png",
+        "gt_score": 1.63
+    },
+    {
+        "image": "I48_15_05.png",
+        "gt_score": 1.73
+    },
+    {
+        "image": "I48_16_01.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I48_16_02.png",
+        "gt_score": 4.6
+    },
+    {
+        "image": "I48_16_03.png",
+        "gt_score": 3.9
+    },
+    {
+        "image": "I48_16_04.png",
+        "gt_score": 2.6
+    },
+    {
+        "image": "I48_16_05.png",
+        "gt_score": 1.7
+    },
+    {
+        "image": "I48_17_01.png",
+        "gt_score": 4.47
+    },
+    {
+        "image": "I48_17_02.png",
+        "gt_score": 4.77
+    },
+    {
+        "image": "I48_17_03.png",
+        "gt_score": 4.47
+    },
+    {
+        "image": "I48_17_04.png",
+        "gt_score": 3.37
+    },
+    {
+        "image": "I48_17_05.png",
+        "gt_score": 2.4
+    },
+    {
+        "image": "I48_18_01.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I48_18_02.png",
+        "gt_score": 4.63
+    },
+    {
+        "image": "I48_18_03.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I48_18_04.png",
+        "gt_score": 4.3
+    },
+    {
+        "image": "I48_18_05.png",
+        "gt_score": 3.87
+    },
+    {
+        "image": "I48_19_01.png",
+        "gt_score": 4.7
+    },
+    {
+        "image": "I48_19_02.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I48_19_03.png",
+        "gt_score": 3.6
+    },
+    {
+        "image": "I48_19_04.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I48_19_05.png",
+        "gt_score": 1.5
+    },
+    {
+        "image": "I48_20_01.png",
+        "gt_score": 4.33
+    },
+    {
+        "image": "I48_20_02.png",
+        "gt_score": 3.17
+    },
+    {
+        "image": "I48_20_03.png",
+        "gt_score": 2.73
+    },
+    {
+        "image": "I48_20_04.png",
+        "gt_score": 2.4
+    },
+    {
+        "image": "I48_20_05.png",
+        "gt_score": 2.67
+    },
+    {
+        "image": "I48_21_01.png",
+        "gt_score": 3.87
+    },
+    {
+        "image": "I48_21_02.png",
+        "gt_score": 3.5
+    },
+    {
+        "image": "I48_21_03.png",
+        "gt_score": 2.93
+    },
+    {
+        "image": "I48_21_04.png",
+        "gt_score": 3.44
+    },
+    {
+        "image": "I48_21_05.png",
+        "gt_score": 1.6
+    },
+    {
+        "image": "I48_22_01.png",
+        "gt_score": 3.23
+    },
+    {
+        "image": "I48_22_02.png",
+        "gt_score": 3.03
+    },
+    {
+        "image": "I48_22_03.png",
+        "gt_score": 2.7
+    },
+    {
+        "image": "I48_22_04.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I48_22_05.png",
+        "gt_score": 1.97
+    },
+    {
+        "image": "I48_23_01.png",
+        "gt_score": 3.23
+    },
+    {
+        "image": "I48_23_02.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I48_23_03.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I48_23_04.png",
+        "gt_score": 2.1
+    },
+    {
+        "image": "I48_23_05.png",
+        "gt_score": 1.97
+    },
+    {
+        "image": "I48_24_01.png",
+        "gt_score": 3.57
+    },
+    {
+        "image": "I48_24_02.png",
+        "gt_score": 2.55
+    },
+    {
+        "image": "I48_24_03.png",
+        "gt_score": 2.37
+    },
+    {
+        "image": "I48_24_04.png",
+        "gt_score": 1.4
+    },
+    {
+        "image": "I48_24_05.png",
+        "gt_score": 1.5
+    },
+    {
+        "image": "I48_25_01.png",
+        "gt_score": 3.1
+    },
+    {
+        "image": "I48_25_02.png",
+        "gt_score": 3.67
+    },
+    {
+        "image": "I48_25_03.png",
+        "gt_score": 4.13
+    },
+    {
+        "image": "I48_25_04.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I48_25_05.png",
+        "gt_score": 3.9
+    },
+    {
+        "image": "I50_01_01.png",
+        "gt_score": 4.57
+    },
+    {
+        "image": "I50_01_02.png",
+        "gt_score": 4.13
+    },
+    {
+        "image": "I50_01_03.png",
+        "gt_score": 2.73
+    },
+    {
+        "image": "I50_01_04.png",
+        "gt_score": 1.83
+    },
+    {
+        "image": "I50_01_05.png",
+        "gt_score": 1.2
+    },
+    {
+        "image": "I50_02_01.png",
+        "gt_score": 3.9
+    },
+    {
+        "image": "I50_02_02.png",
+        "gt_score": 2.6
+    },
+    {
+        "image": "I50_02_03.png",
+        "gt_score": 1.8
+    },
+    {
+        "image": "I50_02_04.png",
+        "gt_score": 1.33
+    },
+    {
+        "image": "I50_02_05.png",
+        "gt_score": 1.17
+    },
+    {
+        "image": "I50_03_01.png",
+        "gt_score": 4.6
+    },
+    {
+        "image": "I50_03_02.png",
+        "gt_score": 3.8
+    },
+    {
+        "image": "I50_03_03.png",
+        "gt_score": 2.77
+    },
+    {
+        "image": "I50_03_04.png",
+        "gt_score": 2.2
+    },
+    {
+        "image": "I50_03_05.png",
+        "gt_score": 1.53
+    },
+    {
+        "image": "I50_04_01.png",
+        "gt_score": 4.52
+    },
+    {
+        "image": "I50_04_02.png",
+        "gt_score": 2.57
+    },
+    {
+        "image": "I50_04_03.png",
+        "gt_score": 1.93
+    },
+    {
+        "image": "I50_04_04.png",
+        "gt_score": 1.53
+    },
+    {
+        "image": "I50_04_05.png",
+        "gt_score": 1.47
+    },
+    {
+        "image": "I50_05_01.png",
+        "gt_score": 3.83
+    },
+    {
+        "image": "I50_05_02.png",
+        "gt_score": 2.1
+    },
+    {
+        "image": "I50_05_03.png",
+        "gt_score": 1.7
+    },
+    {
+        "image": "I50_05_04.png",
+        "gt_score": 1.47
+    },
+    {
+        "image": "I50_05_05.png",
+        "gt_score": 1.67
+    },
+    {
+        "image": "I50_06_01.png",
+        "gt_score": 3.7
+    },
+    {
+        "image": "I50_06_02.png",
+        "gt_score": 3.83
+    },
+    {
+        "image": "I50_06_03.png",
+        "gt_score": 3.43
+    },
+    {
+        "image": "I50_06_04.png",
+        "gt_score": 3.07
+    },
+    {
+        "image": "I50_06_05.png",
+        "gt_score": 2.67
+    },
+    {
+        "image": "I50_07_01.png",
+        "gt_score": 2.6
+    },
+    {
+        "image": "I50_07_02.png",
+        "gt_score": 2.27
+    },
+    {
+        "image": "I50_07_03.png",
+        "gt_score": 1.93
+    },
+    {
+        "image": "I50_07_04.png",
+        "gt_score": 2.2
+    },
+    {
+        "image": "I50_07_05.png",
+        "gt_score": 2.03
+    },
+    {
+        "image": "I50_08_01.png",
+        "gt_score": 4.47
+    },
+    {
+        "image": "I50_08_02.png",
+        "gt_score": 3.13
+    },
+    {
+        "image": "I50_08_03.png",
+        "gt_score": 2.63
+    },
+    {
+        "image": "I50_08_04.png",
+        "gt_score": 1.63
+    },
+    {
+        "image": "I50_08_05.png",
+        "gt_score": 1.27
+    },
+    {
+        "image": "I50_09_01.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I50_09_02.png",
+        "gt_score": 4.3
+    },
+    {
+        "image": "I50_09_03.png",
+        "gt_score": 3.83
+    },
+    {
+        "image": "I50_09_04.png",
+        "gt_score": 2.63
+    },
+    {
+        "image": "I50_09_05.png",
+        "gt_score": 1.27
+    },
+    {
+        "image": "I50_10_01.png",
+        "gt_score": 4.17
+    },
+    {
+        "image": "I50_10_02.png",
+        "gt_score": 4.4
+    },
+    {
+        "image": "I50_10_03.png",
+        "gt_score": 4.03
+    },
+    {
+        "image": "I50_10_04.png",
+        "gt_score": 2.27
+    },
+    {
+        "image": "I50_10_05.png",
+        "gt_score": 1.1
+    },
+    {
+        "image": "I50_11_01.png",
+        "gt_score": 3.9
+    },
+    {
+        "image": "I50_11_02.png",
+        "gt_score": 3.43
+    },
+    {
+        "image": "I50_11_03.png",
+        "gt_score": 3.17
+    },
+    {
+        "image": "I50_11_04.png",
+        "gt_score": 2.53
+    },
+    {
+        "image": "I50_11_05.png",
+        "gt_score": 2.37
+    },
+    {
+        "image": "I50_12_01.png",
+        "gt_score": 4.4
+    },
+    {
+        "image": "I50_12_02.png",
+        "gt_score": 3.17
+    },
+    {
+        "image": "I50_12_03.png",
+        "gt_score": 3.27
+    },
+    {
+        "image": "I50_12_04.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I50_12_05.png",
+        "gt_score": 2.2
+    },
+    {
+        "image": "I50_13_01.png",
+        "gt_score": 3.63
+    },
+    {
+        "image": "I50_13_02.png",
+        "gt_score": 2.93
+    },
+    {
+        "image": "I50_13_03.png",
+        "gt_score": 2.87
+    },
+    {
+        "image": "I50_13_04.png",
+        "gt_score": 2.07
+    },
+    {
+        "image": "I50_13_05.png",
+        "gt_score": 2.03
+    },
+    {
+        "image": "I50_14_01.png",
+        "gt_score": 4.07
+    },
+    {
+        "image": "I50_14_02.png",
+        "gt_score": 3.16
+    },
+    {
+        "image": "I50_14_03.png",
+        "gt_score": 2.67
+    },
+    {
+        "image": "I50_14_04.png",
+        "gt_score": 2.13
+    },
+    {
+        "image": "I50_14_05.png",
+        "gt_score": 1.9
+    },
+    {
+        "image": "I50_15_01.png",
+        "gt_score": 3.6
+    },
+    {
+        "image": "I50_15_02.png",
+        "gt_score": 2.77
+    },
+    {
+        "image": "I50_15_03.png",
+        "gt_score": 2.23
+    },
+    {
+        "image": "I50_15_04.png",
+        "gt_score": 1.8
+    },
+    {
+        "image": "I50_15_05.png",
+        "gt_score": 1.53
+    },
+    {
+        "image": "I50_16_01.png",
+        "gt_score": 4.47
+    },
+    {
+        "image": "I50_16_02.png",
+        "gt_score": 4.23
+    },
+    {
+        "image": "I50_16_03.png",
+        "gt_score": 3.3
+    },
+    {
+        "image": "I50_16_04.png",
+        "gt_score": 1.7
+    },
+    {
+        "image": "I50_16_05.png",
+        "gt_score": 1.5
+    },
+    {
+        "image": "I50_17_01.png",
+        "gt_score": 4.33
+    },
+    {
+        "image": "I50_17_02.png",
+        "gt_score": 4.2
+    },
+    {
+        "image": "I50_17_03.png",
+        "gt_score": 4.13
+    },
+    {
+        "image": "I50_17_04.png",
+        "gt_score": 3.63
+    },
+    {
+        "image": "I50_17_05.png",
+        "gt_score": 2.57
+    },
+    {
+        "image": "I50_18_01.png",
+        "gt_score": 4.27
+    },
+    {
+        "image": "I50_18_02.png",
+        "gt_score": 4.17
+    },
+    {
+        "image": "I50_18_03.png",
+        "gt_score": 4.57
+    },
+    {
+        "image": "I50_18_04.png",
+        "gt_score": 4.27
+    },
+    {
+        "image": "I50_18_05.png",
+        "gt_score": 3.67
+    },
+    {
+        "image": "I50_19_01.png",
+        "gt_score": 4.57
+    },
+    {
+        "image": "I50_19_02.png",
+        "gt_score": 4.37
+    },
+    {
+        "image": "I50_19_03.png",
+        "gt_score": 3.83
+    },
+    {
+        "image": "I50_19_04.png",
+        "gt_score": 2.27
+    },
+    {
+        "image": "I50_19_05.png",
+        "gt_score": 1.37
+    },
+    {
+        "image": "I50_20_01.png",
+        "gt_score": 3.87
+    },
+    {
+        "image": "I50_20_02.png",
+        "gt_score": 3.87
+    },
+    {
+        "image": "I50_20_03.png",
+        "gt_score": 3.33
+    },
+    {
+        "image": "I50_20_04.png",
+        "gt_score": 2.37
+    },
+    {
+        "image": "I50_20_05.png",
+        "gt_score": 2.17
+    },
+    {
+        "image": "I50_21_01.png",
+        "gt_score": 4.37
+    },
+    {
+        "image": "I50_21_02.png",
+        "gt_score": 3.47
+    },
+    {
+        "image": "I50_21_03.png",
+        "gt_score": 3.53
+    },
+    {
+        "image": "I50_21_04.png",
+        "gt_score": 3.03
+    },
+    {
+        "image": "I50_21_05.png",
+        "gt_score": 1.52
+    },
+    {
+        "image": "I50_22_01.png",
+        "gt_score": 3.87
+    },
+    {
+        "image": "I50_22_02.png",
+        "gt_score": 3.93
+    },
+    {
+        "image": "I50_22_03.png",
+        "gt_score": 3.83
+    },
+    {
+        "image": "I50_22_04.png",
+        "gt_score": 3.73
+    },
+    {
+        "image": "I50_22_05.png",
+        "gt_score": 2.73
+    },
+    {
+        "image": "I50_23_01.png",
+        "gt_score": 2.57
+    },
+    {
+        "image": "I50_23_02.png",
+        "gt_score": 2.23
+    },
+    {
+        "image": "I50_23_03.png",
+        "gt_score": 2.2
+    },
+    {
+        "image": "I50_23_04.png",
+        "gt_score": 1.53
+    },
+    {
+        "image": "I50_23_05.png",
+        "gt_score": 1.87
+    },
+    {
+        "image": "I50_24_01.png",
+        "gt_score": 3.33
+    },
+    {
+        "image": "I50_24_02.png",
+        "gt_score": 2.6
+    },
+    {
+        "image": "I50_24_03.png",
+        "gt_score": 2.16
+    },
+    {
+        "image": "I50_24_04.png",
+        "gt_score": 1.35
+    },
+    {
+        "image": "I50_24_05.png",
+        "gt_score": 1.23
+    },
+    {
+        "image": "I50_25_01.png",
+        "gt_score": 3.0
+    },
+    {
+        "image": "I50_25_02.png",
+        "gt_score": 3.6
+    },
+    {
+        "image": "I50_25_03.png",
+        "gt_score": 4.17
+    },
+    {
+        "image": "I50_25_04.png",
+        "gt_score": 4.33
+    },
+    {
+        "image": "I50_25_05.png",
+        "gt_score": 3.57
+    },
+    {
+        "image": "I51_01_01.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I51_01_02.png",
+        "gt_score": 4.37
+    },
+    {
+        "image": "I51_01_03.png",
+        "gt_score": 2.5
+    },
+    {
+        "image": "I51_01_04.png",
+        "gt_score": 1.53
+    },
+    {
+        "image": "I51_01_05.png",
+        "gt_score": 1.33
+    },
+    {
+        "image": "I51_02_01.png",
+        "gt_score": 4.03
+    },
+    {
+        "image": "I51_02_02.png",
+        "gt_score": 2.48
+    },
+    {
+        "image": "I51_02_03.png",
+        "gt_score": 1.73
+    },
+    {
+        "image": "I51_02_04.png",
+        "gt_score": 1.37
+    },
+    {
+        "image": "I51_02_05.png",
+        "gt_score": 1.13
+    },
+    {
+        "image": "I51_03_01.png",
+        "gt_score": 4.77
+    },
+    {
+        "image": "I51_03_02.png",
+        "gt_score": 4.03
+    },
+    {
+        "image": "I51_03_03.png",
+        "gt_score": 1.93
+    },
+    {
+        "image": "I51_03_04.png",
+        "gt_score": 2.0
+    },
+    {
+        "image": "I51_03_05.png",
+        "gt_score": 1.23
+    },
+    {
+        "image": "I51_04_01.png",
+        "gt_score": 4.7
+    },
+    {
+        "image": "I51_04_02.png",
+        "gt_score": 2.97
+    },
+    {
+        "image": "I51_04_03.png",
+        "gt_score": 1.7
+    },
+    {
+        "image": "I51_04_04.png",
+        "gt_score": 1.4
+    },
+    {
+        "image": "I51_04_05.png",
+        "gt_score": 1.17
+    },
+    {
+        "image": "I51_05_01.png",
+        "gt_score": 3.87
+    },
+    {
+        "image": "I51_05_02.png",
+        "gt_score": 2.23
+    },
+    {
+        "image": "I51_05_03.png",
+        "gt_score": 1.53
+    },
+    {
+        "image": "I51_05_04.png",
+        "gt_score": 1.5
+    },
+    {
+        "image": "I51_05_05.png",
+        "gt_score": 1.77
+    },
+    {
+        "image": "I51_06_01.png",
+        "gt_score": 3.93
+    },
+    {
+        "image": "I51_06_02.png",
+        "gt_score": 3.9
+    },
+    {
+        "image": "I51_06_03.png",
+        "gt_score": 3.77
+    },
+    {
+        "image": "I51_06_04.png",
+        "gt_score": 3.3
+    },
+    {
+        "image": "I51_06_05.png",
+        "gt_score": 2.63
+    },
+    {
+        "image": "I51_07_01.png",
+        "gt_score": 2.87
+    },
+    {
+        "image": "I51_07_02.png",
+        "gt_score": 2.27
+    },
+    {
+        "image": "I51_07_03.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I51_07_04.png",
+        "gt_score": 2.43
+    },
+    {
+        "image": "I51_07_05.png",
+        "gt_score": 2.03
+    },
+    {
+        "image": "I51_08_01.png",
+        "gt_score": 4.67
+    },
+    {
+        "image": "I51_08_02.png",
+        "gt_score": 3.3
+    },
+    {
+        "image": "I51_08_03.png",
+        "gt_score": 2.97
+    },
+    {
+        "image": "I51_08_04.png",
+        "gt_score": 2.07
+    },
+    {
+        "image": "I51_08_05.png",
+        "gt_score": 1.5
+    },
+    {
+        "image": "I51_09_01.png",
+        "gt_score": 4.8
+    },
+    {
+        "image": "I51_09_02.png",
+        "gt_score": 4.47
+    },
+    {
+        "image": "I51_09_03.png",
+        "gt_score": 3.77
+    },
+    {
+        "image": "I51_09_04.png",
+        "gt_score": 1.93
+    },
+    {
+        "image": "I51_09_05.png",
+        "gt_score": 1.37
+    },
+    {
+        "image": "I51_10_01.png",
+        "gt_score": 4.2
+    },
+    {
+        "image": "I51_10_02.png",
+        "gt_score": 4.13
+    },
+    {
+        "image": "I51_10_03.png",
+        "gt_score": 3.67
+    },
+    {
+        "image": "I51_10_04.png",
+        "gt_score": 1.7
+    },
+    {
+        "image": "I51_10_05.png",
+        "gt_score": 1.23
+    },
+    {
+        "image": "I51_11_01.png",
+        "gt_score": 3.6
+    },
+    {
+        "image": "I51_11_02.png",
+        "gt_score": 2.93
+    },
+    {
+        "image": "I51_11_03.png",
+        "gt_score": 3.03
+    },
+    {
+        "image": "I51_11_04.png",
+        "gt_score": 2.53
+    },
+    {
+        "image": "I51_11_05.png",
+        "gt_score": 2.23
+    },
+    {
+        "image": "I51_12_01.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I51_12_02.png",
+        "gt_score": 3.3
+    },
+    {
+        "image": "I51_12_03.png",
+        "gt_score": 2.57
+    },
+    {
+        "image": "I51_12_04.png",
+        "gt_score": 2.4
+    },
+    {
+        "image": "I51_12_05.png",
+        "gt_score": 2.27
+    },
+    {
+        "image": "I51_13_01.png",
+        "gt_score": 3.73
+    },
+    {
+        "image": "I51_13_02.png",
+        "gt_score": 2.53
+    },
+    {
+        "image": "I51_13_03.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I51_13_04.png",
+        "gt_score": 2.2
+    },
+    {
+        "image": "I51_13_05.png",
+        "gt_score": 2.2
+    },
+    {
+        "image": "I51_14_01.png",
+        "gt_score": 4.4
+    },
+    {
+        "image": "I51_14_02.png",
+        "gt_score": 3.0
+    },
+    {
+        "image": "I51_14_03.png",
+        "gt_score": 2.97
+    },
+    {
+        "image": "I51_14_04.png",
+        "gt_score": 2.63
+    },
+    {
+        "image": "I51_14_05.png",
+        "gt_score": 1.93
+    },
+    {
+        "image": "I51_15_01.png",
+        "gt_score": 3.97
+    },
+    {
+        "image": "I51_15_02.png",
+        "gt_score": 3.0
+    },
+    {
+        "image": "I51_15_03.png",
+        "gt_score": 2.2
+    },
+    {
+        "image": "I51_15_04.png",
+        "gt_score": 1.69
+    },
+    {
+        "image": "I51_15_05.png",
+        "gt_score": 1.33
+    },
+    {
+        "image": "I51_16_01.png",
+        "gt_score": 4.4
+    },
+    {
+        "image": "I51_16_02.png",
+        "gt_score": 4.27
+    },
+    {
+        "image": "I51_16_03.png",
+        "gt_score": 3.7
+    },
+    {
+        "image": "I51_16_04.png",
+        "gt_score": 2.73
+    },
+    {
+        "image": "I51_16_05.png",
+        "gt_score": 2.07
+    },
+    {
+        "image": "I51_17_01.png",
+        "gt_score": 4.63
+    },
+    {
+        "image": "I51_17_02.png",
+        "gt_score": 4.67
+    },
+    {
+        "image": "I51_17_03.png",
+        "gt_score": 4.37
+    },
+    {
+        "image": "I51_17_04.png",
+        "gt_score": 3.77
+    },
+    {
+        "image": "I51_17_05.png",
+        "gt_score": 2.07
+    },
+    {
+        "image": "I51_18_01.png",
+        "gt_score": 4.3
+    },
+    {
+        "image": "I51_18_02.png",
+        "gt_score": 4.45
+    },
+    {
+        "image": "I51_18_03.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I51_18_04.png",
+        "gt_score": 4.48
+    },
+    {
+        "image": "I51_18_05.png",
+        "gt_score": 4.03
+    },
+    {
+        "image": "I51_19_01.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I51_19_02.png",
+        "gt_score": 4.13
+    },
+    {
+        "image": "I51_19_03.png",
+        "gt_score": 2.93
+    },
+    {
+        "image": "I51_19_04.png",
+        "gt_score": 1.57
+    },
+    {
+        "image": "I51_19_05.png",
+        "gt_score": 1.37
+    },
+    {
+        "image": "I51_20_01.png",
+        "gt_score": 4.27
+    },
+    {
+        "image": "I51_20_02.png",
+        "gt_score": 3.83
+    },
+    {
+        "image": "I51_20_03.png",
+        "gt_score": 4.13
+    },
+    {
+        "image": "I51_20_04.png",
+        "gt_score": 3.67
+    },
+    {
+        "image": "I51_20_05.png",
+        "gt_score": 2.67
+    },
+    {
+        "image": "I51_21_01.png",
+        "gt_score": 4.0
+    },
+    {
+        "image": "I51_21_02.png",
+        "gt_score": 3.0
+    },
+    {
+        "image": "I51_21_03.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I51_21_04.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I51_21_05.png",
+        "gt_score": 1.23
+    },
+    {
+        "image": "I51_22_01.png",
+        "gt_score": 4.07
+    },
+    {
+        "image": "I51_22_02.png",
+        "gt_score": 3.53
+    },
+    {
+        "image": "I51_22_03.png",
+        "gt_score": 3.45
+    },
+    {
+        "image": "I51_22_04.png",
+        "gt_score": 3.03
+    },
+    {
+        "image": "I51_22_05.png",
+        "gt_score": 2.33
+    },
+    {
+        "image": "I51_23_01.png",
+        "gt_score": 2.53
+    },
+    {
+        "image": "I51_23_02.png",
+        "gt_score": 2.43
+    },
+    {
+        "image": "I51_23_03.png",
+        "gt_score": 2.53
+    },
+    {
+        "image": "I51_23_04.png",
+        "gt_score": 2.2
+    },
+    {
+        "image": "I51_23_05.png",
+        "gt_score": 2.07
+    },
+    {
+        "image": "I51_24_01.png",
+        "gt_score": 3.2
+    },
+    {
+        "image": "I51_24_02.png",
+        "gt_score": 2.17
+    },
+    {
+        "image": "I51_24_03.png",
+        "gt_score": 1.43
+    },
+    {
+        "image": "I51_24_04.png",
+        "gt_score": 1.43
+    },
+    {
+        "image": "I51_24_05.png",
+        "gt_score": 1.17
+    },
+    {
+        "image": "I51_25_01.png",
+        "gt_score": 3.67
+    },
+    {
+        "image": "I51_25_02.png",
+        "gt_score": 4.13
+    },
+    {
+        "image": "I51_25_03.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I51_25_04.png",
+        "gt_score": 4.07
+    },
+    {
+        "image": "I51_25_05.png",
+        "gt_score": 3.57
+    },
+    {
+        "image": "I57_01_01.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I57_01_02.png",
+        "gt_score": 3.93
+    },
+    {
+        "image": "I57_01_03.png",
+        "gt_score": 2.23
+    },
+    {
+        "image": "I57_01_04.png",
+        "gt_score": 1.7
+    },
+    {
+        "image": "I57_01_05.png",
+        "gt_score": 1.07
+    },
+    {
+        "image": "I57_02_01.png",
+        "gt_score": 3.1
+    },
+    {
+        "image": "I57_02_02.png",
+        "gt_score": 2.13
+    },
+    {
+        "image": "I57_02_03.png",
+        "gt_score": 1.27
+    },
+    {
+        "image": "I57_02_04.png",
+        "gt_score": 1.2
+    },
+    {
+        "image": "I57_02_05.png",
+        "gt_score": 1.26
+    },
+    {
+        "image": "I57_03_01.png",
+        "gt_score": 4.6
+    },
+    {
+        "image": "I57_03_02.png",
+        "gt_score": 3.8
+    },
+    {
+        "image": "I57_03_03.png",
+        "gt_score": 2.37
+    },
+    {
+        "image": "I57_03_04.png",
+        "gt_score": 1.87
+    },
+    {
+        "image": "I57_03_05.png",
+        "gt_score": 1.4
+    },
+    {
+        "image": "I57_04_01.png",
+        "gt_score": 3.9
+    },
+    {
+        "image": "I57_04_02.png",
+        "gt_score": 2.57
+    },
+    {
+        "image": "I57_04_03.png",
+        "gt_score": 1.87
+    },
+    {
+        "image": "I57_04_04.png",
+        "gt_score": 1.7
+    },
+    {
+        "image": "I57_04_05.png",
+        "gt_score": 1.37
+    },
+    {
+        "image": "I57_05_01.png",
+        "gt_score": 3.1
+    },
+    {
+        "image": "I57_05_02.png",
+        "gt_score": 1.77
+    },
+    {
+        "image": "I57_05_03.png",
+        "gt_score": 1.63
+    },
+    {
+        "image": "I57_05_04.png",
+        "gt_score": 1.43
+    },
+    {
+        "image": "I57_05_05.png",
+        "gt_score": 1.23
+    },
+    {
+        "image": "I57_06_01.png",
+        "gt_score": 3.73
+    },
+    {
+        "image": "I57_06_02.png",
+        "gt_score": 3.73
+    },
+    {
+        "image": "I57_06_03.png",
+        "gt_score": 3.67
+    },
+    {
+        "image": "I57_06_04.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I57_06_05.png",
+        "gt_score": 1.47
+    },
+    {
+        "image": "I57_07_01.png",
+        "gt_score": 2.5
+    },
+    {
+        "image": "I57_07_02.png",
+        "gt_score": 2.1
+    },
+    {
+        "image": "I57_07_03.png",
+        "gt_score": 2.2
+    },
+    {
+        "image": "I57_07_04.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I57_07_05.png",
+        "gt_score": 2.03
+    },
+    {
+        "image": "I57_08_01.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I57_08_02.png",
+        "gt_score": 3.17
+    },
+    {
+        "image": "I57_08_03.png",
+        "gt_score": 2.0
+    },
+    {
+        "image": "I57_08_04.png",
+        "gt_score": 1.4
+    },
+    {
+        "image": "I57_08_05.png",
+        "gt_score": 1.17
+    },
+    {
+        "image": "I57_09_01.png",
+        "gt_score": 4.58
+    },
+    {
+        "image": "I57_09_02.png",
+        "gt_score": 3.6
+    },
+    {
+        "image": "I57_09_03.png",
+        "gt_score": 3.3
+    },
+    {
+        "image": "I57_09_04.png",
+        "gt_score": 2.23
+    },
+    {
+        "image": "I57_09_05.png",
+        "gt_score": 1.23
+    },
+    {
+        "image": "I57_10_01.png",
+        "gt_score": 4.23
+    },
+    {
+        "image": "I57_10_02.png",
+        "gt_score": 4.23
+    },
+    {
+        "image": "I57_10_03.png",
+        "gt_score": 3.83
+    },
+    {
+        "image": "I57_10_04.png",
+        "gt_score": 2.23
+    },
+    {
+        "image": "I57_10_05.png",
+        "gt_score": 1.37
+    },
+    {
+        "image": "I57_11_01.png",
+        "gt_score": 4.1
+    },
+    {
+        "image": "I57_11_02.png",
+        "gt_score": 4.17
+    },
+    {
+        "image": "I57_11_03.png",
+        "gt_score": 3.43
+    },
+    {
+        "image": "I57_11_04.png",
+        "gt_score": 2.93
+    },
+    {
+        "image": "I57_11_05.png",
+        "gt_score": 2.23
+    },
+    {
+        "image": "I57_12_01.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I57_12_02.png",
+        "gt_score": 4.27
+    },
+    {
+        "image": "I57_12_03.png",
+        "gt_score": 3.73
+    },
+    {
+        "image": "I57_12_04.png",
+        "gt_score": 2.8
+    },
+    {
+        "image": "I57_12_05.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I57_13_01.png",
+        "gt_score": 4.0
+    },
+    {
+        "image": "I57_13_02.png",
+        "gt_score": 3.53
+    },
+    {
+        "image": "I57_13_03.png",
+        "gt_score": 3.1
+    },
+    {
+        "image": "I57_13_04.png",
+        "gt_score": 2.37
+    },
+    {
+        "image": "I57_13_05.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I57_14_01.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I57_14_02.png",
+        "gt_score": 4.13
+    },
+    {
+        "image": "I57_14_03.png",
+        "gt_score": 3.23
+    },
+    {
+        "image": "I57_14_04.png",
+        "gt_score": 2.73
+    },
+    {
+        "image": "I57_14_05.png",
+        "gt_score": 1.9
+    },
+    {
+        "image": "I57_15_01.png",
+        "gt_score": 3.8
+    },
+    {
+        "image": "I57_15_02.png",
+        "gt_score": 3.23
+    },
+    {
+        "image": "I57_15_03.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I57_15_04.png",
+        "gt_score": 1.67
+    },
+    {
+        "image": "I57_15_05.png",
+        "gt_score": 1.4
+    },
+    {
+        "image": "I57_16_01.png",
+        "gt_score": 4.32
+    },
+    {
+        "image": "I57_16_02.png",
+        "gt_score": 4.4
+    },
+    {
+        "image": "I57_16_03.png",
+        "gt_score": 3.0
+    },
+    {
+        "image": "I57_16_04.png",
+        "gt_score": 1.8
+    },
+    {
+        "image": "I57_16_05.png",
+        "gt_score": 1.33
+    },
+    {
+        "image": "I57_17_01.png",
+        "gt_score": 4.27
+    },
+    {
+        "image": "I57_17_02.png",
+        "gt_score": 4.47
+    },
+    {
+        "image": "I57_17_03.png",
+        "gt_score": 4.0
+    },
+    {
+        "image": "I57_17_04.png",
+        "gt_score": 3.47
+    },
+    {
+        "image": "I57_17_05.png",
+        "gt_score": 2.2
+    },
+    {
+        "image": "I57_18_01.png",
+        "gt_score": 3.77
+    },
+    {
+        "image": "I57_18_02.png",
+        "gt_score": 4.3
+    },
+    {
+        "image": "I57_18_03.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I57_18_04.png",
+        "gt_score": 4.3
+    },
+    {
+        "image": "I57_18_05.png",
+        "gt_score": 3.9
+    },
+    {
+        "image": "I57_19_01.png",
+        "gt_score": 4.23
+    },
+    {
+        "image": "I57_19_02.png",
+        "gt_score": 3.8
+    },
+    {
+        "image": "I57_19_03.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I57_19_04.png",
+        "gt_score": 1.63
+    },
+    {
+        "image": "I57_19_05.png",
+        "gt_score": 1.37
+    },
+    {
+        "image": "I57_20_01.png",
+        "gt_score": 4.33
+    },
+    {
+        "image": "I57_20_02.png",
+        "gt_score": 4.13
+    },
+    {
+        "image": "I57_20_03.png",
+        "gt_score": 3.9
+    },
+    {
+        "image": "I57_20_04.png",
+        "gt_score": 3.97
+    },
+    {
+        "image": "I57_20_05.png",
+        "gt_score": 4.0
+    },
+    {
+        "image": "I57_21_01.png",
+        "gt_score": 3.5
+    },
+    {
+        "image": "I57_21_02.png",
+        "gt_score": 2.67
+    },
+    {
+        "image": "I57_21_03.png",
+        "gt_score": 2.5
+    },
+    {
+        "image": "I57_21_04.png",
+        "gt_score": 2.57
+    },
+    {
+        "image": "I57_21_05.png",
+        "gt_score": 1.4
+    },
+    {
+        "image": "I57_22_01.png",
+        "gt_score": 4.47
+    },
+    {
+        "image": "I57_22_02.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I57_22_03.png",
+        "gt_score": 4.17
+    },
+    {
+        "image": "I57_22_04.png",
+        "gt_score": 4.13
+    },
+    {
+        "image": "I57_22_05.png",
+        "gt_score": 3.97
+    },
+    {
+        "image": "I57_23_01.png",
+        "gt_score": 2.5
+    },
+    {
+        "image": "I57_23_02.png",
+        "gt_score": 2.37
+    },
+    {
+        "image": "I57_23_03.png",
+        "gt_score": 2.03
+    },
+    {
+        "image": "I57_23_04.png",
+        "gt_score": 2.0
+    },
+    {
+        "image": "I57_23_05.png",
+        "gt_score": 1.8
+    },
+    {
+        "image": "I57_24_01.png",
+        "gt_score": 2.67
+    },
+    {
+        "image": "I57_24_02.png",
+        "gt_score": 1.7
+    },
+    {
+        "image": "I57_24_03.png",
+        "gt_score": 1.43
+    },
+    {
+        "image": "I57_24_04.png",
+        "gt_score": 1.27
+    },
+    {
+        "image": "I57_24_05.png",
+        "gt_score": 1.1
+    },
+    {
+        "image": "I57_25_01.png",
+        "gt_score": 2.97
+    },
+    {
+        "image": "I57_25_02.png",
+        "gt_score": 3.57
+    },
+    {
+        "image": "I57_25_03.png",
+        "gt_score": 3.57
+    },
+    {
+        "image": "I57_25_04.png",
+        "gt_score": 3.83
+    },
+    {
+        "image": "I57_25_05.png",
+        "gt_score": 3.07
+    },
+    {
+        "image": "I63_01_01.png",
+        "gt_score": 4.67
+    },
+    {
+        "image": "I63_01_02.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I63_01_03.png",
+        "gt_score": 2.6
+    },
+    {
+        "image": "I63_01_04.png",
+        "gt_score": 1.87
+    },
+    {
+        "image": "I63_01_05.png",
+        "gt_score": 1.3
+    },
+    {
+        "image": "I63_02_01.png",
+        "gt_score": 3.47
+    },
+    {
+        "image": "I63_02_02.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I63_02_03.png",
+        "gt_score": 1.57
+    },
+    {
+        "image": "I63_02_04.png",
+        "gt_score": 1.27
+    },
+    {
+        "image": "I63_02_05.png",
+        "gt_score": 1.3
+    },
+    {
+        "image": "I63_03_01.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I63_03_02.png",
+        "gt_score": 3.83
+    },
+    {
+        "image": "I63_03_03.png",
+        "gt_score": 2.77
+    },
+    {
+        "image": "I63_03_04.png",
+        "gt_score": 1.83
+    },
+    {
+        "image": "I63_03_05.png",
+        "gt_score": 1.5
+    },
+    {
+        "image": "I63_04_01.png",
+        "gt_score": 4.33
+    },
+    {
+        "image": "I63_04_02.png",
+        "gt_score": 2.8
+    },
+    {
+        "image": "I63_04_03.png",
+        "gt_score": 1.63
+    },
+    {
+        "image": "I63_04_04.png",
+        "gt_score": 1.33
+    },
+    {
+        "image": "I63_04_05.png",
+        "gt_score": 1.2
+    },
+    {
+        "image": "I63_05_01.png",
+        "gt_score": 3.77
+    },
+    {
+        "image": "I63_05_02.png",
+        "gt_score": 2.33
+    },
+    {
+        "image": "I63_05_03.png",
+        "gt_score": 1.8
+    },
+    {
+        "image": "I63_05_04.png",
+        "gt_score": 1.53
+    },
+    {
+        "image": "I63_05_05.png",
+        "gt_score": 1.53
+    },
+    {
+        "image": "I63_06_01.png",
+        "gt_score": 3.63
+    },
+    {
+        "image": "I63_06_02.png",
+        "gt_score": 3.48
+    },
+    {
+        "image": "I63_06_03.png",
+        "gt_score": 3.53
+    },
+    {
+        "image": "I63_06_04.png",
+        "gt_score": 2.83
+    },
+    {
+        "image": "I63_06_05.png",
+        "gt_score": 1.67
+    },
+    {
+        "image": "I63_07_01.png",
+        "gt_score": 2.9
+    },
+    {
+        "image": "I63_07_02.png",
+        "gt_score": 2.7
+    },
+    {
+        "image": "I63_07_03.png",
+        "gt_score": 2.57
+    },
+    {
+        "image": "I63_07_04.png",
+        "gt_score": 2.43
+    },
+    {
+        "image": "I63_07_05.png",
+        "gt_score": 2.4
+    },
+    {
+        "image": "I63_08_01.png",
+        "gt_score": 4.33
+    },
+    {
+        "image": "I63_08_02.png",
+        "gt_score": 3.7
+    },
+    {
+        "image": "I63_08_03.png",
+        "gt_score": 2.17
+    },
+    {
+        "image": "I63_08_04.png",
+        "gt_score": 1.4
+    },
+    {
+        "image": "I63_08_05.png",
+        "gt_score": 1.57
+    },
+    {
+        "image": "I63_09_01.png",
+        "gt_score": 4.57
+    },
+    {
+        "image": "I63_09_02.png",
+        "gt_score": 3.93
+    },
+    {
+        "image": "I63_09_03.png",
+        "gt_score": 3.43
+    },
+    {
+        "image": "I63_09_04.png",
+        "gt_score": 2.0
+    },
+    {
+        "image": "I63_09_05.png",
+        "gt_score": 1.2
+    },
+    {
+        "image": "I63_10_01.png",
+        "gt_score": 4.07
+    },
+    {
+        "image": "I63_10_02.png",
+        "gt_score": 4.3
+    },
+    {
+        "image": "I63_10_03.png",
+        "gt_score": 3.9
+    },
+    {
+        "image": "I63_10_04.png",
+        "gt_score": 2.33
+    },
+    {
+        "image": "I63_10_05.png",
+        "gt_score": 1.7
+    },
+    {
+        "image": "I63_11_01.png",
+        "gt_score": 3.93
+    },
+    {
+        "image": "I63_11_02.png",
+        "gt_score": 3.93
+    },
+    {
+        "image": "I63_11_03.png",
+        "gt_score": 3.3
+    },
+    {
+        "image": "I63_11_04.png",
+        "gt_score": 3.07
+    },
+    {
+        "image": "I63_11_05.png",
+        "gt_score": 2.5
+    },
+    {
+        "image": "I63_12_01.png",
+        "gt_score": 4.6
+    },
+    {
+        "image": "I63_12_02.png",
+        "gt_score": 3.77
+    },
+    {
+        "image": "I63_12_03.png",
+        "gt_score": 3.57
+    },
+    {
+        "image": "I63_12_04.png",
+        "gt_score": 2.87
+    },
+    {
+        "image": "I63_12_05.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I63_13_01.png",
+        "gt_score": 3.97
+    },
+    {
+        "image": "I63_13_02.png",
+        "gt_score": 3.1
+    },
+    {
+        "image": "I63_13_03.png",
+        "gt_score": 2.45
+    },
+    {
+        "image": "I63_13_04.png",
+        "gt_score": 2.57
+    },
+    {
+        "image": "I63_13_05.png",
+        "gt_score": 2.4
+    },
+    {
+        "image": "I63_14_01.png",
+        "gt_score": 4.61
+    },
+    {
+        "image": "I63_14_02.png",
+        "gt_score": 3.83
+    },
+    {
+        "image": "I63_14_03.png",
+        "gt_score": 3.43
+    },
+    {
+        "image": "I63_14_04.png",
+        "gt_score": 2.83
+    },
+    {
+        "image": "I63_14_05.png",
+        "gt_score": 2.33
+    },
+    {
+        "image": "I63_15_01.png",
+        "gt_score": 3.93
+    },
+    {
+        "image": "I63_15_02.png",
+        "gt_score": 3.17
+    },
+    {
+        "image": "I63_15_03.png",
+        "gt_score": 2.63
+    },
+    {
+        "image": "I63_15_04.png",
+        "gt_score": 1.67
+    },
+    {
+        "image": "I63_15_05.png",
+        "gt_score": 1.37
+    },
+    {
+        "image": "I63_16_01.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I63_16_02.png",
+        "gt_score": 4.2
+    },
+    {
+        "image": "I63_16_03.png",
+        "gt_score": 3.77
+    },
+    {
+        "image": "I63_16_04.png",
+        "gt_score": 3.1
+    },
+    {
+        "image": "I63_16_05.png",
+        "gt_score": 2.43
+    },
+    {
+        "image": "I63_17_01.png",
+        "gt_score": 4.6
+    },
+    {
+        "image": "I63_17_02.png",
+        "gt_score": 4.57
+    },
+    {
+        "image": "I63_17_03.png",
+        "gt_score": 4.27
+    },
+    {
+        "image": "I63_17_04.png",
+        "gt_score": 3.3
+    },
+    {
+        "image": "I63_17_05.png",
+        "gt_score": 1.83
+    },
+    {
+        "image": "I63_18_01.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I63_18_02.png",
+        "gt_score": 4.67
+    },
+    {
+        "image": "I63_18_03.png",
+        "gt_score": 4.53
+    },
+    {
+        "image": "I63_18_04.png",
+        "gt_score": 4.4
+    },
+    {
+        "image": "I63_18_05.png",
+        "gt_score": 3.53
+    },
+    {
+        "image": "I63_19_01.png",
+        "gt_score": 4.37
+    },
+    {
+        "image": "I63_19_02.png",
+        "gt_score": 3.9
+    },
+    {
+        "image": "I63_19_03.png",
+        "gt_score": 2.77
+    },
+    {
+        "image": "I63_19_04.png",
+        "gt_score": 1.37
+    },
+    {
+        "image": "I63_19_05.png",
+        "gt_score": 1.13
+    },
+    {
+        "image": "I63_20_01.png",
+        "gt_score": 4.67
+    },
+    {
+        "image": "I63_20_02.png",
+        "gt_score": 4.47
+    },
+    {
+        "image": "I63_20_03.png",
+        "gt_score": 4.0
+    },
+    {
+        "image": "I63_20_04.png",
+        "gt_score": 3.03
+    },
+    {
+        "image": "I63_20_05.png",
+        "gt_score": 3.9
+    },
+    {
+        "image": "I63_21_01.png",
+        "gt_score": 3.93
+    },
+    {
+        "image": "I63_21_02.png",
+        "gt_score": 2.77
+    },
+    {
+        "image": "I63_21_03.png",
+        "gt_score": 2.6
+    },
+    {
+        "image": "I63_21_04.png",
+        "gt_score": 2.5
+    },
+    {
+        "image": "I63_21_05.png",
+        "gt_score": 1.3
+    },
+    {
+        "image": "I63_22_01.png",
+        "gt_score": 4.67
+    },
+    {
+        "image": "I63_22_02.png",
+        "gt_score": 4.47
+    },
+    {
+        "image": "I63_22_03.png",
+        "gt_score": 4.3
+    },
+    {
+        "image": "I63_22_04.png",
+        "gt_score": 3.83
+    },
+    {
+        "image": "I63_22_05.png",
+        "gt_score": 3.23
+    },
+    {
+        "image": "I63_23_01.png",
+        "gt_score": 3.6
+    },
+    {
+        "image": "I63_23_02.png",
+        "gt_score": 2.5
+    },
+    {
+        "image": "I63_23_03.png",
+        "gt_score": 2.1
+    },
+    {
+        "image": "I63_23_04.png",
+        "gt_score": 2.4
+    },
+    {
+        "image": "I63_23_05.png",
+        "gt_score": 1.97
+    },
+    {
+        "image": "I63_24_01.png",
+        "gt_score": 3.37
+    },
+    {
+        "image": "I63_24_02.png",
+        "gt_score": 2.67
+    },
+    {
+        "image": "I63_24_03.png",
+        "gt_score": 2.23
+    },
+    {
+        "image": "I63_24_04.png",
+        "gt_score": 1.33
+    },
+    {
+        "image": "I63_24_05.png",
+        "gt_score": 1.5
+    },
+    {
+        "image": "I63_25_01.png",
+        "gt_score": 3.3
+    },
+    {
+        "image": "I63_25_02.png",
+        "gt_score": 3.7
+    },
+    {
+        "image": "I63_25_03.png",
+        "gt_score": 4.23
+    },
+    {
+        "image": "I63_25_04.png",
+        "gt_score": 3.97
+    },
+    {
+        "image": "I63_25_05.png",
+        "gt_score": 3.59
+    },
+    {
+        "image": "I66_01_01.png",
+        "gt_score": 4.63
+    },
+    {
+        "image": "I66_01_02.png",
+        "gt_score": 4.48
+    },
+    {
+        "image": "I66_01_03.png",
+        "gt_score": 2.97
+    },
+    {
+        "image": "I66_01_04.png",
+        "gt_score": 1.73
+    },
+    {
+        "image": "I66_01_05.png",
+        "gt_score": 1.4
+    },
+    {
+        "image": "I66_02_01.png",
+        "gt_score": 3.8
+    },
+    {
+        "image": "I66_02_02.png",
+        "gt_score": 2.83
+    },
+    {
+        "image": "I66_02_03.png",
+        "gt_score": 1.8
+    },
+    {
+        "image": "I66_02_04.png",
+        "gt_score": 1.53
+    },
+    {
+        "image": "I66_02_05.png",
+        "gt_score": 1.37
+    },
+    {
+        "image": "I66_03_01.png",
+        "gt_score": 4.63
+    },
+    {
+        "image": "I66_03_02.png",
+        "gt_score": 4.1
+    },
+    {
+        "image": "I66_03_03.png",
+        "gt_score": 2.83
+    },
+    {
+        "image": "I66_03_04.png",
+        "gt_score": 2.23
+    },
+    {
+        "image": "I66_03_05.png",
+        "gt_score": 1.5
+    },
+    {
+        "image": "I66_04_01.png",
+        "gt_score": 4.4
+    },
+    {
+        "image": "I66_04_02.png",
+        "gt_score": 2.57
+    },
+    {
+        "image": "I66_04_03.png",
+        "gt_score": 1.7
+    },
+    {
+        "image": "I66_04_04.png",
+        "gt_score": 1.67
+    },
+    {
+        "image": "I66_04_05.png",
+        "gt_score": 1.47
+    },
+    {
+        "image": "I66_05_01.png",
+        "gt_score": 4.07
+    },
+    {
+        "image": "I66_05_02.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I66_05_03.png",
+        "gt_score": 1.9
+    },
+    {
+        "image": "I66_05_04.png",
+        "gt_score": 1.8
+    },
+    {
+        "image": "I66_05_05.png",
+        "gt_score": 1.67
+    },
+    {
+        "image": "I66_06_01.png",
+        "gt_score": 4.2
+    },
+    {
+        "image": "I66_06_02.png",
+        "gt_score": 4.0
+    },
+    {
+        "image": "I66_06_03.png",
+        "gt_score": 3.77
+    },
+    {
+        "image": "I66_06_04.png",
+        "gt_score": 3.13
+    },
+    {
+        "image": "I66_06_05.png",
+        "gt_score": 2.43
+    },
+    {
+        "image": "I66_07_01.png",
+        "gt_score": 2.63
+    },
+    {
+        "image": "I66_07_02.png",
+        "gt_score": 2.2
+    },
+    {
+        "image": "I66_07_03.png",
+        "gt_score": 2.57
+    },
+    {
+        "image": "I66_07_04.png",
+        "gt_score": 2.27
+    },
+    {
+        "image": "I66_07_05.png",
+        "gt_score": 2.0
+    },
+    {
+        "image": "I66_08_01.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I66_08_02.png",
+        "gt_score": 3.77
+    },
+    {
+        "image": "I66_08_03.png",
+        "gt_score": 2.43
+    },
+    {
+        "image": "I66_08_04.png",
+        "gt_score": 1.97
+    },
+    {
+        "image": "I66_08_05.png",
+        "gt_score": 1.73
+    },
+    {
+        "image": "I66_09_01.png",
+        "gt_score": 4.37
+    },
+    {
+        "image": "I66_09_02.png",
+        "gt_score": 4.37
+    },
+    {
+        "image": "I66_09_03.png",
+        "gt_score": 4.17
+    },
+    {
+        "image": "I66_09_04.png",
+        "gt_score": 2.23
+    },
+    {
+        "image": "I66_09_05.png",
+        "gt_score": 1.27
+    },
+    {
+        "image": "I66_10_01.png",
+        "gt_score": 4.43
+    },
+    {
+        "image": "I66_10_02.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I66_10_03.png",
+        "gt_score": 3.97
+    },
+    {
+        "image": "I66_10_04.png",
+        "gt_score": 2.1
+    },
+    {
+        "image": "I66_10_05.png",
+        "gt_score": 1.47
+    },
+    {
+        "image": "I66_11_01.png",
+        "gt_score": 4.0
+    },
+    {
+        "image": "I66_11_02.png",
+        "gt_score": 3.03
+    },
+    {
+        "image": "I66_11_03.png",
+        "gt_score": 3.03
+    },
+    {
+        "image": "I66_11_04.png",
+        "gt_score": 2.87
+    },
+    {
+        "image": "I66_11_05.png",
+        "gt_score": 2.27
+    },
+    {
+        "image": "I66_12_01.png",
+        "gt_score": 4.47
+    },
+    {
+        "image": "I66_12_02.png",
+        "gt_score": 3.2
+    },
+    {
+        "image": "I66_12_03.png",
+        "gt_score": 3.07
+    },
+    {
+        "image": "I66_12_04.png",
+        "gt_score": 2.67
+    },
+    {
+        "image": "I66_12_05.png",
+        "gt_score": 2.4
+    },
+    {
+        "image": "I66_13_01.png",
+        "gt_score": 3.1
+    },
+    {
+        "image": "I66_13_02.png",
+        "gt_score": 2.57
+    },
+    {
+        "image": "I66_13_03.png",
+        "gt_score": 2.4
+    },
+    {
+        "image": "I66_13_04.png",
+        "gt_score": 2.2
+    },
+    {
+        "image": "I66_13_05.png",
+        "gt_score": 2.39
+    },
+    {
+        "image": "I66_14_01.png",
+        "gt_score": 4.5
+    },
+    {
+        "image": "I66_14_02.png",
+        "gt_score": 3.93
+    },
+    {
+        "image": "I66_14_03.png",
+        "gt_score": 3.77
+    },
+    {
+        "image": "I66_14_04.png",
+        "gt_score": 3.0
+    },
+    {
+        "image": "I66_14_05.png",
+        "gt_score": 2.43
+    },
+    {
+        "image": "I66_15_01.png",
+        "gt_score": 4.06
+    },
+    {
+        "image": "I66_15_02.png",
+        "gt_score": 3.2
+    },
+    {
+        "image": "I66_15_03.png",
+        "gt_score": 2.43
+    },
+    {
+        "image": "I66_15_04.png",
+        "gt_score": 1.87
+    },
+    {
+        "image": "I66_15_05.png",
+        "gt_score": 1.3
+    },
+    {
+        "image": "I66_16_01.png",
+        "gt_score": 4.57
+    },
+    {
+        "image": "I66_16_02.png",
+        "gt_score": 4.4
+    },
+    {
+        "image": "I66_16_03.png",
+        "gt_score": 3.9
+    },
+    {
+        "image": "I66_16_04.png",
+        "gt_score": 3.3
+    },
+    {
+        "image": "I66_16_05.png",
+        "gt_score": 2.27
+    },
+    {
+        "image": "I66_17_01.png",
+        "gt_score": 4.6
+    },
+    {
+        "image": "I66_17_02.png",
+        "gt_score": 4.37
+    },
+    {
+        "image": "I66_17_03.png",
+        "gt_score": 4.07
+    },
+    {
+        "image": "I66_17_04.png",
+        "gt_score": 3.43
+    },
+    {
+        "image": "I66_17_05.png",
+        "gt_score": 1.6
+    },
+    {
+        "image": "I66_18_01.png",
+        "gt_score": 4.47
+    },
+    {
+        "image": "I66_18_02.png",
+        "gt_score": 4.57
+    },
+    {
+        "image": "I66_18_03.png",
+        "gt_score": 4.57
+    },
+    {
+        "image": "I66_18_04.png",
+        "gt_score": 4.27
+    },
+    {
+        "image": "I66_18_05.png",
+        "gt_score": 3.87
+    },
+    {
+        "image": "I66_19_01.png",
+        "gt_score": 4.37
+    },
+    {
+        "image": "I66_19_02.png",
+        "gt_score": 3.87
+    },
+    {
+        "image": "I66_19_03.png",
+        "gt_score": 3.43
+    },
+    {
+        "image": "I66_19_04.png",
+        "gt_score": 1.93
+    },
+    {
+        "image": "I66_19_05.png",
+        "gt_score": 1.29
+    },
+    {
+        "image": "I66_20_01.png",
+        "gt_score": 4.52
+    },
+    {
+        "image": "I66_20_02.png",
+        "gt_score": 4.3
+    },
+    {
+        "image": "I66_20_03.png",
+        "gt_score": 3.5
+    },
+    {
+        "image": "I66_20_04.png",
+        "gt_score": 2.9
+    },
+    {
+        "image": "I66_20_05.png",
+        "gt_score": 3.8
+    },
+    {
+        "image": "I66_21_01.png",
+        "gt_score": 3.93
+    },
+    {
+        "image": "I66_21_02.png",
+        "gt_score": 2.47
+    },
+    {
+        "image": "I66_21_03.png",
+        "gt_score": 2.63
+    },
+    {
+        "image": "I66_21_04.png",
+        "gt_score": 3.27
+    },
+    {
+        "image": "I66_21_05.png",
+        "gt_score": 1.27
+    },
+    {
+        "image": "I66_22_01.png",
+        "gt_score": 4.33
+    },
+    {
+        "image": "I66_22_02.png",
+        "gt_score": 4.3
+    },
+    {
+        "image": "I66_22_03.png",
+        "gt_score": 3.0
+    },
+    {
+        "image": "I66_22_04.png",
+        "gt_score": 3.53
+    },
+    {
+        "image": "I66_22_05.png",
+        "gt_score": 2.9
+    },
+    {
+        "image": "I66_23_01.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I66_23_02.png",
+        "gt_score": 2.61
+    },
+    {
+        "image": "I66_23_03.png",
+        "gt_score": 2.7
+    },
+    {
+        "image": "I66_23_04.png",
+        "gt_score": 2.23
+    },
+    {
+        "image": "I66_23_05.png",
+        "gt_score": 2.17
+    },
+    {
+        "image": "I66_24_01.png",
+        "gt_score": 3.37
+    },
+    {
+        "image": "I66_24_02.png",
+        "gt_score": 2.3
+    },
+    {
+        "image": "I66_24_03.png",
+        "gt_score": 1.83
+    },
+    {
+        "image": "I66_24_04.png",
+        "gt_score": 1.77
+    },
+    {
+        "image": "I66_24_05.png",
+        "gt_score": 1.2
+    },
+    {
+        "image": "I66_25_01.png",
+        "gt_score": 3.43
+    },
+    {
+        "image": "I66_25_02.png",
+        "gt_score": 3.73
+    },
+    {
+        "image": "I66_25_03.png",
+        "gt_score": 4.17
+    },
+    {
+        "image": "I66_25_04.png",
+        "gt_score": 4.23
+    },
+    {
+        "image": "I66_25_05.png",
+        "gt_score": 3.17
+    }
+]

@@ -1,0 +1,3882 @@
+[
+  {
+    "image": "DTD_cobwebbed_0160.jpg",
+    "gt_score": 8
+  },
+  {
+    "image": "DTD_crosshatched_0097.jpg",
+    "gt_score": 38
+  },
+  {
+    "image": "DTD_fibrous_0108.jpg",
+    "gt_score": 11
+  },
+  {
+    "image": "Flickr2K_000995.png",
+    "gt_score": 41
+  },
+  {
+    "image": "DTD_veined_0184.jpg",
+    "gt_score": 12
+  },
+  {
+    "image": "DTD_blotchy_0053.jpg",
+    "gt_score": 7
+  },
+  {
+    "image": "DTD_meshed_0145.jpg",
+    "gt_score": 8
+  },
+  {
+    "image": "DTD_fibrous_0206.jpg",
+    "gt_score": 11
+  },
+  {
+    "image": "LSDIR_0023764.png",
+    "gt_score": 29
+  },
+  {
+    "image": "Flickr2K_001194.png",
+    "gt_score": 37
+  },
+  {
+    "image": "DTD_spiralled_0085.jpg",
+    "gt_score": 46
+  },
+  {
+    "image": "DTD_blotchy_0026.jpg",
+    "gt_score": 15
+  },
+  {
+    "image": "Flickr2K_000112.png",
+    "gt_score": 54
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_qcdcrzgdcnceqfyu.jpg",
+    "gt_score": 30
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_6b700ugashnjxj2s.jpg",
+    "gt_score": 47
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_brpg8acyqqbzwgwe.jpg",
+    "gt_score": 52
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_owbvmgm7ab6665uf.jpg",
+    "gt_score": 27
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_a5a1ewf06p41ca47.jpg",
+    "gt_score": 63
+  },
+  {
+    "image": "DTD_meshed_0145.jpg",
+    "gt_score": 8
+  },
+  {
+    "image": "LSDIR_0007208.png",
+    "gt_score": 40
+  },
+  {
+    "image": "DTD_smeared_0146.jpg",
+    "gt_score": 26
+  },
+  {
+    "image": "LSDIR_0048278.png",
+    "gt_score": 41
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_3p8khhwi6xy9i1nv.jpg",
+    "gt_score": 24
+  },
+  {
+    "image": "LSDIR_0037592.png",
+    "gt_score": 54
+  },
+  {
+    "image": "DTD_pleated_0124.jpg",
+    "gt_score": 17
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_ce9vz5ovytiykhbt.jpg",
+    "gt_score": 52
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_8iqdpnnxgzr398as.jpg",
+    "gt_score": 38
+  },
+  {
+    "image": "LSDIR_0055411.png",
+    "gt_score": 59
+  },
+  {
+    "image": "LSDIR_0018820.png",
+    "gt_score": 27
+  },
+  {
+    "image": "LSDIR_0022305.png",
+    "gt_score": 59
+  },
+  {
+    "image": "DTD_dotted_0143.jpg",
+    "gt_score": 11
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_7pizxymd8hgad2wb.jpg",
+    "gt_score": 67
+  },
+  {
+    "image": "Flickr2K_000418.png",
+    "gt_score": 60
+  },
+  {
+    "image": "DTD_cobwebbed_0141.jpg",
+    "gt_score": 16
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_76js1kuspc6xk8wu.jpg",
+    "gt_score": 56
+  },
+  {
+    "image": "LSDIR_0055289.png",
+    "gt_score": 59
+  },
+  {
+    "image": "LSDIR_0025987.png",
+    "gt_score": 34
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_e8b57tk7emval78g.jpg",
+    "gt_score": 61
+  },
+  {
+    "image": "LSDIR_0014964.png",
+    "gt_score": 59
+  },
+  {
+    "image": "DTD_grid_0003.jpg",
+    "gt_score": 33
+  },
+  {
+    "image": "LSDIR_0075350.png",
+    "gt_score": 35
+  },
+  {
+    "image": "DTD_swirly_0079.jpg",
+    "gt_score": 21
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_bypjtjrn7hu857sr.jpg",
+    "gt_score": 65
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_hoqgull10zic31ad.jpg",
+    "gt_score": 55
+  },
+  {
+    "image": "LSDIR_0082565.png",
+    "gt_score": 18
+  },
+  {
+    "image": "LSDIR_0034918.png",
+    "gt_score": 32
+  },
+  {
+    "image": "Flickr2K_000235.png",
+    "gt_score": 33
+  },
+  {
+    "image": "LSDIR_0047176.png",
+    "gt_score": 21
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_3pavziv6p1xyiz09.jpg",
+    "gt_score": 64
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_ks3zkzwovfuroakt.jpg",
+    "gt_score": 55
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_9xt4po3n8bvitjkh.jpg",
+    "gt_score": 50
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_ehqt6d65rqy0cush.jpg",
+    "gt_score": 33
+  },
+  {
+    "image": "LSDIR_0006061.png",
+    "gt_score": 17
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_cxz5yoj0cdlk5vqd.jpg",
+    "gt_score": 60
+  },
+  {
+    "image": "LSDIR_0000262.png",
+    "gt_score": 46
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_kxfsvs7th0nr1bik.jpg",
+    "gt_score": 55
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_jil092z2ch7gxoq7.jpg",
+    "gt_score": 48
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_b3c9nl2f10lvhlx9.jpg",
+    "gt_score": 28
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_lw5sf3wyqnco7l8q.jpg",
+    "gt_score": 46
+  },
+  {
+    "image": "LSDIR_0015556.png",
+    "gt_score": 53
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_pc1d90opp5mk2uoy.jpg",
+    "gt_score": 87
+  },
+  {
+    "image": "DTD_swirly_0133.jpg",
+    "gt_score": 9
+  },
+  {
+    "image": "LSDIR_0013805.png",
+    "gt_score": 36
+  },
+  {
+    "image": "LSDIR_0044478.png",
+    "gt_score": 42
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_tsbv47fzgcut3tn2.jpg",
+    "gt_score": 51
+  },
+  {
+    "image": "LSDIR_0062711.png",
+    "gt_score": 24
+  },
+  {
+    "image": "DTD_striped_0049.jpg",
+    "gt_score": 13
+  },
+  {
+    "image": "DTD_veined_0107.jpg",
+    "gt_score": 18
+  },
+  {
+    "image": "DTD_veined_0107.jpg",
+    "gt_score": 18
+  },
+  {
+    "image": "Big_and_Small_Objects_1.87_insect-bee.jpg",
+    "gt_score": 29
+  },
+  {
+    "image": "LSDIR_0082254.png",
+    "gt_score": 34
+  },
+  {
+    "image": "Flickr2K_002211.png",
+    "gt_score": 56
+  },
+  {
+    "image": "LSDIR_0023910.png",
+    "gt_score": 30
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_0vk9dvdc9arljdei.jpg",
+    "gt_score": 46
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_ayrwud8kubs2g05f.jpg",
+    "gt_score": 28
+  },
+  {
+    "image": "LSDIR_0016693.png",
+    "gt_score": 39
+  },
+  {
+    "image": "DTD_waffled_0128.jpg",
+    "gt_score": 33
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_qfux6o14viv3u3ck.jpg",
+    "gt_score": 47
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_yco32irw8fndl0x1.jpg",
+    "gt_score": 75
+  },
+  {
+    "image": "LSDIR_0023418.png",
+    "gt_score": 50
+  },
+  {
+    "image": "DTD_stained_0045.jpg",
+    "gt_score": 10
+  },
+  {
+    "image": "LSDIR_0051693.png",
+    "gt_score": 34
+  },
+  {
+    "image": "DTD_meshed_0099.jpg",
+    "gt_score": 17
+  },
+  {
+    "image": "DTD_sprinkled_0051.jpg",
+    "gt_score": 10
+  },
+  {
+    "image": "DTD_dotted_0145.jpg",
+    "gt_score": 12
+  },
+  {
+    "image": "LSDIR_0009860.png",
+    "gt_score": 45
+  },
+  {
+    "image": "DTD_wrinkled_0067.jpg",
+    "gt_score": 11
+  },
+  {
+    "image": "LSDIR_0021036.png",
+    "gt_score": 71
+  },
+  {
+    "image": "DTD_studded_0217.jpg",
+    "gt_score": 12
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_pl0muammhhq34hnp.jpg",
+    "gt_score": 37
+  },
+  {
+    "image": "LSDIR_0001305.png",
+    "gt_score": 26
+  },
+  {
+    "image": "LSDIR_0039475.png",
+    "gt_score": 49
+  },
+  {
+    "image": "DTD_studded_0141.jpg",
+    "gt_score": 13
+  },
+  {
+    "image": "LSDIR_0036879.png",
+    "gt_score": 45
+  },
+  {
+    "image": "LSDIR_0060475.png",
+    "gt_score": 32
+  },
+  {
+    "image": "Flickr2K_002627.png",
+    "gt_score": 32
+  },
+  {
+    "image": "LSDIR_0002580.png",
+    "gt_score": 30
+  },
+  {
+    "image": "LSDIR_0026787.png",
+    "gt_score": 48
+  },
+  {
+    "image": "DTD_bumpy_0173.jpg",
+    "gt_score": 12
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_vygj1amzm7v8l84v.jpg",
+    "gt_score": 67
+  },
+  {
+    "image": "DTD_banded_0047.jpg",
+    "gt_score": 9
+  },
+  {
+    "image": "LSDIR_0000674.png",
+    "gt_score": 49
+  },
+  {
+    "image": "Flickr2K_000606.png",
+    "gt_score": 50
+  },
+  {
+    "image": "DTD_cobwebbed_0150.jpg",
+    "gt_score": 32
+  },
+  {
+    "image": "DTD_dotted_0146.jpg",
+    "gt_score": 12
+  },
+  {
+    "image": "LSDIR_0053432.png",
+    "gt_score": 32
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_0l9dajoaibp44esv.jpg",
+    "gt_score": 80
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_cduah0wpr6qdhg3v.jpg",
+    "gt_score": 36
+  },
+  {
+    "image": "LSDIR_0004201.png",
+    "gt_score": 50
+  },
+  {
+    "image": "Flickr2K_000843.png",
+    "gt_score": 40
+  },
+  {
+    "image": "DTD_blotchy_0066.jpg",
+    "gt_score": 10
+  },
+  {
+    "image": "LSDIR_0006621.png",
+    "gt_score": 29
+  },
+  {
+    "image": "Big_and_Small_Objects_0.75_Abinoculars5.jpg",
+    "gt_score": 18
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_r0y2jc8usm8bpokv.jpg",
+    "gt_score": 57
+  },
+  {
+    "image": "Flickr2K_001872.png",
+    "gt_score": 53
+  },
+  {
+    "image": "Big_and_Small_Objects_Atoytaxi3.jpg",
+    "gt_score": 12
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_k8kifddz8ciar7c4.jpg",
+    "gt_score": 53
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_7rb0pmx44rc51qvk.jpg",
+    "gt_score": 47
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_ma2g6hu5spz84eef.jpg",
+    "gt_score": 37
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_6iejvkpg2wri97dg.jpg",
+    "gt_score": 79
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_ma65mpqhk4v2la55.jpg",
+    "gt_score": 61
+  },
+  {
+    "image": "LSDIR_0067805.png",
+    "gt_score": 38
+  },
+  {
+    "image": "LSDIR_0025449.png",
+    "gt_score": 50
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_zjmk4pa48vwetdf0.jpg",
+    "gt_score": 30
+  },
+  {
+    "image": "LSDIR_0008387.png",
+    "gt_score": 28
+  },
+  {
+    "image": "LSDIR_0031464.png",
+    "gt_score": 45
+  },
+  {
+    "image": "LSDIR_0014451.png",
+    "gt_score": 41
+  },
+  {
+    "image": "LSDIR_0051301.png",
+    "gt_score": 25
+  },
+  {
+    "image": "LSDIR_0067276.png",
+    "gt_score": 73
+  },
+  {
+    "image": "Flickr2K_001217.png",
+    "gt_score": 58
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_xv9rk2mbcbc16nsl.jpg",
+    "gt_score": 34
+  },
+  {
+    "image": "Flickr2K_000586.png",
+    "gt_score": 63
+  },
+  {
+    "image": "LSDIR_0032249.png",
+    "gt_score": 59
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_j74s1ihh25x4kpmy.jpg",
+    "gt_score": 60
+  },
+  {
+    "image": "LSDIR_0015313.png",
+    "gt_score": 35
+  },
+  {
+    "image": "LSDIR_0018697.png",
+    "gt_score": 63
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_uzneb2gi50fgc4hc.jpg",
+    "gt_score": 59
+  },
+  {
+    "image": "DTD_veined_0101.jpg",
+    "gt_score": 14
+  },
+  {
+    "image": "DTD_potholed_0168.jpg",
+    "gt_score": 13
+  },
+  {
+    "image": "LSDIR_0071024.png",
+    "gt_score": 40
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_dpdnku3byjxxns3q.jpg",
+    "gt_score": 35
+  },
+  {
+    "image": "LSDIR_0059032.png",
+    "gt_score": 42
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_0pv8irbqoouwyvv2.jpg",
+    "gt_score": 57
+  },
+  {
+    "image": "DTD_swirly_0071.jpg",
+    "gt_score": 14
+  },
+  {
+    "image": "LSDIR_0016875.png",
+    "gt_score": 42
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_egl0shfq5n6uffkg.jpg",
+    "gt_score": 34
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_n3p042vg1dghhvbt.jpg",
+    "gt_score": 59
+  },
+  {
+    "image": "DTD_polka-dotted_0199.jpg",
+    "gt_score": 13
+  },
+  {
+    "image": "LSDIR_0081132.png",
+    "gt_score": 84
+  },
+  {
+    "image": "LSDIR_0071921.png",
+    "gt_score": 23
+  },
+  {
+    "image": "LSDIR_0020514.png",
+    "gt_score": 52
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_54qhge4temk4soq4.jpg",
+    "gt_score": 43
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_dhfs3f6v0i67nei4.jpg",
+    "gt_score": 46
+  },
+  {
+    "image": "Flickr2K_002593.png",
+    "gt_score": 39
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_1vdmsn657w4xo7rs.jpg",
+    "gt_score": 46
+  },
+  {
+    "image": "LSDIR_0014257.png",
+    "gt_score": 30
+  },
+  {
+    "image": "LSDIR_0048426.png",
+    "gt_score": 45
+  },
+  {
+    "image": "LSDIR_0075009.png",
+    "gt_score": 31
+  },
+  {
+    "image": "LSDIR_0021491.png",
+    "gt_score": 44
+  },
+  {
+    "image": "LSDIR_0014491.png",
+    "gt_score": 28
+  },
+  {
+    "image": "Flickr2K_001310.png",
+    "gt_score": 46
+  },
+  {
+    "image": "Flickr2K_001540.png",
+    "gt_score": 43
+  },
+  {
+    "image": "LSDIR_0001527.png",
+    "gt_score": 80
+  },
+  {
+    "image": "LSDIR_0039808.png",
+    "gt_score": 36
+  },
+  {
+    "image": "LSDIR_0018146.png",
+    "gt_score": 35
+  },
+  {
+    "image": "LSDIR_0062732.png",
+    "gt_score": 63
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_vmasn1fu6l49cnwl.jpg",
+    "gt_score": 44
+  },
+  {
+    "image": "DTD_frilly_0121.jpg",
+    "gt_score": 17
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_xkpd8fengt2noycf.jpg",
+    "gt_score": 61
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_l41lywqf48hxkkye.jpg",
+    "gt_score": 53
+  },
+  {
+    "image": "DTD_scaly_0154.jpg",
+    "gt_score": 12
+  },
+  {
+    "image": "LSDIR_0044779.png",
+    "gt_score": 21
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_nxal5dmfgy6ltz4k.jpg",
+    "gt_score": 79
+  },
+  {
+    "image": "DTD_stained_0103.jpg",
+    "gt_score": 14
+  },
+  {
+    "image": "LSDIR_0045156.png",
+    "gt_score": 40
+  },
+  {
+    "image": "LSDIR_0054176.png",
+    "gt_score": 36
+  },
+  {
+    "image": "Flickr2K_001503.png",
+    "gt_score": 45
+  },
+  {
+    "image": "LSDIR_0035091.png",
+    "gt_score": 18
+  },
+  {
+    "image": "DTD_studded_0103.jpg",
+    "gt_score": 34
+  },
+  {
+    "image": "DTD_veined_0111.jpg",
+    "gt_score": 11
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_jpl97yoce6b0dmhm.jpg",
+    "gt_score": 36
+  },
+  {
+    "image": "LSDIR_0030223.png",
+    "gt_score": 42
+  },
+  {
+    "image": "DTD_gauzy_0128.jpg",
+    "gt_score": 34
+  },
+  {
+    "image": "LSDIR_0052203.png",
+    "gt_score": 35
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_mju6f9n5nyja188t.jpg",
+    "gt_score": 34
+  },
+  {
+    "image": "LSDIR_0081582.png",
+    "gt_score": 50
+  },
+  {
+    "image": "DTD_polka-dotted_0215.jpg",
+    "gt_score": 9
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_8xr47fagcrwqisyc.jpg",
+    "gt_score": 46
+  },
+  {
+    "image": "Flickr2K_002484.png",
+    "gt_score": 47
+  },
+  {
+    "image": "Big_and_Small_Objects_0.89_cat-tigerwhite.jpg",
+    "gt_score": 11
+  },
+  {
+    "image": "LSDIR_0011403.png",
+    "gt_score": 30
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_t6b9yvmnivgish3d.jpg",
+    "gt_score": 42
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_x6jpjrkmgnda4tbj.jpg",
+    "gt_score": 52
+  },
+  {
+    "image": "LSDIR_0075496.png",
+    "gt_score": 50
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_5jhmouqgal7yjdyg.jpg",
+    "gt_score": 37
+  },
+  {
+    "image": "DTD_flecked_0147.jpg",
+    "gt_score": 9
+  },
+  {
+    "image": "DTD_fibrous_0166.jpg",
+    "gt_score": 6
+  },
+  {
+    "image": "DTD_paisley_0122.jpg",
+    "gt_score": 13
+  },
+  {
+    "image": "Big_and_Small_Objects_sodamachine.jpg",
+    "gt_score": 42
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_ldv82qe06nmor9kf.jpg",
+    "gt_score": 43
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_yy2f6u6my9t9xpfz.jpg",
+    "gt_score": 85
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_89y3ta773p4vezh9.jpg",
+    "gt_score": 24
+  },
+  {
+    "image": "Big_and_Small_Objects_Aflask23.jpg",
+    "gt_score": 8
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_0g2lasfs8kixmq6v.jpg",
+    "gt_score": 27
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_748z9usn5x1qgfzm.jpg",
+    "gt_score": 55
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_wf8mis1jqjbr6l8b.jpg",
+    "gt_score": 38
+  },
+  {
+    "image": "DTD_polka-dotted_0168.jpg",
+    "gt_score": 9
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_65ews3ma090gj39v.jpg",
+    "gt_score": 48
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_x8q6okcqfri4887n.jpg",
+    "gt_score": 42
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_r1j6hjwi8d22a1y6.jpg",
+    "gt_score": 45
+  },
+  {
+    "image": "LSDIR_0004150.png",
+    "gt_score": 32
+  },
+  {
+    "image": "LSDIR_0056215.png",
+    "gt_score": 45
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_8pmv61x9u6tepspv.jpg",
+    "gt_score": 50
+  },
+  {
+    "image": "LSDIR_0070737.png",
+    "gt_score": 26
+  },
+  {
+    "image": "LSDIR_0072312.png",
+    "gt_score": 69
+  },
+  {
+    "image": "Big_and_Small_Objects_ASKYDIVE.jpg",
+    "gt_score": 21
+  },
+  {
+    "image": "LSDIR_0025728.png",
+    "gt_score": 36
+  },
+  {
+    "image": "LSDIR_0044888.png",
+    "gt_score": 41
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_5culil8f5rhe4hxb.jpg",
+    "gt_score": 66
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_yjdr49je2nccuoqi.jpg",
+    "gt_score": 31
+  },
+  {
+    "image": "DTD_braided_0197.jpg",
+    "gt_score": 10
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_c68vxka9tf61kcfd.jpg",
+    "gt_score": 81
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_f9yg61e986hu1wdy.jpg",
+    "gt_score": 73
+  },
+  {
+    "image": "LSDIR_0043603.png",
+    "gt_score": 69
+  },
+  {
+    "image": "LSDIR_0007820.png",
+    "gt_score": 25
+  },
+  {
+    "image": "DTD_braided_0110.jpg",
+    "gt_score": 9
+  },
+  {
+    "image": "Flickr2K_000398.png",
+    "gt_score": 23
+  },
+  {
+    "image": "LSDIR_0069245.png",
+    "gt_score": 33
+  },
+  {
+    "image": "DTD_honeycombed_0158.jpg",
+    "gt_score": 10
+  },
+  {
+    "image": "LSDIR_0049129.png",
+    "gt_score": 53
+  },
+  {
+    "image": "Flickr2K_000999.png",
+    "gt_score": 43
+  },
+  {
+    "image": "DTD_polka-dotted_0203.jpg",
+    "gt_score": 11
+  },
+  {
+    "image": "DTD_waffled_0110.jpg",
+    "gt_score": 11
+  },
+  {
+    "image": "LSDIR_0066915.png",
+    "gt_score": 54
+  },
+  {
+    "image": "DTD_stratified_0072.jpg",
+    "gt_score": 17
+  },
+  {
+    "image": "Flickr2K_001400.png",
+    "gt_score": 60
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_rr3zq4m33j2v0tcd.jpg",
+    "gt_score": 93
+  },
+  {
+    "image": "LSDIR_0020549.png",
+    "gt_score": 44
+  },
+  {
+    "image": "LSDIR_0068430.png",
+    "gt_score": 28
+  },
+  {
+    "image": "LSDIR_0069527.png",
+    "gt_score": 37
+  },
+  {
+    "image": "Flickr2K_001619.png",
+    "gt_score": 52
+  },
+  {
+    "image": "DTD_honeycombed_0167.jpg",
+    "gt_score": 10
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_4bjiw4ehq8sn1y7p.jpg",
+    "gt_score": 64
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_pk783moyrp48malg.jpg",
+    "gt_score": 54
+  },
+  {
+    "image": "LSDIR_0083573.png",
+    "gt_score": 36
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_tjpsl3tug3mciehl.jpg",
+    "gt_score": 29
+  },
+  {
+    "image": "Flickr2K_001638.png",
+    "gt_score": 46
+  },
+  {
+    "image": "LSDIR_0019082.png",
+    "gt_score": 53
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_mmw33emhabffk0vr.jpg",
+    "gt_score": 43
+  },
+  {
+    "image": "LSDIR_0011466.png",
+    "gt_score": 59
+  },
+  {
+    "image": "LSDIR_0072002.png",
+    "gt_score": 40
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_n8uu9bv45mihu21x.jpg",
+    "gt_score": 64
+  },
+  {
+    "image": "Flickr2K_001665.png",
+    "gt_score": 47
+  },
+  {
+    "image": "LSDIR_0078209.png",
+    "gt_score": 77
+  },
+  {
+    "image": "LSDIR_0048726.png",
+    "gt_score": 37
+  },
+  {
+    "image": "DTD_polka-dotted_0226.jpg",
+    "gt_score": 10
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_33b9i79p1pq31vj3.jpg",
+    "gt_score": 41
+  },
+  {
+    "image": "LSDIR_0065213.png",
+    "gt_score": 52
+  },
+  {
+    "image": "DTD_banded_0060.jpg",
+    "gt_score": 26
+  },
+  {
+    "image": "LSDIR_0055214.png",
+    "gt_score": 18
+  },
+  {
+    "image": "LSDIR_0058541.png",
+    "gt_score": 39
+  },
+  {
+    "image": "LSDIR_0067090.png",
+    "gt_score": 36
+  },
+  {
+    "image": "LSDIR_0016202.png",
+    "gt_score": 42
+  },
+  {
+    "image": "LSDIR_0016202.png",
+    "gt_score": 42
+  },
+  {
+    "image": "LSDIR_0047387.png",
+    "gt_score": 24
+  },
+  {
+    "image": "LSDIR_0052997.png",
+    "gt_score": 68
+  },
+  {
+    "image": "LSDIR_0004186.png",
+    "gt_score": 44
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_i8vpu7yzvksmq7i3.jpg",
+    "gt_score": 68
+  },
+  {
+    "image": "LSDIR_0074983.png",
+    "gt_score": 36
+  },
+  {
+    "image": "Flickr2K_000090.png",
+    "gt_score": 72
+  },
+  {
+    "image": "LSDIR_0014053.png",
+    "gt_score": 46
+  },
+  {
+    "image": "LSDIR_0003365.png",
+    "gt_score": 63
+  },
+  {
+    "image": "LSDIR_0067215.png",
+    "gt_score": 33
+  },
+  {
+    "image": "LSDIR_0024095.png",
+    "gt_score": 46
+  },
+  {
+    "image": "LSDIR_0034266.png",
+    "gt_score": 43
+  },
+  {
+    "image": "Flickr2K_002084.png",
+    "gt_score": 40
+  },
+  {
+    "image": "DTD_zigzagged_0126.jpg",
+    "gt_score": 12
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_j0kertcajbmv2g25.jpg",
+    "gt_score": 55
+  },
+  {
+    "image": "Flickr2K_002549.png",
+    "gt_score": 45
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_k7ngijxqxns0w09i.jpg",
+    "gt_score": 36
+  },
+  {
+    "image": "DTD_fibrous_0152.jpg",
+    "gt_score": 10
+  },
+  {
+    "image": "Flickr2K_001335.png",
+    "gt_score": 55
+  },
+  {
+    "image": "LSDIR_0042138.png",
+    "gt_score": 57
+  },
+  {
+    "image": "LSDIR_0020786.png",
+    "gt_score": 30
+  },
+  {
+    "image": "DTD_perforated_0001.jpg",
+    "gt_score": 39
+  },
+  {
+    "image": "DTD_lined_0076.jpg",
+    "gt_score": 11
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_2jopuqykt2l0woho.jpg",
+    "gt_score": 72
+  },
+  {
+    "image": "LSDIR_0075922.png",
+    "gt_score": 40
+  },
+  {
+    "image": "DTD_meshed_0131.jpg",
+    "gt_score": 11
+  },
+  {
+    "image": "LSDIR_0075465.png",
+    "gt_score": 64
+  },
+  {
+    "image": "LSDIR_0036371.png",
+    "gt_score": 37
+  },
+  {
+    "image": "LSDIR_0080495.png",
+    "gt_score": 37
+  },
+  {
+    "image": "DTD_sprinkled_0117.jpg",
+    "gt_score": 34
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_kdsk35vgfwkemi58.jpg",
+    "gt_score": 25
+  },
+  {
+    "image": "LSDIR_0031615.png",
+    "gt_score": 75
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_0vehte8khl0iqdre.jpg",
+    "gt_score": 30
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_2i5ih63pb0euyfv8.jpg",
+    "gt_score": 55
+  },
+  {
+    "image": "DTD_wrinkled_0106.jpg",
+    "gt_score": 13
+  },
+  {
+    "image": "DTD_spiralled_0105.jpg",
+    "gt_score": 16
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_p47ycixy5ipw2igy.jpg",
+    "gt_score": 50
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_l7fglg7jf7025zm5.jpg",
+    "gt_score": 44
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_8onw6ozpof501wt1.jpg",
+    "gt_score": 35
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_1dwvw03seive6gfw.jpg",
+    "gt_score": 50
+  },
+  {
+    "image": "Flickr2K_002405.png",
+    "gt_score": 48
+  },
+  {
+    "image": "DTD_sprinkled_0039.jpg",
+    "gt_score": 13
+  },
+  {
+    "image": "LSDIR_0023845.png",
+    "gt_score": 49
+  },
+  {
+    "image": "LSDIR_0080402.png",
+    "gt_score": 46
+  },
+  {
+    "image": "DTD_pleated_0153.jpg",
+    "gt_score": 7
+  },
+  {
+    "image": "LSDIR_0041609.png",
+    "gt_score": 37
+  },
+  {
+    "image": "DTD_grooved_0157.jpg",
+    "gt_score": 11
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_yhakzzs75qs5cp87.jpg",
+    "gt_score": 62
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_fksd77uoeqpshrxl.jpg",
+    "gt_score": 97
+  },
+  {
+    "image": "LSDIR_0059831.png",
+    "gt_score": 53
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_gozqg5bsgsjp4w4q.jpg",
+    "gt_score": 33
+  },
+  {
+    "image": "LSDIR_0047257.png",
+    "gt_score": 43
+  },
+  {
+    "image": "LSDIR_0003120.png",
+    "gt_score": 23
+  },
+  {
+    "image": "LSDIR_0036945.png",
+    "gt_score": 48
+  },
+  {
+    "image": "DTD_swirly_0093.jpg",
+    "gt_score": 12
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_71xwqlgrqmzqmqru.jpg",
+    "gt_score": 57
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_9x6txny7gs5swiex.jpg",
+    "gt_score": 52
+  },
+  {
+    "image": "LSDIR_0064491.png",
+    "gt_score": 17
+  },
+  {
+    "image": "LSDIR_0044418.png",
+    "gt_score": 48
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_dria989eqewdf1z3.jpg",
+    "gt_score": 48
+  },
+  {
+    "image": "LSDIR_0008763.png",
+    "gt_score": 54
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_rqtleosnpxmnoiaj.jpg",
+    "gt_score": 39
+  },
+  {
+    "image": "DTD_stained_0089.jpg",
+    "gt_score": 11
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_5b5kilgkzr1q995z.jpg",
+    "gt_score": 61
+  },
+  {
+    "image": "Flickr2K_000428.png",
+    "gt_score": 70
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_46qnqcjmtf0bqdfb.jpg",
+    "gt_score": 82
+  },
+  {
+    "image": "Flickr2K_000295.png",
+    "gt_score": 47
+  },
+  {
+    "image": "LSDIR_0019509.png",
+    "gt_score": 24
+  },
+  {
+    "image": "DTD_pitted_0053.jpg",
+    "gt_score": 12
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_xmop1yghrsamkavp.jpg",
+    "gt_score": 67
+  },
+  {
+    "image": "LSDIR_0038093.png",
+    "gt_score": 17
+  },
+  {
+    "image": "Flickr2K_000502.png",
+    "gt_score": 45
+  },
+  {
+    "image": "DTD_meshed_0106.jpg",
+    "gt_score": 12
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_b2vqywzp8i7lcdl2.jpg",
+    "gt_score": 43
+  },
+  {
+    "image": "DTD_smeared_0131.jpg",
+    "gt_score": 49
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_lnsfpozf5we5rs9c.jpg",
+    "gt_score": 63
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_zm3j45ls0iqv066o.jpg",
+    "gt_score": 51
+  },
+  {
+    "image": "LSDIR_0052491.png",
+    "gt_score": 49
+  },
+  {
+    "image": "DTD_pleated_0073.jpg",
+    "gt_score": 42
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_vwtgtdjaxs3a3v42.jpg",
+    "gt_score": 65
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_rqz0hfy2guy8cj6b.jpg",
+    "gt_score": 66
+  },
+  {
+    "image": "LSDIR_0049284.png",
+    "gt_score": 55
+  },
+  {
+    "image": "LSDIR_0026316.png",
+    "gt_score": 37
+  },
+  {
+    "image": "LSDIR_0019388.png",
+    "gt_score": 53
+  },
+  {
+    "image": "LSDIR_0006901.png",
+    "gt_score": 45
+  },
+  {
+    "image": "LSDIR_0073438.png",
+    "gt_score": 48
+  },
+  {
+    "image": "LSDIR_0067085.png",
+    "gt_score": 68
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_abaeutwzt97dawul.jpg",
+    "gt_score": 32
+  },
+  {
+    "image": "DTD_woven_0011.jpg",
+    "gt_score": 10
+  },
+  {
+    "image": "DTD_porous_0150.jpg",
+    "gt_score": 8
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_qkwdj3oqog3h3z3d.jpg",
+    "gt_score": 22
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_fdrf4mbncm6y9ayj.jpg",
+    "gt_score": 70
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_pjm9hzdooymtoyfo.jpg",
+    "gt_score": 22
+  },
+  {
+    "image": "DTD_crosshatched_0132.jpg",
+    "gt_score": 26
+  },
+  {
+    "image": "DTD_wrinkled_0063.jpg",
+    "gt_score": 12
+  },
+  {
+    "image": "Big_and_Small_Objects_D_dishwasher.jpg",
+    "gt_score": 51
+  },
+  {
+    "image": "LSDIR_0018932.png",
+    "gt_score": 56
+  },
+  {
+    "image": "DTD_meshed_0044.jpg",
+    "gt_score": 6
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_1eltpyedj7d5fojr.jpg",
+    "gt_score": 31
+  },
+  {
+    "image": "LSDIR_0037068.png",
+    "gt_score": 61
+  },
+  {
+    "image": "LSDIR_0028159.png",
+    "gt_score": 38
+  },
+  {
+    "image": "DTD_studded_0197.jpg",
+    "gt_score": 33
+  },
+  {
+    "image": "LSDIR_0022703.png",
+    "gt_score": 41
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_9whwpp4f7j21qzwy.jpg",
+    "gt_score": 19
+  },
+  {
+    "image": "DTD_stratified_0141.jpg",
+    "gt_score": 22
+  },
+  {
+    "image": "DTD_grid_0092.jpg",
+    "gt_score": 17
+  },
+  {
+    "image": "LSDIR_0068845.png",
+    "gt_score": 24
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_18ehdti8er609lby.jpg",
+    "gt_score": 19
+  },
+  {
+    "image": "LSDIR_0063261.png",
+    "gt_score": 19
+  },
+  {
+    "image": "DTD_porous_0119.jpg",
+    "gt_score": 17
+  },
+  {
+    "image": "LSDIR_0074256.png",
+    "gt_score": 53
+  },
+  {
+    "image": "DTD_pitted_0112.jpg",
+    "gt_score": 18
+  },
+  {
+    "image": "LSDIR_0041366.png",
+    "gt_score": 40
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_5e0r664culkkpam4.jpg",
+    "gt_score": 55
+  },
+  {
+    "image": "LSDIR_0056980.png",
+    "gt_score": 44
+  },
+  {
+    "image": "Flickr2K_002070.png",
+    "gt_score": 48
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_mbzguje359dm6ufv.jpg",
+    "gt_score": 38
+  },
+  {
+    "image": "DTD_matted_0057.jpg",
+    "gt_score": 15
+  },
+  {
+    "image": "DTD_porous_0149.jpg",
+    "gt_score": 12
+  },
+  {
+    "image": "LSDIR_0045700.png",
+    "gt_score": 52
+  },
+  {
+    "image": "LSDIR_0066791.png",
+    "gt_score": 45
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_r797ksfcg3kvpejs.jpg",
+    "gt_score": 48
+  },
+  {
+    "image": "Flickr2K_002522.png",
+    "gt_score": 56
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_pj4qd3kqb3c2yl72.jpg",
+    "gt_score": 46
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_v1290viny462wmnq.jpg",
+    "gt_score": 92
+  },
+  {
+    "image": "DTD_honeycombed_0168.jpg",
+    "gt_score": 13
+  },
+  {
+    "image": "DTD_cracked_0049.jpg",
+    "gt_score": 30
+  },
+  {
+    "image": "DTD_veined_0120.jpg",
+    "gt_score": 13
+  },
+  {
+    "image": "LSDIR_0068867.png",
+    "gt_score": 34
+  },
+  {
+    "image": "Flickr2K_000112.png",
+    "gt_score": 54
+  },
+  {
+    "image": "Flickr2K_001186.png",
+    "gt_score": 69
+  },
+  {
+    "image": "DTD_striped_0023.jpg",
+    "gt_score": 9
+  },
+  {
+    "image": "DTD_scaly_0112.jpg",
+    "gt_score": 13
+  },
+  {
+    "image": "LSDIR_0057308.png",
+    "gt_score": 45
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_4clznqh7zhwdffdb.jpg",
+    "gt_score": 39
+  },
+  {
+    "image": "LSDIR_0006825.png",
+    "gt_score": 34
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_ub84udrir308rir3.jpg",
+    "gt_score": 36
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_kdenohfbdy66qgsd.jpg",
+    "gt_score": 61
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_47ree3elvpwpqps6.jpg",
+    "gt_score": 80
+  },
+  {
+    "image": "LSDIR_0000818.png",
+    "gt_score": 45
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_ow4gxt4azesm0mxd.jpg",
+    "gt_score": 66
+  },
+  {
+    "image": "LSDIR_0029107.png",
+    "gt_score": 47
+  },
+  {
+    "image": "LSDIR_0029814.png",
+    "gt_score": 85
+  },
+  {
+    "image": "Flickr2K_000139.png",
+    "gt_score": 66
+  },
+  {
+    "image": "LSDIR_0029613.png",
+    "gt_score": 66
+  },
+  {
+    "image": "Flickr2K_002633.png",
+    "gt_score": 62
+  },
+  {
+    "image": "Flickr2K_002239.png",
+    "gt_score": 42
+  },
+  {
+    "image": "LSDIR_0053488.png",
+    "gt_score": 65
+  },
+  {
+    "image": "LSDIR_0016953.png",
+    "gt_score": 45
+  },
+  {
+    "image": "DTD_grid_0053.jpg",
+    "gt_score": 6
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_wsiyyavmd3p1k75i.jpg",
+    "gt_score": 32
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_ay2nmordvr5mjbq0.jpg",
+    "gt_score": 51
+  },
+  {
+    "image": "LSDIR_0006040.png",
+    "gt_score": 30
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_xsxbf1yh6fpm6e1u.jpg",
+    "gt_score": 86
+  },
+  {
+    "image": "DTD_frilly_0061.jpg",
+    "gt_score": 14
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_tya3brxfqf8q8scs.jpg",
+    "gt_score": 69
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_v2zbkd2hevjs5o9t.jpg",
+    "gt_score": 47
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_luo1iwvr0h9p13me.jpg",
+    "gt_score": 47
+  },
+  {
+    "image": "LSDIR_0048796.png",
+    "gt_score": 57
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_474ipf3tvijezkq3.jpg",
+    "gt_score": 25
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_cca1bf8coanw8v06.jpg",
+    "gt_score": 37
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_o9y04ar5cghin02h.jpg",
+    "gt_score": 41
+  },
+  {
+    "image": "LSDIR_0073145.png",
+    "gt_score": 35
+  },
+  {
+    "image": "LSDIR_0058937.png",
+    "gt_score": 24
+  },
+  {
+    "image": "LSDIR_0061164.png",
+    "gt_score": 14
+  },
+  {
+    "image": "DTD_interlaced_0125.jpg",
+    "gt_score": 48
+  },
+  {
+    "image": "DTD_zigzagged_0114.jpg",
+    "gt_score": 12
+  },
+  {
+    "image": "Flickr2K_002281.png",
+    "gt_score": 46
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_1uo0ue0ifw38jr22.jpg",
+    "gt_score": 47
+  },
+  {
+    "image": "Big_and_Small_Objects_Acalculator21.jpg",
+    "gt_score": 36
+  },
+  {
+    "image": "LSDIR_0027745.png",
+    "gt_score": 24
+  },
+  {
+    "image": "LSDIR_0070814.png",
+    "gt_score": 49
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_zvwyjt6u0f9kvjr5.jpg",
+    "gt_score": 43
+  },
+  {
+    "image": "DTD_veined_0128.jpg",
+    "gt_score": 11
+  },
+  {
+    "image": "Flickr2K_000546.png",
+    "gt_score": 25
+  },
+  {
+    "image": "LSDIR_0046297.png",
+    "gt_score": 47
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_i5hgohlsobqey55b.jpg",
+    "gt_score": 69
+  },
+  {
+    "image": "Flickr2K_002062.png",
+    "gt_score": 56
+  },
+  {
+    "image": "Big_and_Small_Objects_1.54_Aboxoftissue5.jpg",
+    "gt_score": 16
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_vnswae0u0yjb7el9.jpg",
+    "gt_score": 42
+  },
+  {
+    "image": "LSDIR_0032070.png",
+    "gt_score": 43
+  },
+  {
+    "image": "DTD_fibrous_0114.jpg",
+    "gt_score": 5
+  },
+  {
+    "image": "LSDIR_0059584.png",
+    "gt_score": 27
+  },
+  {
+    "image": "LSDIR_0033607.png",
+    "gt_score": 51
+  },
+  {
+    "image": "DTD_cobwebbed_0040.jpg",
+    "gt_score": 18
+  },
+  {
+    "image": "DTD_freckled_0088.jpg",
+    "gt_score": 12
+  },
+  {
+    "image": "LSDIR_0045966.png",
+    "gt_score": 58
+  },
+  {
+    "image": "DTD_dotted_0093.jpg",
+    "gt_score": 8
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_lw7tpit6rp8c9o07.jpg",
+    "gt_score": 45
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_c0is70hhdxb2qqtg.jpg",
+    "gt_score": 34
+  },
+  {
+    "image": "Flickr2K_002118.png",
+    "gt_score": 31
+  },
+  {
+    "image": "DTD_pitted_0152.jpg",
+    "gt_score": 18
+  },
+  {
+    "image": "LSDIR_0073212.png",
+    "gt_score": 33
+  },
+  {
+    "image": "LSDIR_0033736.png",
+    "gt_score": 40
+  },
+  {
+    "image": "LSDIR_0027204.png",
+    "gt_score": 35
+  },
+  {
+    "image": "Flickr2K_001560.png",
+    "gt_score": 59
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_axe7c8gliyn3cp9m.jpg",
+    "gt_score": 37
+  },
+  {
+    "image": "LSDIR_0043106.png",
+    "gt_score": 47
+  },
+  {
+    "image": "DTD_banded_0022.jpg",
+    "gt_score": 14
+  },
+  {
+    "image": "LSDIR_0074206.png",
+    "gt_score": 34
+  },
+  {
+    "image": "LSDIR_0022763.png",
+    "gt_score": 39
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_faf2a2c7qgkf1lj0.jpg",
+    "gt_score": 93
+  },
+  {
+    "image": "LSDIR_0047367.png",
+    "gt_score": 47
+  },
+  {
+    "image": "LSDIR_0052499.png",
+    "gt_score": 34
+  },
+  {
+    "image": "LSDIR_0001659.png",
+    "gt_score": 29
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_2jopuqykt2l0woho.jpg",
+    "gt_score": 72
+  },
+  {
+    "image": "DTD_blotchy_0092.jpg",
+    "gt_score": 17
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_1xgj0v04op45wpdz.jpg",
+    "gt_score": 34
+  },
+  {
+    "image": "LSDIR_0062908.png",
+    "gt_score": 37
+  },
+  {
+    "image": "DTD_dotted_0097.jpg",
+    "gt_score": 15
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_zo8mmtlo071qd28d.jpg",
+    "gt_score": 44
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_bfog6z2adkugg8sb.jpg",
+    "gt_score": 34
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_7uoeruuug13yo1aq.jpg",
+    "gt_score": 84
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_cs5piln0q735nowh.jpg",
+    "gt_score": 67
+  },
+  {
+    "image": "LSDIR_0037172.png",
+    "gt_score": 38
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_8eygf1ghvwg4mb1e.jpg",
+    "gt_score": 53
+  },
+  {
+    "image": "DTD_lacelike_0080.jpg",
+    "gt_score": 14
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_gjksc9qwc9p1yz3a.jpg",
+    "gt_score": 44
+  },
+  {
+    "image": "LSDIR_0071027.png",
+    "gt_score": 33
+  },
+  {
+    "image": "LSDIR_0033136.png",
+    "gt_score": 32
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_2tn3jqtgjyfu2uqj.jpg",
+    "gt_score": 79
+  },
+  {
+    "image": "Flickr2K_000517.png",
+    "gt_score": 61
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_107rmphi5eycytoz.jpg",
+    "gt_score": 54
+  },
+  {
+    "image": "DTD_stained_0060.jpg",
+    "gt_score": 25
+  },
+  {
+    "image": "LSDIR_0030903.png",
+    "gt_score": 26
+  },
+  {
+    "image": "Flickr2K_002248.png",
+    "gt_score": 46
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_bhagqnpwyz53hpaf.jpg",
+    "gt_score": 56
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_b8e3e7w3p8e0nsg8.jpg",
+    "gt_score": 29
+  },
+  {
+    "image": "DTD_paisley_0041.jpg",
+    "gt_score": 13
+  },
+  {
+    "image": "LSDIR_0012084.png",
+    "gt_score": 52
+  },
+  {
+    "image": "LSDIR_0063649.png",
+    "gt_score": 52
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_pzt16796losrxi1y.jpg",
+    "gt_score": 44
+  },
+  {
+    "image": "Flickr2K_002167.png",
+    "gt_score": 58
+  },
+  {
+    "image": "Flickr2K_001066.png",
+    "gt_score": 49
+  },
+  {
+    "image": "Big_and_Small_Objects_1.24_bear-blackbear.jpg",
+    "gt_score": 13
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_d0c83f4jxjhr5mun.jpg",
+    "gt_score": 37
+  },
+  {
+    "image": "DTD_cobwebbed_0119.jpg",
+    "gt_score": 21
+  },
+  {
+    "image": "DTD_gauzy_0142.jpg",
+    "gt_score": 14
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_189dxrp1pz3zp04f.jpg",
+    "gt_score": 46
+  },
+  {
+    "image": "DTD_grid_0053.jpg",
+    "gt_score": 6
+  },
+  {
+    "image": "Flickr2K_001896.png",
+    "gt_score": 67
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_w2hwg4xvd76vv3d9.jpg",
+    "gt_score": 51
+  },
+  {
+    "image": "DTD_striped_0103.jpg",
+    "gt_score": 9
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_fosljnf8bha1adbf.jpg",
+    "gt_score": 60
+  },
+  {
+    "image": "LSDIR_0057854.png",
+    "gt_score": 40
+  },
+  {
+    "image": "LSDIR_0028370.png",
+    "gt_score": 45
+  },
+  {
+    "image": "Flickr2K_000440.png",
+    "gt_score": 69
+  },
+  {
+    "image": "LSDIR_0002034.png",
+    "gt_score": 40
+  },
+  {
+    "image": "LSDIR_0061681.png",
+    "gt_score": 39
+  },
+  {
+    "image": "LSDIR_0061560.png",
+    "gt_score": 66
+  },
+  {
+    "image": "LSDIR_0003448.png",
+    "gt_score": 60
+  },
+  {
+    "image": "LSDIR_0010345.png",
+    "gt_score": 49
+  },
+  {
+    "image": "Reachspaces_bar4.jpg",
+    "gt_score": 35
+  },
+  {
+    "image": "Flickr2K_000532.png",
+    "gt_score": 41
+  },
+  {
+    "image": "DTD_blotchy_0059.jpg",
+    "gt_score": 12
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_h28j3d0jodlskjz8.jpg",
+    "gt_score": 64
+  },
+  {
+    "image": "LSDIR_0013683.png",
+    "gt_score": 38
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_n4kt8dwq43isl185.jpg",
+    "gt_score": 70
+  },
+  {
+    "image": "LSDIR_0035316.png",
+    "gt_score": 72
+  },
+  {
+    "image": "LSDIR_0081955.png",
+    "gt_score": 51
+  },
+  {
+    "image": "LSDIR_0000234.png",
+    "gt_score": 42
+  },
+  {
+    "image": "DTD_potholed_0043.jpg",
+    "gt_score": 30
+  },
+  {
+    "image": "DTD_polka-dotted_0137.jpg",
+    "gt_score": 9
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_vlstqjiieg7gx75f.jpg",
+    "gt_score": 70
+  },
+  {
+    "image": "LSDIR_0009119.png",
+    "gt_score": 45
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_g0xzyua9sksiicej.jpg",
+    "gt_score": 66
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_byuefwsbxzn1isx5.jpg",
+    "gt_score": 41
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_ywkcyyndvfr30gnz.jpg",
+    "gt_score": 63
+  },
+  {
+    "image": "DTD_swirly_0137.jpg",
+    "gt_score": 10
+  },
+  {
+    "image": "LSDIR_0000007.png",
+    "gt_score": 17
+  },
+  {
+    "image": "LSDIR_0061069.png",
+    "gt_score": 77
+  },
+  {
+    "image": "Flickr2K_000908.png",
+    "gt_score": 42
+  },
+  {
+    "image": "DTD_banded_0113.jpg",
+    "gt_score": 10
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_5rju8iercljw2f6x.jpg",
+    "gt_score": 53
+  },
+  {
+    "image": "Big_and_Small_Objects_1.04_cat-cougar1.jpg",
+    "gt_score": 9
+  },
+  {
+    "image": "DTD_crosshatched_0046.jpg",
+    "gt_score": 59
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_fp5gnefj6ntwjnox.jpg",
+    "gt_score": 51
+  },
+  {
+    "image": "LSDIR_0057330.png",
+    "gt_score": 18
+  },
+  {
+    "image": "LSDIR_0084968.png",
+    "gt_score": 60
+  },
+  {
+    "image": "DTD_veined_0112.jpg",
+    "gt_score": 14
+  },
+  {
+    "image": "DTD_swirly_0072.jpg",
+    "gt_score": 14
+  },
+  {
+    "image": "DTD_bumpy_0079.jpg",
+    "gt_score": 11
+  },
+  {
+    "image": "LSDIR_0071072.png",
+    "gt_score": 67
+  },
+  {
+    "image": "DTD_crosshatched_0112.jpg",
+    "gt_score": 10
+  },
+  {
+    "image": "LSDIR_0071104.png",
+    "gt_score": 38
+  },
+  {
+    "image": "DTD_woven_0049.jpg",
+    "gt_score": 9
+  },
+  {
+    "image": "LSDIR_0039971.png",
+    "gt_score": 35
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_pwsiq02yxbwzpkue.jpg",
+    "gt_score": 57
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_wyarcsz8q4d5ex8b.jpg",
+    "gt_score": 65
+  },
+  {
+    "image": "LSDIR_0003199.png",
+    "gt_score": 54
+  },
+  {
+    "image": "Flickr2K_000583.png",
+    "gt_score": 51
+  },
+  {
+    "image": "LSDIR_0016239.png",
+    "gt_score": 50
+  },
+  {
+    "image": "LSDIR_0015174.png",
+    "gt_score": 47
+  },
+  {
+    "image": "Big_and_Small_Objects_0.69_cat-tiger1.jpg",
+    "gt_score": 11
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_0ni9e84lmjaj8bw8.jpg",
+    "gt_score": 30
+  },
+  {
+    "image": "DTD_stratified_0171.jpg",
+    "gt_score": 15
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_thjlcuy8iax95kky.jpg",
+    "gt_score": 56
+  },
+  {
+    "image": "DTD_veined_0108.jpg",
+    "gt_score": 14
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_8c5dst08aduiwu0d.jpg",
+    "gt_score": 29
+  },
+  {
+    "image": "LSDIR_0062537.png",
+    "gt_score": 58
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_p65ismt6fbulb31y.jpg",
+    "gt_score": 27
+  },
+  {
+    "image": "LSDIR_0007167.png",
+    "gt_score": 83
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_6jbjsld3erch83fz.jpg",
+    "gt_score": 39
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_thuot23l2juno17d.jpg",
+    "gt_score": 34
+  },
+  {
+    "image": "LSDIR_0060802.png",
+    "gt_score": 47
+  },
+  {
+    "image": "DTD_grid_0115.jpg",
+    "gt_score": 13
+  },
+  {
+    "image": "DTD_sprinkled_0131.jpg",
+    "gt_score": 14
+  },
+  {
+    "image": "DTD_wrinkled_0119.jpg",
+    "gt_score": 9
+  },
+  {
+    "image": "DTD_studded_0185.jpg",
+    "gt_score": 15
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_iygdw4k4pzr3nbjq.jpg",
+    "gt_score": 21
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_j35tsyxzgzfkxw33.jpg",
+    "gt_score": 71
+  },
+  {
+    "image": "LSDIR_0021929.png",
+    "gt_score": 30
+  },
+  {
+    "image": "Flickr2K_001539.png",
+    "gt_score": 50
+  },
+  {
+    "image": "LSDIR_0031169.png",
+    "gt_score": 23
+  },
+  {
+    "image": "DTD_fibrous_0160.jpg",
+    "gt_score": 5
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_962o6bdcdetu1841.jpg",
+    "gt_score": 34
+  },
+  {
+    "image": "Big_and_Small_Objects_Afloppydisk6.jpg",
+    "gt_score": 14
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_j0j54qgkf6jofvys.jpg",
+    "gt_score": 39
+  },
+  {
+    "image": "Flickr2K_000614.png",
+    "gt_score": 60
+  },
+  {
+    "image": "LSDIR_0000413.png",
+    "gt_score": 31
+  },
+  {
+    "image": "DTD_interlaced_0049.jpg",
+    "gt_score": 33
+  },
+  {
+    "image": "LSDIR_0014542.png",
+    "gt_score": 28
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_t3z6x5oy3n5u4kun.jpg",
+    "gt_score": 75
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_decsf33m30ld4o8f.jpg",
+    "gt_score": 46
+  },
+  {
+    "image": "LSDIR_0060266.png",
+    "gt_score": 36
+  },
+  {
+    "image": "LSDIR_0007225.png",
+    "gt_score": 35
+  },
+  {
+    "image": "LSDIR_0068869.png",
+    "gt_score": 52
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_5rvmykxae6tzbuzg.jpg",
+    "gt_score": 49
+  },
+  {
+    "image": "LSDIR_0007215.png",
+    "gt_score": 52
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_2c8kkoj5hgsdxuky.jpg",
+    "gt_score": 63
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_swhdys4rx03raejs.jpg",
+    "gt_score": 49
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_kzt38jhtushwbr1a.jpg",
+    "gt_score": 46
+  },
+  {
+    "image": "LSDIR_0069180.png",
+    "gt_score": 44
+  },
+  {
+    "image": "LSDIR_0050770.png",
+    "gt_score": 8
+  },
+  {
+    "image": "LSDIR_0062105.png",
+    "gt_score": 45
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_2dnmrm9t9dyillsh.jpg",
+    "gt_score": 19
+  },
+  {
+    "image": "LSDIR_0079441.png",
+    "gt_score": 22
+  },
+  {
+    "image": "LSDIR_0042285.png",
+    "gt_score": 36
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_pf5opx16wgj4e3i5.jpg",
+    "gt_score": 85
+  },
+  {
+    "image": "Flickr2K_001518.png",
+    "gt_score": 45
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_rcs717ygz4zf4qtx.jpg",
+    "gt_score": 40
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_l3eayq3uc2cwilpy.jpg",
+    "gt_score": 23
+  },
+  {
+    "image": "LSDIR_0051664.png",
+    "gt_score": 41
+  },
+  {
+    "image": "LSDIR_0040128.png",
+    "gt_score": 52
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_umldk06ziwnmt599.jpg",
+    "gt_score": 30
+  },
+  {
+    "image": "DTD_woven_0032.jpg",
+    "gt_score": 12
+  },
+  {
+    "image": "Flickr2K_000959.png",
+    "gt_score": 74
+  },
+  {
+    "image": "LSDIR_0073477.png",
+    "gt_score": 67
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_1h4pv2e8araugion.jpg",
+    "gt_score": 62
+  },
+  {
+    "image": "LSDIR_0036940.png",
+    "gt_score": 65
+  },
+  {
+    "image": "DTD_spiralled_0139.jpg",
+    "gt_score": 20
+  },
+  {
+    "image": "Big_and_Small_Objects_Aladle18.jpg",
+    "gt_score": 12
+  },
+  {
+    "image": "DTD_chequered_0112.jpg",
+    "gt_score": 14
+  },
+  {
+    "image": "Big_and_Small_Objects_Afeatherdust2.jpg",
+    "gt_score": 8
+  },
+  {
+    "image": "Big_and_Small_Objects_1.61_bait04.jpg",
+    "gt_score": 22
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_xbu8r61jyjfvasok.jpg",
+    "gt_score": 85
+  },
+  {
+    "image": "LSDIR_0007955.png",
+    "gt_score": 48
+  },
+  {
+    "image": "LSDIR_0019384.png",
+    "gt_score": 38
+  },
+  {
+    "image": "Flickr2K_000531.png",
+    "gt_score": 53
+  },
+  {
+    "image": "LSDIR_0079064.png",
+    "gt_score": 41
+  },
+  {
+    "image": "LSDIR_0013324.png",
+    "gt_score": 84
+  },
+  {
+    "image": "LSDIR_0080241.png",
+    "gt_score": 64
+  },
+  {
+    "image": "DTD_sprinkled_0015.jpg",
+    "gt_score": 14
+  },
+  {
+    "image": "LSDIR_0006307.png",
+    "gt_score": 40
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_sj3f5ie3zjawi6d4.jpg",
+    "gt_score": 16
+  },
+  {
+    "image": "DTD_stratified_0136.jpg",
+    "gt_score": 37
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_js005fvgz5atb80x.jpg",
+    "gt_score": 35
+  },
+  {
+    "image": "Flickr2K_002240.png",
+    "gt_score": 38
+  },
+  {
+    "image": "LSDIR_0058754.png",
+    "gt_score": 57
+  },
+  {
+    "image": "LSDIR_0036001.png",
+    "gt_score": 32
+  },
+  {
+    "image": "DTD_smeared_0092.jpg",
+    "gt_score": 15
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_yancfagtiph3tq6f.jpg",
+    "gt_score": 35
+  },
+  {
+    "image": "LSDIR_0065508.png",
+    "gt_score": 57
+  },
+  {
+    "image": "DTD_meshed_0032.jpg",
+    "gt_score": 10
+  },
+  {
+    "image": "LSDIR_0029021.png",
+    "gt_score": 60
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_vct2n3zj7dzy29gq.jpg",
+    "gt_score": 73
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_4hgtlvibj3g5z7y8.jpg",
+    "gt_score": 49
+  },
+  {
+    "image": "DTD_blotchy_0066.jpg",
+    "gt_score": 10
+  },
+  {
+    "image": "DTD_cracked_0099.jpg",
+    "gt_score": 15
+  },
+  {
+    "image": "LSDIR_0022340.png",
+    "gt_score": 35
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_2nxptzrh5pamiear.jpg",
+    "gt_score": 64
+  },
+  {
+    "image": "LSDIR_0013547.png",
+    "gt_score": 18
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_01709ss5fs6wwex9.jpg",
+    "gt_score": 41
+  },
+  {
+    "image": "LSDIR_0038288.png",
+    "gt_score": 65
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_1w42mkhh3zhd81d4.jpg",
+    "gt_score": 40
+  },
+  {
+    "image": "DTD_veined_0178.jpg",
+    "gt_score": 31
+  },
+  {
+    "image": "DTD_cracked_0076.jpg",
+    "gt_score": 10
+  },
+  {
+    "image": "LSDIR_0004509.png",
+    "gt_score": 14
+  },
+  {
+    "image": "LSDIR_0076638.png",
+    "gt_score": 26
+  },
+  {
+    "image": "Flickr2K_002296.png",
+    "gt_score": 47
+  },
+  {
+    "image": "LSDIR_0007975.png",
+    "gt_score": 35
+  },
+  {
+    "image": "Big_and_Small_Objects_dining7.jpg",
+    "gt_score": 15
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_bx6ib3pn4fz2345p.jpg",
+    "gt_score": 59
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_xdklhutrc72sd6dh.jpg",
+    "gt_score": 59
+  },
+  {
+    "image": "LSDIR_0001348.png",
+    "gt_score": 73
+  },
+  {
+    "image": "DTD_stained_0131.jpg",
+    "gt_score": 15
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_yj99piassytn1q58.jpg",
+    "gt_score": 30
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_gpnih5ocetedrjdw.jpg",
+    "gt_score": 64
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_gjg3f7t51ctxijcx.jpg",
+    "gt_score": 38
+  },
+  {
+    "image": "LSDIR_0012520.png",
+    "gt_score": 49
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_p9rc37t23ha1zfko.jpg",
+    "gt_score": 34
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_fvmclbevkzbqfcig.jpg",
+    "gt_score": 47
+  },
+  {
+    "image": "LSDIR_0003448.png",
+    "gt_score": 60
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_q2gpb7zvt704niro.jpg",
+    "gt_score": 68
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_d5h1qbl8531ahwwq.jpg",
+    "gt_score": 46
+  },
+  {
+    "image": "DTD_bumpy_0139.jpg",
+    "gt_score": 15
+  },
+  {
+    "image": "LSDIR_0047793.png",
+    "gt_score": 7
+  },
+  {
+    "image": "DTD_grid_0061.jpg",
+    "gt_score": 10
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_e8bydzfuq22n5sqo.jpg",
+    "gt_score": 65
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_nf2wvmml6kzqzm1d.jpg",
+    "gt_score": 48
+  },
+  {
+    "image": "LSDIR_0031050.png",
+    "gt_score": 40
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_xms4k1wndiurtk8d.jpg",
+    "gt_score": 70
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_z6cbzggztsk5jh8b.jpg",
+    "gt_score": 25
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_7nez02clfksnyqj6.jpg",
+    "gt_score": 50
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_et04efcja3hvdzuc.jpg",
+    "gt_score": 51
+  },
+  {
+    "image": "LSDIR_0073161.png",
+    "gt_score": 44
+  },
+  {
+    "image": "LSDIR_0072820.png",
+    "gt_score": 58
+  },
+  {
+    "image": "LSDIR_0070039.png",
+    "gt_score": 28
+  },
+  {
+    "image": "LSDIR_0023292.png",
+    "gt_score": 54
+  },
+  {
+    "image": "DTD_stratified_0172.jpg",
+    "gt_score": 17
+  },
+  {
+    "image": "Flickr2K_002343.png",
+    "gt_score": 47
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_uqcq11cneuuaf4w1.jpg",
+    "gt_score": 46
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_as9jwaq3qu2dvobg.jpg",
+    "gt_score": 42
+  },
+  {
+    "image": "DTD_swirly_0177.jpg",
+    "gt_score": 11
+  },
+  {
+    "image": "Flickr2K_000890.png",
+    "gt_score": 50
+  },
+  {
+    "image": "DTD_grid_0041.jpg",
+    "gt_score": 9
+  },
+  {
+    "image": "Flickr2K_000719.png",
+    "gt_score": 63
+  },
+  {
+    "image": "LSDIR_0023688.png",
+    "gt_score": 34
+  },
+  {
+    "image": "DTD_matted_0111.jpg",
+    "gt_score": 11
+  },
+  {
+    "image": "DTD_bubbly_0070.jpg",
+    "gt_score": 31
+  },
+  {
+    "image": "DTD_banded_0004.jpg",
+    "gt_score": 8
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_d6t479chz0ze21ic.jpg",
+    "gt_score": 63
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_va1eijz0svejx4w5.jpg",
+    "gt_score": 39
+  },
+  {
+    "image": "LSDIR_0008674.png",
+    "gt_score": 37
+  },
+  {
+    "image": "DTD_honeycombed_0066.jpg",
+    "gt_score": 21
+  },
+  {
+    "image": "LSDIR_0045194.png",
+    "gt_score": 25
+  },
+  {
+    "image": "DTD_chequered_0209.jpg",
+    "gt_score": 9
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_2rh5usvq00je5nun.jpg",
+    "gt_score": 42
+  },
+  {
+    "image": "LSDIR_0068606.png",
+    "gt_score": 42
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_qwnuaedafx3q0zmc.jpg",
+    "gt_score": 89
+  },
+  {
+    "image": "LSDIR_0037145.png",
+    "gt_score": 69
+  },
+  {
+    "image": "Flickr2K_002005.png",
+    "gt_score": 55
+  },
+  {
+    "image": "DTD_marbled_0184.jpg",
+    "gt_score": 13
+  },
+  {
+    "image": "DTD_stained_0117.jpg",
+    "gt_score": 25
+  },
+  {
+    "image": "LSDIR_0009598.png",
+    "gt_score": 31
+  },
+  {
+    "image": "DTD_lined_0107.jpg",
+    "gt_score": 8
+  },
+  {
+    "image": "LSDIR_0078897.png",
+    "gt_score": 32
+  },
+  {
+    "image": "DTD_waffled_0171.jpg",
+    "gt_score": 10
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_le7j5i9zwnfl4xc7.jpg",
+    "gt_score": 77
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_r0aiolks19id29vg.jpg",
+    "gt_score": 88
+  },
+  {
+    "image": "LSDIR_0079483.png",
+    "gt_score": 40
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_bwyf7jsr1e2wtjef.jpg",
+    "gt_score": 71
+  },
+  {
+    "image": "DTD_chequered_0173.jpg",
+    "gt_score": 9
+  },
+  {
+    "image": "DTD_dotted_0102.jpg",
+    "gt_score": 11
+  },
+  {
+    "image": "Big_and_Small_Objects_1.01_ASOCCBALL.jpg",
+    "gt_score": 10
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_4oil89ljaxoohiex.jpg",
+    "gt_score": 53
+  },
+  {
+    "image": "Big_and_Small_Objects_0.50_pepper01.jpg",
+    "gt_score": 11
+  },
+  {
+    "image": "LSDIR_0040862.png",
+    "gt_score": 25
+  },
+  {
+    "image": "LSDIR_0027950.png",
+    "gt_score": 25
+  },
+  {
+    "image": "DTD_grooved_0053.jpg",
+    "gt_score": 15
+  },
+  {
+    "image": "DTD_stained_0027.jpg",
+    "gt_score": 16
+  },
+  {
+    "image": "DTD_striped_0067.jpg",
+    "gt_score": 11
+  },
+  {
+    "image": "DTD_chequered_0172.jpg",
+    "gt_score": 9
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_5iibc4yevbyxtpgq.jpg",
+    "gt_score": 44
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_1pwrlujytw873det.jpg",
+    "gt_score": 54
+  },
+  {
+    "image": "DTD_polka-dotted_0179.jpg",
+    "gt_score": 10
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_nmfqo85256xh60in.jpg",
+    "gt_score": 41
+  },
+  {
+    "image": "Big_and_Small_Objects_Akitchenisla4.jpg",
+    "gt_score": 11
+  },
+  {
+    "image": "DTD_pleated_0169.jpg",
+    "gt_score": 9
+  },
+  {
+    "image": "Flickr2K_002369.png",
+    "gt_score": 42
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_1an6grp0rk623sc4.jpg",
+    "gt_score": 50
+  },
+  {
+    "image": "LSDIR_0020265.png",
+    "gt_score": 58
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_53uf56q39tf5lv8l.jpg",
+    "gt_score": 65
+  },
+  {
+    "image": "DTD_braided_0105.jpg",
+    "gt_score": 9
+  },
+  {
+    "image": "DTD_meshed_0177.jpg",
+    "gt_score": 11
+  },
+  {
+    "image": "DTD_grid_0042.jpg",
+    "gt_score": 11
+  },
+  {
+    "image": "LSDIR_0065933.png",
+    "gt_score": 34
+  },
+  {
+    "image": "LSDIR_0024900.png",
+    "gt_score": 43
+  },
+  {
+    "image": "DTD_braided_0139.jpg",
+    "gt_score": 9
+  },
+  {
+    "image": "Flickr2K_000914.png",
+    "gt_score": 50
+  },
+  {
+    "image": "DTD_veined_0173.jpg",
+    "gt_score": 26
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_qasbh5vhpl3xaizw.jpg",
+    "gt_score": 51
+  },
+  {
+    "image": "DTD_fibrous_0199.jpg",
+    "gt_score": 7
+  },
+  {
+    "image": "LSDIR_0009747.png",
+    "gt_score": 48
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_qgqllds1kqumwe79.jpg",
+    "gt_score": 68
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_dxa3sljjsvd2jq3v.jpg",
+    "gt_score": 64
+  },
+  {
+    "image": "DTD_sprinkled_0023.jpg",
+    "gt_score": 15
+  },
+  {
+    "image": "DTD_lacelike_0010.jpg",
+    "gt_score": 15
+  },
+  {
+    "image": "Flickr2K_002379.png",
+    "gt_score": 47
+  },
+  {
+    "image": "Flickr2K_002461.png",
+    "gt_score": 80
+  },
+  {
+    "image": "Flickr2K_001458.png",
+    "gt_score": 36
+  },
+  {
+    "image": "LSDIR_0080984.png",
+    "gt_score": 44
+  },
+  {
+    "image": "DTD_crosshatched_0080.jpg",
+    "gt_score": 25
+  },
+  {
+    "image": "LSDIR_0036613.png",
+    "gt_score": 30
+  },
+  {
+    "image": "Flickr2K_000677.png",
+    "gt_score": 57
+  },
+  {
+    "image": "LSDIR_0059493.png",
+    "gt_score": 41
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_nmmzlw3mclvuey3e.jpg",
+    "gt_score": 55
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_6il3h3s4166iwn5f.jpg",
+    "gt_score": 36
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_6mudiaypc4yi5let.jpg",
+    "gt_score": 45
+  },
+  {
+    "image": "DTD_knitted_0073.jpg",
+    "gt_score": 23
+  },
+  {
+    "image": "LSDIR_0078277.png",
+    "gt_score": 72
+  },
+  {
+    "image": "LSDIR_0012272.png",
+    "gt_score": 42
+  },
+  {
+    "image": "DTD_interlaced_0184.jpg",
+    "gt_score": 13
+  },
+  {
+    "image": "LSDIR_0073417.png",
+    "gt_score": 57
+  },
+  {
+    "image": "DTD_matted_0161.jpg",
+    "gt_score": 12
+  },
+  {
+    "image": "LSDIR_0045825.png",
+    "gt_score": 46
+  },
+  {
+    "image": "DTD_veined_0144.jpg",
+    "gt_score": 14
+  },
+  {
+    "image": "DTD_spiralled_0100.jpg",
+    "gt_score": 17
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_mxnosok4ox2u7pa8.jpg",
+    "gt_score": 39
+  },
+  {
+    "image": "DTD_gauzy_0124.jpg",
+    "gt_score": 22
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_h5osoiws8083deqq.jpg",
+    "gt_score": 54
+  },
+  {
+    "image": "DTD_grooved_0123.jpg",
+    "gt_score": 12
+  },
+  {
+    "image": "DTD_pitted_0160.jpg",
+    "gt_score": 25
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_mwv9l7typlydt2jc.jpg",
+    "gt_score": 32
+  },
+  {
+    "image": "LSDIR_0082005.png",
+    "gt_score": 56
+  },
+  {
+    "image": "LSDIR_0061325.png",
+    "gt_score": 53
+  },
+  {
+    "image": "LSDIR_0073010.png",
+    "gt_score": 22
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_utgpvmwu7a0x6nif.jpg",
+    "gt_score": 46
+  },
+  {
+    "image": "DTD_striped_0092.jpg",
+    "gt_score": 7
+  },
+  {
+    "image": "DTD_banded_0111.jpg",
+    "gt_score": 11
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_eum6h59ycqpa996x.jpg",
+    "gt_score": 82
+  },
+  {
+    "image": "DTD_freckled_0133.jpg",
+    "gt_score": 6
+  },
+  {
+    "image": "DTD_crosshatched_0165.jpg",
+    "gt_score": 38
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_ulmjua3wqz8jc27y.jpg",
+    "gt_score": 50
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_8q5utzsmmy8zzjtt.jpg",
+    "gt_score": 51
+  },
+  {
+    "image": "Flickr2K_002076.png",
+    "gt_score": 50
+  },
+  {
+    "image": "LSDIR_0061291.png",
+    "gt_score": 40
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_6hh97j9lsmx97gdg.jpg",
+    "gt_score": 43
+  },
+  {
+    "image": "LSDIR_0071692.png",
+    "gt_score": 32
+  },
+  {
+    "image": "LSDIR_0043687.png",
+    "gt_score": 27
+  },
+  {
+    "image": "LSDIR_0054220.png",
+    "gt_score": 26
+  },
+  {
+    "image": "LSDIR_0034773.png",
+    "gt_score": 32
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_fej4e9qamym95dha.jpg",
+    "gt_score": 42
+  },
+  {
+    "image": "LSDIR_0061662.png",
+    "gt_score": 35
+  },
+  {
+    "image": "LSDIR_0021083.png",
+    "gt_score": 48
+  },
+  {
+    "image": "DTD_grooved_0084.jpg",
+    "gt_score": 11
+  },
+  {
+    "image": "LSDIR_0004119.png",
+    "gt_score": 31
+  },
+  {
+    "image": "Flickr2K_001087.png",
+    "gt_score": 35
+  },
+  {
+    "image": "DTD_lined_0003.jpg",
+    "gt_score": 12
+  },
+  {
+    "image": "LSDIR_0029043.png",
+    "gt_score": 52
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_bk0oh5c8hy74pihc.jpg",
+    "gt_score": 89
+  },
+  {
+    "image": "DTD_blotchy_0073.jpg",
+    "gt_score": 16
+  },
+  {
+    "image": "LSDIR_0048837.png",
+    "gt_score": 38
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_yh08jjp8s7qqpkbu.jpg",
+    "gt_score": 75
+  },
+  {
+    "image": "DTD_wrinkled_0118.jpg",
+    "gt_score": 9
+  },
+  {
+    "image": "LSDIR_0082433.png",
+    "gt_score": 17
+  },
+  {
+    "image": "LSDIR_0084790.png",
+    "gt_score": 68
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_fhr5kiuctl6p93vu.jpg",
+    "gt_score": 33
+  },
+  {
+    "image": "Big_and_Small_Objects_0.63_bird-hummingbird.jpg",
+    "gt_score": 12
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_wo4mhfkjh5epzvre.jpg",
+    "gt_score": 46
+  },
+  {
+    "image": "DTD_woven_0079.jpg",
+    "gt_score": 10
+  },
+  {
+    "image": "DTD_gauzy_0127.jpg",
+    "gt_score": 12
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_36wy13n4q1p4opmj.jpg",
+    "gt_score": 35
+  },
+  {
+    "image": "DTD_studded_0066.jpg",
+    "gt_score": 34
+  },
+  {
+    "image": "DTD_stained_0077.jpg",
+    "gt_score": 17
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_l47lb426tz622l95.jpg",
+    "gt_score": 26
+  },
+  {
+    "image": "LSDIR_0076058.png",
+    "gt_score": 51
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_3btpyyc8xqyikd49.jpg",
+    "gt_score": 43
+  },
+  {
+    "image": "LSDIR_0049617.png",
+    "gt_score": 36
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_iarwvsfuxr4ip5ev.jpg",
+    "gt_score": 64
+  },
+  {
+    "image": "Flickr2K_000432.png",
+    "gt_score": 72
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_5w9cirzuh79z97jw.jpg",
+    "gt_score": 54
+  },
+  {
+    "image": "LSDIR_0005871.png",
+    "gt_score": 30
+  },
+  {
+    "image": "LSDIR_0017744.png",
+    "gt_score": 34
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_0e994qjz3zvglo75.jpg",
+    "gt_score": 30
+  },
+  {
+    "image": "DTD_veined_0183.jpg",
+    "gt_score": 15
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_obkab9aaxpuuxcnd.jpg",
+    "gt_score": 88
+  },
+  {
+    "image": "Flickr2K_001191.png",
+    "gt_score": 37
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_7tot8k6265d037f1.jpg",
+    "gt_score": 38
+  },
+  {
+    "image": "LSDIR_0012521.png",
+    "gt_score": 59
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_idcbxc4c44btsymg.jpg",
+    "gt_score": 76
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_qrkeus2nlfonmpbl.jpg",
+    "gt_score": 41
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_hojv3a3ioswsaipc.jpg",
+    "gt_score": 80
+  },
+  {
+    "image": "LSDIR_0020249.png",
+    "gt_score": 61
+  },
+  {
+    "image": "LSDIR_0009780.png",
+    "gt_score": 47
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_dity2pn6bepw6e5t.jpg",
+    "gt_score": 22
+  },
+  {
+    "image": "LSDIR_0009716.png",
+    "gt_score": 39
+  },
+  {
+    "image": "DTD_grooved_0078.jpg",
+    "gt_score": 8
+  },
+  {
+    "image": "LSDIR_0073746.png",
+    "gt_score": 31
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_tyer5wvbfat3hwgi.jpg",
+    "gt_score": 72
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_p80ohjnfentd49kl.jpg",
+    "gt_score": 52
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_kx3p7nuvyphrp1xn.jpg",
+    "gt_score": 41
+  },
+  {
+    "image": "Flickr2K_001339.png",
+    "gt_score": 56
+  },
+  {
+    "image": "DTD_stratified_0089.jpg",
+    "gt_score": 17
+  },
+  {
+    "image": "LSDIR_0067870.png",
+    "gt_score": 30
+  },
+  {
+    "image": "LSDIR_0045664.png",
+    "gt_score": 29
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_xn3h1d8o6l6tncc6.jpg",
+    "gt_score": 52
+  },
+  {
+    "image": "DTD_honeycombed_0122.jpg",
+    "gt_score": 8
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_5z2tdlhg1oa44wtn.jpg",
+    "gt_score": 38
+  },
+  {
+    "image": "DTD_lacelike_0036.jpg",
+    "gt_score": 11
+  },
+  {
+    "image": "LSDIR_0062178.png",
+    "gt_score": 68
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_nd9o7wcfppy17xpm.jpg",
+    "gt_score": 50
+  },
+  {
+    "image": "Flickr2K_002409.png",
+    "gt_score": 82
+  },
+  {
+    "image": "Flickr2K_000895.png",
+    "gt_score": 36
+  },
+  {
+    "image": "LSDIR_0073892.png",
+    "gt_score": 70
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_9dd043a256n2joy9.jpg",
+    "gt_score": 45
+  },
+  {
+    "image": "LSDIR_0052249.png",
+    "gt_score": 31
+  },
+  {
+    "image": "LSDIR_0031294.png",
+    "gt_score": 26
+  },
+  {
+    "image": "LSDIR_0042880.png",
+    "gt_score": 41
+  },
+  {
+    "image": "LSDIR_0071308.png",
+    "gt_score": 34
+  },
+  {
+    "image": "LSDIR_0054833.png",
+    "gt_score": 42
+  },
+  {
+    "image": "LSDIR_0072888.png",
+    "gt_score": 65
+  },
+  {
+    "image": "LSDIR_0039149.png",
+    "gt_score": 39
+  },
+  {
+    "image": "LSDIR_0057681.png",
+    "gt_score": 45
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_d7grz6gkxbzhx04i.jpg",
+    "gt_score": 54
+  },
+  {
+    "image": "DTD_grooved_0160.jpg",
+    "gt_score": 12
+  },
+  {
+    "image": "LSDIR_0038181.png",
+    "gt_score": 36
+  },
+  {
+    "image": "LSDIR_0011559.png",
+    "gt_score": 23
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_20orkhuwcxy5fcyz.jpg",
+    "gt_score": 71
+  },
+  {
+    "image": "LSDIR_0056427.png",
+    "gt_score": 61
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_ikdpswoi6uc3jzsc.jpg",
+    "gt_score": 31
+  },
+  {
+    "image": "LSDIR_0005138.png",
+    "gt_score": 30
+  },
+  {
+    "image": "Unknown_office_zoom0_3.jpg",
+    "gt_score": 37
+  },
+  {
+    "image": "LSDIR_0028985.png",
+    "gt_score": 49
+  },
+  {
+    "image": "DTD_honeycombed_0066.jpg",
+    "gt_score": 21
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_pl0muammhhq34hnp.jpg",
+    "gt_score": 37
+  },
+  {
+    "image": "Flickr2K_000983.png",
+    "gt_score": 26
+  },
+  {
+    "image": "LSDIR_0023014.png",
+    "gt_score": 34
+  },
+  {
+    "image": "LSDIR_0078941.png",
+    "gt_score": 38
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_1tf75gpbm6qjcaeq.jpg",
+    "gt_score": 30
+  },
+  {
+    "image": "LSDIR_0070614.png",
+    "gt_score": 51
+  },
+  {
+    "image": "Flickr2K_002134.png",
+    "gt_score": 57
+  },
+  {
+    "image": "Flickr2K_000889.png",
+    "gt_score": 43
+  },
+  {
+    "image": "LSDIR_0007391.png",
+    "gt_score": 36
+  },
+  {
+    "image": "LSDIR_0033672.png",
+    "gt_score": 50
+  },
+  {
+    "image": "LSDIR_0007096.png",
+    "gt_score": 50
+  },
+  {
+    "image": "Flickr2K_000362.png",
+    "gt_score": 32
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_8whfqw34ztj6xom1.jpg",
+    "gt_score": 46
+  },
+  {
+    "image": "LSDIR_0011501.png",
+    "gt_score": 35
+  },
+  {
+    "image": "LSDIR_0010830.png",
+    "gt_score": 31
+  },
+  {
+    "image": "Flickr2K_000771.png",
+    "gt_score": 31
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_qciu8ya3606xpqwg.jpg",
+    "gt_score": 42
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_gvc0ur1nfmb7l65u.jpg",
+    "gt_score": 36
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_7zpthb5x5cu7g7el.jpg",
+    "gt_score": 34
+  },
+  {
+    "image": "LSDIR_0015180.png",
+    "gt_score": 40
+  },
+  {
+    "image": "LSDIR_0039790.png",
+    "gt_score": 61
+  },
+  {
+    "image": "DTD_stained_0055.jpg",
+    "gt_score": 18
+  },
+  {
+    "image": "LSDIR_0080478.png",
+    "gt_score": 32
+  },
+  {
+    "image": "LSDIR_0010872.png",
+    "gt_score": 31
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_su5hshu28ws95y3d.jpg",
+    "gt_score": 49
+  },
+  {
+    "image": "LSDIR_0007707.png",
+    "gt_score": 32
+  },
+  {
+    "image": "LSDIR_0043663.png",
+    "gt_score": 35
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_yooz9g7ljs4dqwqq.jpg",
+    "gt_score": 49
+  },
+  {
+    "image": "LSDIR_0022140.png",
+    "gt_score": 69
+  },
+  {
+    "image": "LSDIR_0036237.png",
+    "gt_score": 39
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_9d49gnpil22y39l8.jpg",
+    "gt_score": 72
+  },
+  {
+    "image": "LSDIR_0069049.png",
+    "gt_score": 39
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_04voktztvwbkquok.jpg",
+    "gt_score": 53
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_xa58xw1d5po2lymb.jpg",
+    "gt_score": 71
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_33b9i79p1pq31vj3.jpg",
+    "gt_score": 41
+  },
+  {
+    "image": "LSDIR_0079415.png",
+    "gt_score": 17
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_69kwq477yhfppu3n.jpg",
+    "gt_score": 55
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_tya3brxfqf8q8scs.jpg",
+    "gt_score": 69
+  },
+  {
+    "image": "LSDIR_0013989.png",
+    "gt_score": 69
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_wiat5w9plalj7u7m.jpg",
+    "gt_score": 66
+  },
+  {
+    "image": "LSDIR_0016674.png",
+    "gt_score": 25
+  },
+  {
+    "image": "DTD_blotchy_0094.jpg",
+    "gt_score": 18
+  },
+  {
+    "image": "Flickr2K_002122.png",
+    "gt_score": 35
+  },
+  {
+    "image": "Flickr2K_000248.png",
+    "gt_score": 61
+  },
+  {
+    "image": "Flickr2K_002586.png",
+    "gt_score": 40
+  },
+  {
+    "image": "Flickr2K_002336.png",
+    "gt_score": 47
+  },
+  {
+    "image": "Big_and_Small_Objects_Aductta15.jpg",
+    "gt_score": 10
+  },
+  {
+    "image": "DTD_stratified_0045.jpg",
+    "gt_score": 18
+  },
+  {
+    "image": "Big_and_Small_Objects_0.82_D_bathtub.jpg",
+    "gt_score": 25
+  },
+  {
+    "image": "Big_and_Small_Objects_1.04_treadmill.jpg",
+    "gt_score": 14
+  },
+  {
+    "image": "Big_and_Small_Objects_0.92_seahorse.jpg",
+    "gt_score": 12
+  },
+  {
+    "image": "DTD_honeycombed_0053.jpg",
+    "gt_score": 15
+  },
+  {
+    "image": "LSDIR_0057293.png",
+    "gt_score": 42
+  },
+  {
+    "image": "DTD_spiralled_0083.jpg",
+    "gt_score": 12
+  },
+  {
+    "image": "DTD_knitted_0160.jpg",
+    "gt_score": 12
+  },
+  {
+    "image": "LSDIR_0063524.png",
+    "gt_score": 22
+  },
+  {
+    "image": "DTD_crystalline_0208.jpg",
+    "gt_score": 10
+  },
+  {
+    "image": "LSDIR_0055949.png",
+    "gt_score": 62
+  },
+  {
+    "image": "LSDIR_0008757.png",
+    "gt_score": 52
+  },
+  {
+    "image": "LSDIR_0026397.png",
+    "gt_score": 45
+  },
+  {
+    "image": "LSDIR_0056567.png",
+    "gt_score": 7
+  },
+  {
+    "image": "LSDIR_0079599.png",
+    "gt_score": 38
+  },
+  {
+    "image": "LSDIR_0067353.png",
+    "gt_score": 56
+  },
+  {
+    "image": "LSDIR_0055731.png",
+    "gt_score": 52
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_lb51plobosnyprfm.jpg",
+    "gt_score": 52
+  },
+  {
+    "image": "LSDIR_0024946.png",
+    "gt_score": 53
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_x9i0wfk65sk41e3o.jpg",
+    "gt_score": 38
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_c2128g1p0ldv2yqi.jpg",
+    "gt_score": 60
+  },
+  {
+    "image": "DTD_matted_0124.jpg",
+    "gt_score": 11
+  },
+  {
+    "image": "LSDIR_0067196.png",
+    "gt_score": 25
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_y88r4yuqlqfmp796.jpg",
+    "gt_score": 23
+  },
+  {
+    "image": "LSDIR_0006569.png",
+    "gt_score": 42
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_7ybcrfprpg9hxwsn.jpg",
+    "gt_score": 52
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_idm29hwcvr8t17ps.jpg",
+    "gt_score": 42
+  },
+  {
+    "image": "LSDIR_0084553.png",
+    "gt_score": 18
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_2yi1pl2eklax8xj4.jpg",
+    "gt_score": 62
+  },
+  {
+    "image": "LSDIR_0067085.png",
+    "gt_score": 68
+  },
+  {
+    "image": "LSDIR_0084057.png",
+    "gt_score": 32
+  },
+  {
+    "image": "LSDIR_0026123.png",
+    "gt_score": 22
+  },
+  {
+    "image": "DTD_polka-dotted_0069.jpg",
+    "gt_score": 9
+  },
+  {
+    "image": "DTD_honeycombed_0114.jpg",
+    "gt_score": 25
+  },
+  {
+    "image": "DTD_meshed_0058.jpg",
+    "gt_score": 8
+  },
+  {
+    "image": "DTD_honeycombed_0063.jpg",
+    "gt_score": 14
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_ujjo3cnsf7ovbcpm.jpg",
+    "gt_score": 31
+  },
+  {
+    "image": "DTD_crosshatched_0127.jpg",
+    "gt_score": 10
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_jkgcmrudb2m2sop0.jpg",
+    "gt_score": 63
+  },
+  {
+    "image": "LSDIR_0028410.png",
+    "gt_score": 9
+  },
+  {
+    "image": "LSDIR_0036160.png",
+    "gt_score": 46
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_xw0mcuvq81l7z0dq.jpg",
+    "gt_score": 38
+  },
+  {
+    "image": "Flickr2K_002490.png",
+    "gt_score": 100
+  },
+  {
+    "image": "Scene_Size_x_Clutter_Database_fww1vw353vpbzu8r.jpg",
+    "gt_score": 39
+  },
+  {
+    "image": "Flickr2K_000864.png",
+    "gt_score": 68
+  }
+]
