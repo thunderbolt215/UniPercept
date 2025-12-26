@@ -1,6 +1,6 @@
 # Checkpoints and large files
 benchmark/VQA/
-benchmark/VR/IAA/ArtiMuse-10K/image/
+benchmark/VR/
 benchmark/VR/IAA/AVA/image/
 benchmark/VR/IAA/FLICKR-AES/image/
 benchmark/VR/IAA/PARA/image/
