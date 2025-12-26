@@ -50,6 +50,9 @@
     <img src="asserts/img/teaser_v4.jpg" alt="Dataset Distribution" width="1000" height="auto">
 </p>
 
+⭐️ More Research:
+- [ArtiMuse: Fine-Grained Image Aesthetics Assessment with Joint Scoring and Expert-Level Understanding](https://github.com/thunderbolt215/ArtiMuse)
+
 ## 🚀 News & Updates
 
 <!-- - [Dec 29, 2025] 🔥 We release **[UniPercept](https://huggingface.co/unipercept/UniPercept-8B)**, a strong baseline MLLM for perceptual image understanding, empowered by Domain-Adaptive Pre-Training and Task-Aligned RL.
