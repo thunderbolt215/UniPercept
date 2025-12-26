@@ -3998,5 +3998,13 @@
   {
     "image": "18_3.jpg",
     "gt_score": 5.98
+  },
+  {
+    "image": "0_396.jpg",
+    "gt_score": 4.49
+  },
+  {
+    "image": "10_13.jpg",
+    "gt_score": 6.29
   }
 ]

@@ -60,6 +60,7 @@ class InternVLChatConfig(PretrainedConfig):
             self.llm_config = Qwen2Config(**llm_config)
         else:
             raise ValueError('Unsupported architecture: {}'.format(llm_config['architectures'][0]))
+
         self.use_backbone_lora = use_backbone_lora
         self.use_llm_lora = use_llm_lora
         self.pad2square = pad2square

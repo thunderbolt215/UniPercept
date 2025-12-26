@@ -6,13 +6,13 @@
 <a href="https://arxiv.org/abs/xxxx.xxxxx" target="_blank">
     <img alt="arXiv" src="https://img.shields.io/badge/arXiv-UniPercept-red?logo=arxiv" height="25" />
 </a>
-<a href="https://unipercept.github.io/" target="_blank">
+<a href="https://thunderbolt215.github.io/Unipercept-project/" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/🌎_Website-UniPercept.github.io-blue" height="25" />
 </a>
-<a href="https://huggingface.co/collections/unipercept/models" target="_blank">
+<a href="https://huggingface.co/Thunderbolt215215/UniPercept" target="_blank">
     <img alt="Model" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Model-UniPercept-ffc107?color=ffc107&logoColor=white" height="25" />
 </a>
-<a href="https://huggingface.co/datasets/unipercept/unipercept-bench" target="_blank">
+<a href="https://huggingface.co/datasets/Thunderbolt215215/UniPercept-Bench" target="_blank">
     <img alt="Dataset" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Benchmark-UniPercept--Bench-ffc107?color=ffc107&logoColor=white" height="25" />
 </a>
 
@@ -52,19 +52,30 @@
 
 ## 🚀 News & Updates
 
-- [Dec 17, 2025] 🔥 We release **[UniPercept](https://huggingface.co/unipercept/UniPercept-8B)**, a strong baseline MLLM for perceptual image understanding, empowered by Domain-Adaptive Pre-Training and Task-Aligned RL.
-- [Dec 17, 2025] 🔥 We release **[UniPercept-Bench](https://huggingface.co/datasets/unipercept/unipercept-bench)**, a comprehensive perceptual-level MLLM benchmark spanning IAA, IQA, and ISTA domains, supporting both VR and VQA tasks.
-- [Dec 17, 2025] 🔥 We release the **[Technical Report](https://arxiv.org/abs/xxxx.xxxxx)** and **[Project Page](https://unipercept.github.io/)**.
+<!-- - [Dec 29, 2025] 🔥 We release **[UniPercept](https://huggingface.co/unipercept/UniPercept-8B)**, a strong baseline MLLM for perceptual image understanding, empowered by Domain-Adaptive Pre-Training and Task-Aligned RL.
+- [Dec 29, 2025] 🔥 We release **[UniPercept-Bench](https://huggingface.co/datasets/unipercept/unipercept-bench)**, a comprehensive perceptual-level MLLM benchmark spanning IAA, IQA, and ISTA domains, supporting both VR and VQA tasks.
+- [Dec 29, 2025] 🔥 We release the **[Technical Report](https://arxiv.org/abs/xxxx.xxxxx)** and **[Project Page](https://unipercept.github.io/)**. -->
+<!-- - [Dec 29, 2025] 🔥 **Major release of UniPercept!**
+  - We release the **[Technical Report](https://arxiv.org/abs/xxxx.xxxxx)** and **[Project Page](https://thunderbolt215.github.io/Unipercept-project/)**.
+  - We release **[UniPercept](https://huggingface.co/Thunderbolt215215/UniPercept)**, a strong baseline MLLM for perceptual image understanding, empowered by Domain-Adaptive Pre-Training and Task-Aligned RL.
+  - We release **[UniPercept-Bench](https://huggingface.co/datasets/Thunderbolt215215/UniPercept-Bench)**, a comprehensive perceptual-level MLLM benchmark spanning Image Aesthetics Assessment (IAA), Image Quality Assessment (IQA), and Image Structure & Texture Assessment (ISTA) across Visual Rating (VR) and Visual Question Answering (VQA) tasks. -->
+- [Dec 29, 2025] 🔥 **Official Release**
+  - **[Technical Report](https://arxiv.org/abs/xxxx.xxxxx)**
+  - **[Project Page](https://thunderbolt215.github.io/Unipercept-project/)**
+  - **[UniPercept-Bench](https://huggingface.co/datasets/Thunderbolt215215/UniPercept-Bench)**: A comprehensive evaluation suite for perceptual-level MLLMs, spanning Image Aesthetics Assessment (IAA), Image Quality Assessment (IQA), and Image Structure & Texture Assessment (ISTA) across Visual Rating (VR) and Visual Question Answering (VQA) tasks.
+  - **[UniPercept](https://huggingface.co/Thunderbolt215215/UniPercept)**: A powerful baseline MLLM specialized for perceptual image understanding, optimized via **Domain-Adaptive Pre-Training** and **Task-Aligned RL**.
 
+<!-- 
 ## 📖 Contents
 - [Abstract](#-abstract)
 - [UniPercept-Bench](#-unipercept-bench)
 - [UniPercept](#-unipercept)
-  - [Model Card](#model-card)
-  - [Performance](#performance)
-  - [Evaluation](#evaluation)
-  - [Applications](#applications)
-- [Citation](#-citation)
+  - [Setup](#%EF%B8%8F-setup)
+  - [Evaluation](#-evaluation)
+  - [Performance](#-performance)
+  - [Applications](#-applications)
+  - [UniPercept-Constructed Image Profiles](#%EF%B8%8F-unipercept-constructed-image-profiles)
+- [Citation](#-citation) -->
 
 ## 🌟 Abstract
 
@@ -87,12 +98,12 @@ We introduce **UniPercept-Bench**, a systematic benchmark for perceptual image u
     * **Visual Rating (VR)**: Quantitative scoring of perceptual attributes.
     * **Visual Question Answering (VQA)**: Fine-grained reasoning about visual properties. -->
 
-**Download**: 🤗 [UniPercept-Bench](https://huggingface.co/datasets/unipercept/unipercept-bench)
+**Download**: 🤗 [UniPercept-Bench](https://huggingface.co/datasets/Thunderbolt215215/UniPercept-Bench)
 <p align="center">
     <img src="asserts/img/unipercetp-bench.png" alt="Dataset Distribution" width="1000" height="auto">
 </p>
 
-## 🤖 UniPercept
+## 🔍 UniPercept
 
 **UniPercept** is a strong baseline MLLM trained via Domain-Adaptive Pre-Training and Task-Aligned RL to handle both **Visual Rating (VR)** (continuous scoring) and **Visual Question Answering (VQA)** (reasoning).
 
@@ -101,12 +112,13 @@ We introduce **UniPercept-Bench**, a systematic benchmark for perceptual image u
 ```
 conda create -n unipercept python=3.10
 conda activate unipercept
-bash setup.sh
+cd UniPercept
+pip install -r requirements.txt
 ```
 
 ### 📉 Evaluation
 
-Please download the UniPercept weights from [🤗 Hugging Face](https://huggingface.co/unipercept/UniPercept-8B) and place them in the `ckpt/` directory.
+Please download the UniPercept weights from [🤗 UniPercept](https://huggingface.co/Thunderbolt215215/UniPercept) and place them in the `ckpt/` directory.
 
 **Visual Rating (VR)**
 
@@ -114,16 +126,15 @@ Please download the datasets listed below and place them in the corresponding pa
 
 | Dataset | Domain | Download | Path |
 | :--- | :---: | :---: | :--- |
-| **ArtiMuse-10K** | IAA | [Link](#) | `benchmark/VR/IAA/ArtiMuse-10K/image` |
-| **AVA** | IAA | [Link](#) | `benchmark/VR/IAA/AVA/image` |
-| **FLICKR-AES** | IAA | [Link](#) | `benchmark/VR/IAA/FLICKR-AES/image` |
-| **PARA** | IAA | [Link](#) | `benchmark/VR/IAA/PARA/image` |
-| **TAD66K** | IAA | [Link](#) | `benchmark/VR/IAA/TAD66K/image` |
-| **KADID** | IQA | [Link](#) | `benchmark/VR/IQA/KADID/image` |
-| **KonIQ-10K** | IQA | [Link](#) | `benchmark/VR/IQA/KonIQ-10K/image` |
-| **PIPAL** | IQA | [Link](#) | `benchmark/VR/IQA/PIPAL/image` |
-| **SPAQ** | IQA | [Link](#) | `benchmark/VR/IQA/SPAQ/image` |
-| **ISTA-10K** | ISTA | [Link](#) | `benchmark/VR/ISTA/ISTA-10K/image` |
+| **ArtiMuse-10K** | IAA | 🤗 [Link](https://huggingface.co/datasets/Thunderbolt215215/ArtiMuse-10K) | `benchmark/VR/IAA/ArtiMuse-10K/image` |
+| **AVA** | IAA | [Link](https://github.com/imfing/ava_downloader) | `benchmark/VR/IAA/AVA/image` |
+| **TAD66K** | IAA | [Link](https://github.com/woshidandan/TANet-image-aesthetics-and-quality-assessment) | `benchmark/VR/IAA/TAD66K/image` |
+| **FLICKR-AES** | IAA | [Link](https://github.com/alanspike/personalizedImageAesthetics) | `benchmark/VR/IAA/FLICKR-AES/image` |
+| **KonIQ-10K** | IQA | [Link](https://database.mmsp-kn.de/koniq-10k-database.html) | `benchmark/VR/IQA/KonIQ-10K/image` |
+| **SPAQ** | IQA | [Link](https://github.com/h4nwei/SPAQ) | `benchmark/VR/IQA/SPAQ/image` |
+| **KADID** | IQA | [Link](https://database.mmsp-kn.de/kadid-10k-database.html) | `benchmark/VR/IQA/KADID/image` |
+| **PIPAL** | IQA | [Link](https://github.com/HaomingCai/PIPAL-dataset) | `benchmark/VR/IQA/PIPAL/image` |、
+| **ISTA-10K** | ISTA | 🤗 [Link](https://huggingface.co/datasets/Thunderbolt215215/UniPercept-Bench) | `benchmark/VR/ISTA/ISTA-10K/image` |
 
 After setting up the data, you can configure the target datasets and devices in `src/eval/eval_vr.sh`. The results will be saved to `results/vr`.
 
@@ -134,7 +145,7 @@ bash src/eval/eval_vr.sh
 
 **Visual Question Answering (VQA)**
 
-Please download **UniPercept-Bench-VQA** from [🤗 Hugging Face](https://huggingface.co/unipercept/UniPercept-8B) and place them into `benchmark/VQA`.
+Please download **UniPercept-Bench-VQA** from [🤗 UniPercept-Bench](https://huggingface.co/datasets/Thunderbolt215215/UniPercept-Bench) and place them into `benchmark/VQA`.
 Then you can configure the target domain in `src/eval/eval_vqa.sh`. The evaluation results will be saved to `results/vqa`.
 
 ```
@@ -142,16 +153,46 @@ cd UniPercept
 bash src/eval/eval_vqa.sh 
 ```
 
+**Interactive Image Perception**
+
+You can engage in comprehensive conversations with UniPercept regarding various aspects of an image, such as its aesthetics, quality, and structural details. An example is provided below, which you can customize based on your needs, or refer to [InternVL](https://github.com/OpenGVLab/InternVL) for further implementation details.
+
+```
+cd UniPercept
+bash src/eval/conversation.sh
+```
+
+
 ### 🏆 Performance
 
 UniPercept consistently outperforms proprietary models (e.g., GPT-4o, Gemini-2.5-Pro), leading open-source models (InternVL3, Qwen3-VL) and across all three perceptual domains (IAA, IQA, ISTA) and tasks (VR, VQA).
 
-<p align="center">
+<!-- <p align="center">
     <img src="asserts/img/vr.png" alt="Performance on UniPercept-Bench-VR" width="1000" height="auto">
     <img src="asserts/img/vqa-iaa.png" alt="Performance on UniPercept-Bench-VQA (IAA)" width="1000" height="auto">
     <img src="asserts/img/vqa-iqa.png" alt="Performance on UniPercept-Bench-VQA (IQA)" width="1000" height="auto">
     <img src="asserts/img/vqa-ista.png" alt="Performance on UniPercept-Bench-VQA (ISTA)" width="1000" height="auto">
-</p>
+</p> -->
+
+<details>
+  <summary>Performance on UniPercept-Bench-VR</summary>
+  <img src="asserts/img/vr.png" alt="Performance on UniPercept-Bench-VR" width="1000">
+</details>
+
+<details>
+  <summary>Performance on UniPercept-Bench-VQA (IAA)</summary>
+  <img src="asserts/img/vqa-iaa.png" alt="Performance on UniPercept-Bench-VQA (IAA)" width="1000">
+</details>
+
+<details>
+  <summary>Performance on UniPercept-Bench-VQA (IQA)</summary>
+  <img src="asserts/img/vqa-iqa.png" alt="Performance on UniPercept-Bench-VQA (IQA)" width="1000">
+</details>
+
+<details>
+  <summary>Performance on UniPercept-Bench-VQA (ISTA)</summary>
+  <img src="asserts/img/vqa-ista.png" alt="Performance on UniPercept-Bench-VQA (ISTA)" width="1000">
+</details>
 
 ### 🎨 Applications
 
