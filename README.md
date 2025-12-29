@@ -3,7 +3,7 @@
 
 # UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture
 
-<a href="https://arxiv.org/abs/xxxx.xxxxx" target="_blank">
+<a href="https://arxiv.org/abs/2512.21675" target="_blank">
     <img alt="arXiv" src="https://img.shields.io/badge/arXiv-UniPercept-red?logo=arxiv" height="25" />
 </a>
 <a href="https://thunderbolt215.github.io/Unipercept-project/" target="_blank">
@@ -63,7 +63,7 @@
   - We release **[UniPercept](https://huggingface.co/Thunderbolt215215/UniPercept)**, a strong baseline MLLM for perceptual image understanding, empowered by Domain-Adaptive Pre-Training and Task-Aligned RL.
   - We release **[UniPercept-Bench](https://huggingface.co/datasets/Thunderbolt215215/UniPercept-Bench)**, a comprehensive perceptual-level MLLM benchmark spanning Image Aesthetics Assessment (IAA), Image Quality Assessment (IQA), and Image Structure & Texture Assessment (ISTA) across Visual Rating (VR) and Visual Question Answering (VQA) tasks. -->
 - [Dec 29, 2025] 🔥 **Official Release**
-  - **[Technical Report](https://arxiv.org/abs/xxxx.xxxxx)**
+  - **[Technical Report](https://arxiv.org/abs/2512.21675)**
   - **[Project Page](https://thunderbolt215.github.io/Unipercept-project/)**
   - **[UniPercept-Bench](https://huggingface.co/datasets/Thunderbolt215215/UniPercept-Bench)**: A comprehensive evaluation suite for perceptual-level MLLMs, spanning Image Aesthetics Assessment (IAA), Image Quality Assessment (IQA), and Image Structure & Texture Assessment (ISTA) across Visual Rating (VR) and Visual Question Answering (VQA) tasks.
   - **[UniPercept](https://huggingface.co/Thunderbolt215215/UniPercept)**: A powerful baseline MLLM specialized for perceptual image understanding, optimized via **Domain-Adaptive Pre-Training** and **Task-Aligned RL**.
@@ -231,11 +231,14 @@ UniPercept performs comprehensive perceptual-level image analysis, delivering ac
 If you find UniPercept useful for your research, please consider citing our work:
 
 ```
-@article{unipercept2026,
-  title={UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture},
-  author={Anonymous},
-  journal={CVPR Submission},
-  year={2026}
+@misc{cao2025uniperceptunifiedperceptuallevelimage,
+      title={UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture}, 
+      author={Shuo Cao and Jiayang Li and Xiaohui Li and Yuandong Pu and Kaiwen Zhu and Yuanting Gao and Siqi Luo and Yi Xin and Qi Qin and Yu Zhou and Xiangyu Chen and Wenlong Zhang and Bin Fu and Yu Qiao and Yihao Liu},
+      year={2025},
+      eprint={2512.21675},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2512.21675}, 
 }
 
 @misc{cao2025artimusefinegrainedimageaesthetics,
