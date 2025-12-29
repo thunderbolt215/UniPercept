@@ -57,7 +57,7 @@
 
 <!-- - [Dec 29, 2025] 🔥 We release **[UniPercept](https://huggingface.co/unipercept/UniPercept-8B)**, a strong baseline MLLM for perceptual image understanding, empowered by Domain-Adaptive Pre-Training and Task-Aligned RL.
 - [Dec 29, 2025] 🔥 We release **[UniPercept-Bench](https://huggingface.co/datasets/unipercept/unipercept-bench)**, a comprehensive perceptual-level MLLM benchmark spanning IAA, IQA, and ISTA domains, supporting both VR and VQA tasks.
-- [Dec 29, 2025] 🔥 We release the **[Technical Report](https://arxiv.org/abs/xxxx.xxxxx)** and **[Project Page](https://unipercept.github.io/)**. -->
+- [Dec 29, 2025] 🔥 We release the **[Technical Report]([https://arxiv.org/abs/xxxx.xxxxx](https://arxiv.org/abs/2512.21675))** and **[Project Page](https://unipercept.github.io/)**. -->
 <!-- - [Dec 29, 2025] 🔥 **Major release of UniPercept!**
   - We release the **[Technical Report](https://arxiv.org/abs/xxxx.xxxxx)** and **[Project Page](https://thunderbolt215.github.io/Unipercept-project/)**.
   - We release **[UniPercept](https://huggingface.co/Thunderbolt215215/UniPercept)**, a strong baseline MLLM for perceptual image understanding, empowered by Domain-Adaptive Pre-Training and Task-Aligned RL.
@@ -65,7 +65,7 @@
 - [Dec 29, 2025] 🔥 **Official Release**
   - **[Technical Report](https://arxiv.org/abs/2512.21675)**
   - **[Project Page](https://thunderbolt215.github.io/Unipercept-project/)**
-  - **[UniPercept-Bench](https://huggingface.co/datasets/Thunderbolt215215/UniPercept-Bench)**: A comprehensive evaluation suite for perceptual-level MLLMs, spanning Image Aesthetics Assessment (IAA), Image Quality Assessment (IQA), and Image Structure & Texture Assessment (ISTA) across Visual Rating (VR) and Visual Question Answering (VQA) tasks.
+  - **[UniPercept-Bench](https://huggingface.co/datasets/Thunderbolt215215/UniPercept-Bench)**: A comprehensive perceptual-level understanding benchmark for MLLMs, spanning Image Aesthetics Assessment (IAA), Image Quality Assessment (IQA), and Image Structure & Texture Assessment (ISTA) across Visual Rating (VR) and Visual Question Answering (VQA) tasks.
   - **[UniPercept](https://huggingface.co/Thunderbolt215215/UniPercept)**: A powerful baseline MLLM specialized for perceptual image understanding, optimized via **Domain-Adaptive Pre-Training** and **Task-Aligned RL**.
 
 <!-- 
