@@ -229,7 +229,7 @@ UniPercept consistently outperforms proprietary models (e.g., GPT-4o, Gemini-2.5
     <img src="asserts/img/vqa-ista.png" alt="Performance on UniPercept-Bench-VQA (ISTA)" width="1000" height="auto">
 </p> -->
 
-<details>
+<details open>
   <summary>Performance on UniPercept-Bench-VR</summary>
   <img src="asserts/img/vr.png" alt="Performance on UniPercept-Bench-VR" width="1000">
 </details>
