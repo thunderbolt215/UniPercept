@@ -89,21 +89,14 @@ Simple Inference Example
 
 ```python
 from unipercept_reward import UniPerceptRewardInferencer
-
-# 1. Initialize the inferencer
-# This will automatically download weights from HF: Thunderbolt215215/UniPercept
 inferencer = UniPerceptRewardInferencer(device="cuda")
 
-# 2. Prepare image paths
 image_paths = [
     "test.png"
 ]
 
-# 3. Get reward scores
-# Returns a list of dictionaries containing scores for multiple dimensions
 rewards = inferencer.reward(image_paths=image_paths)
 
-# 4. Print results
 for path, score in zip(image_paths, rewards):
     if score:
         print(f"Image: {path}")
