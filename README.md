@@ -15,6 +15,9 @@
 <a href="https://huggingface.co/datasets/Thunderbolt215215/UniPercept-Bench" target="_blank">
     <img alt="Dataset" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Benchmark-UniPercept--Bench-ffc107?color=ffc107&logoColor=white" height="25" />
 </a>
+<a href="https://pypi.org/project/unipercept-reward/" target="_blank">
+    <img alt="PyPI" src="https://img.shields.io/badge/PyPI-unipercept--reward-3775A9?logo=pypi&logoColor=white" height="25" />
+</a>
 
 <div style="font-family: charter; text-align: center;">
 <a href="#" target="_blank">Shuo Cao</a><sup>*</sup>,
@@ -53,32 +56,81 @@
 ⭐️ More Research:
 - [ArtiMuse: Fine-Grained Image Aesthetics Assessment with Joint Scoring and Expert-Level Understanding](https://github.com/thunderbolt215/ArtiMuse)
 
-## 🚀 News & Updates
+## News & Updates
 
-<!-- - [Dec 29, 2025] 🔥 We release **[UniPercept](https://huggingface.co/unipercept/UniPercept-8B)**, a strong baseline MLLM for perceptual image understanding, empowered by Domain-Adaptive Pre-Training and Task-Aligned RL.
-- [Dec 29, 2025] 🔥 We release **[UniPercept-Bench](https://huggingface.co/datasets/unipercept/unipercept-bench)**, a comprehensive perceptual-level MLLM benchmark spanning IAA, IQA, and ISTA domains, supporting both VR and VQA tasks.
-- [Dec 29, 2025] 🔥 We release the **[Technical Report]([https://arxiv.org/abs/xxxx.xxxxx](https://arxiv.org/abs/2512.21675))** and **[Project Page](https://unipercept.github.io/)**. -->
-<!-- - [Dec 29, 2025] 🔥 **Major release of UniPercept!**
-  - We release the **[Technical Report](https://arxiv.org/abs/xxxx.xxxxx)** and **[Project Page](https://thunderbolt215.github.io/Unipercept-project/)**.
-  - We release **[UniPercept](https://huggingface.co/Thunderbolt215215/UniPercept)**, a strong baseline MLLM for perceptual image understanding, empowered by Domain-Adaptive Pre-Training and Task-Aligned RL.
-  - We release **[UniPercept-Bench](https://huggingface.co/datasets/Thunderbolt215215/UniPercept-Bench)**, a comprehensive perceptual-level MLLM benchmark spanning Image Aesthetics Assessment (IAA), Image Quality Assessment (IQA), and Image Structure & Texture Assessment (ISTA) across Visual Rating (VR) and Visual Question Answering (VQA) tasks. -->
+- [Jan 04, 2026] 📦 **Package Release**. We now support `unipercept-reward` as a standalone Python package! You can easily integrate perceptual scoring into your workflow via `pip install unipercept-reward`. Please refer to the **[Quick Start](#quick-start)** section for usage.
+
 - [Dec 29, 2025] 🔥 **Official Release**
   - **[Technical Report](https://arxiv.org/abs/2512.21675)**
   - **[Project Page](https://thunderbolt215.github.io/Unipercept-project/)**
   - **[UniPercept-Bench](https://huggingface.co/datasets/Thunderbolt215215/UniPercept-Bench)**: A comprehensive perceptual-level understanding benchmark for MLLMs, spanning Image Aesthetics Assessment (IAA), Image Quality Assessment (IQA), and Image Structure & Texture Assessment (ISTA) across Visual Rating (VR) and Visual Question Answering (VQA) tasks.
   - **[UniPercept](https://huggingface.co/Thunderbolt215215/UniPercept)**: A powerful baseline MLLM specialized for perceptual image understanding, optimized via **Domain-Adaptive Pre-Training** and **Task-Aligned RL**.
 
-<!-- 
-## 📖 Contents
-- [Abstract](#-abstract)
-- [UniPercept-Bench](#-unipercept-bench)
-- [UniPercept](#-unipercept)
-  - [Setup](#%EF%B8%8F-setup)
-  - [Evaluation](#-evaluation)
-  - [Performance](#-performance)
-  - [Applications](#-applications)
-  - [UniPercept-Constructed Image Profiles](#%EF%B8%8F-unipercept-constructed-image-profiles)
-- [Citation](#-citation) -->
+<!-- ## 🚀 Quick Start -->
+<h2 id="quick-start">🚀 Quick Start</h2>
+
+### Installation
+
+Install the package via pip:
+
+```
+pip install unipercept-reward
+```
+
+**Recommended:** To enable **Flash Attention** for faster inference and lower memory usage, install with the `flash` extra:
+
+```
+pip install "unipercept-reward[flash]"
+```
+
+### Basic Usage
+
+Simple Inference Example
+
+```python
+from unipercept_reward import UniPerceptRewardInferencer
+
+# 1. Initialize the inferencer
+# This will automatically download weights from HF: Thunderbolt215215/UniPercept
+inferencer = UniPerceptRewardInferencer(device="cuda")
+
+# 2. Prepare image paths
+image_paths = [
+    "test.png"
+]
+
+# 3. Get reward scores
+# Returns a list of dictionaries containing scores for multiple dimensions
+rewards = inferencer.reward(image_paths=image_paths)
+
+# 4. Print results
+for path, score in zip(image_paths, rewards):
+    if score:
+        print(f"Image: {path}")
+        print(f"  ➤ Aesthetics (IAA): {score['iaa']:.4f}")
+        print(f"  ➤ Quality (IQA):    {score['iqa']:.4f}")
+        print(f"  ➤ Structure (ISTA): {score['ista']:.4f}")
+
+```
+
+You can also load a model from a **local checkpoint** path:
+
+```python
+inferencer = UniPerceptRewardInferencer(
+    model_path="/path/to/local/checkpoint",
+    device="cuda"
+)
+```
+
+### Output Metrics
+
+The `.reward()` method returns a dictionary with three perceptual metrics for each image. All scores are on a scale of 0 to 100, where higher scores indicate better performance/quality.
+
+| Key | Metric Name | Description |
+| --- | --- | --- |
+| **`iaa`** | Image Aesthetics Assessment | Evaluates the aesthetic quality of the image. |
+| **`iqa`** | Image Quality Assessment | Evaluates the quality. |
+| **`ista`** | Image Structure & Texture Assessment | Evaluates the richness of structure and texture details. |
 
 ## 🌟 Abstract
 
@@ -177,7 +229,7 @@ UniPercept consistently outperforms proprietary models (e.g., GPT-4o, Gemini-2.5
     <img src="asserts/img/vqa-ista.png" alt="Performance on UniPercept-Bench-VQA (ISTA)" width="1000" height="auto">
 </p> -->
 
-<details open>
+<details>
   <summary>Performance on UniPercept-Bench-VR</summary>
   <img src="asserts/img/vr.png" alt="Performance on UniPercept-Bench-VR" width="1000">
 </details>
