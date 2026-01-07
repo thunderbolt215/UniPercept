@@ -271,6 +271,14 @@ UniPercept performs comprehensive perceptual-level image analysis, delivering ac
     <img src="asserts/img/profile3.png" alt="Performance on UniPercept-Bench-VR" width="1000" height="auto">
 </p>
 
+## 💐 Acknowledgments
+
+This project is built upon the following open-source projects:
+
+- **[InternVL](https://github.com/OpenGVLab/InternVL)**: We utilize their powerful multimodal model as our base model.
+- **[VLM-R1](https://github.com/om-ai-lab/VLM-R1)**: We adapt their powerful codebase for Task-aligned RL.
+- **[ArtiMuse](https://github.com/thunderbolt215/ArtiMuse)**: We adopt their "Token As Score" strategy for visual rating.
+
 ## ✏️ Citation
 
 If you find UniPercept useful for your research, please consider citing our work:
