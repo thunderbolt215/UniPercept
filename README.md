@@ -304,3 +304,7 @@ If you find UniPercept useful for your research, please consider citing our work
       url={https://arxiv.org/abs/2507.14533}, 
 }
 ```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=thunderbolt215/UniPercept&type=Date)](https://star-history.com/#thunderbolt215/UniPercept&Date)
