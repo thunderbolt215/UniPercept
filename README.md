@@ -209,7 +209,27 @@ You can engage in comprehensive conversations with UniPercept regarding various 
 cd UniPercept
 bash src/eval/conversation.sh
 ```
+We provide additional example prompts. Please refer to the table below.
+<details>
+  <summary>Conversation Prompts</summary>
 
+| Key | Prompt Content |
+| :--- | :--- |
+| **IAA-Comprehensive** | `Analyze the aesthetics of this image step by step, providing a comprehensive description without assigning any score.` |
+| **IAA-Composition & Design** | `Please evaluate the aesthetic quality of this image from the attribute of Composition & Design.` |
+| **IAA-Visual Elements & Structure** | `Please evaluate the aesthetic quality of this image from the attribute of Visual Elements & Structure.` |
+| **IAA-Technical Execution** | `Please evaluate the aesthetic quality of this image from the attribute of Technical Execution.` |
+| **IAA-Originality & Creativity** | `Please evaluate the aesthetic quality of this image from the attribute of Originality & Creativity.` |
+| **IAA-Theme & Communication** | `Please evaluate the aesthetic quality of this image from the attribute of Theme & Communication.` |
+| **IAA-Emotion & Viewer Response** | `Please evaluate the aesthetic quality of this image from the attribute of Emotion & Viewer Response.` |
+| **IAA-Overall Gestalt** | `Please evaluate the aesthetic quality of this image from the attribute of Overall Gestalt.` |
+| **IQA-Comprehensive** | `Evaluate the quality of this image step by step, offering a detailed descriptive analysis rather than a numerical score.` |
+| **IQA-Distortion Location** | `Analyze the Distortion Location of this image.` |
+| **IQA-Distortion Severity** | `Analyze the Distortion Severity of this image.` |
+| **IQA-Distortion Type** | `Analyze the Distortion Type of this image.` |
+| **ISTA-Structural Analysis** | `Perform a detailed hierarchical analysis of the image’s texture and structure. For complex scenes, break them down into distinct components and provide the results as structured JSON only, without any explanations.` |
+
+</details>
 
 ### 🏆 Performance
 
