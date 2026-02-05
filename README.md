@@ -50,6 +50,10 @@
 </div>
 
 <p align="center">
+  <strong>If you find this project useful, please give it a Star ⭐️. It means a lot to us!</strong>
+</p>
+
+<p align="center">
     <img src="asserts/img/teaser_v4.jpg" alt="Dataset Distribution" width="1000" height="auto">
 </p>
 
