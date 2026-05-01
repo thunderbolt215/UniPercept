@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture
+# [ICML26 Spotlight] UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture
 
 <a href="https://arxiv.org/abs/2512.21675" target="_blank">
     <img alt="arXiv" src="https://img.shields.io/badge/arXiv-UniPercept-red?logo=arxiv" height="25" />
@@ -61,6 +61,8 @@
 - [ArtiMuse: Fine-Grained Image Aesthetics Assessment with Joint Scoring and Expert-Level Understanding](https://github.com/thunderbolt215/ArtiMuse)
 
 ## News & Updates
+
+- [May 01, 2026] 🎉 **UniPercept has been accepted as a Spotlight paper at ICML 2026!**.
 
 - [Jan 04, 2026] 📦 **Package Release**. We now support `unipercept-reward` as a standalone Python package! You can easily integrate perceptual scoring into your workflow via `pip install unipercept-reward`. Please refer to the **[Quick Start](#quick-start)** section for usage.
 
