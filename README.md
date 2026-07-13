@@ -54,7 +54,7 @@
 </p>
 
 <p align="center">
-    <img src="asserts/img/teaser_v4.jpg" alt="Dataset Distribution" width="1000" height="auto">
+    <img src="asserts/img/teaser_v9.png" alt="Dataset Distribution" width="1000" height="auto">
 </p>
 
 ⭐️ More Research:
