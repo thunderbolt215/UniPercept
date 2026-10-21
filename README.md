@@ -59,6 +59,7 @@
 
 ⭐️ More Research:
 - [ArtiMuse: Fine-Grained Image Aesthetics Assessment with Joint Scoring and Expert-Level Understanding](https://github.com/thunderbolt215/ArtiMuse)
+- [StableI2I: Spotting Unintended Changes in Image-to-Image Transition](https://github.com/Henry-Lee-real/StableI2I)
 
 ## News & Updates
 
